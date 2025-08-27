@@ -1,0 +1,17 @@
+14:07:37 [AutoPlay][pakito][pakito] Auto turned ON with Skill ID: 12
+14:07:45 [AutoPlay][pakito][pakito] Auto turned OFF.
+15:44:56 [CommandAddPoint][pakito][testDK] - (Type: 0, Amount: 25000)
+15:45:02 [CommandAddPoint][pakito][testDK] - (Type: 1, Amount: 10000)
+15:45:06 [CommandAddPoint][pakito][testDK] - (Type: 2, Amount: 10000)
+15:45:13 [CommandAddPoint][pakito][testDK] - (Type: 3, Amount: 3000)
+15:46:41 [CommandAddPoint][pakito][testDK] - (Type: 3, Amount: 1000)
+15:46:47 [CommandAddPoint][pakito][testDK] - (Type: 0, Amount: 1000)
+17:44:12 [CommandAddPoint][pakito][testDW] - (Type: 0, Amount: 1500)
+17:44:15 [CommandAddPoint][pakito][testDW] - (Type: 2, Amount: 1000)
+17:44:20 [CommandAddPoint][pakito][testDW] - (Type: 1, Amount: 3000)
+17:44:25 [CommandAddPoint][pakito][testDW] - (Type: 3, Amount: 15000)
+17:44:57 [CommandAddPoint][pakito][testDW] - (Type: 3, Amount: 5000)
+17:47:51 [CommandAddPoint][pakito][testElf] - (Type: 0, Amount: 1500)
+17:48:03 [CommandAddPoint][pakito][testElf] - (Type: 1, Amount: 30000)
+17:48:09 [CommandAddPoint][pakito][testElf] - (Type: 2, Amount: 5000)
+17:48:13 [CommandAddPoint][pakito][testElf] - (Type: 3, Amount: 2000)

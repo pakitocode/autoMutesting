@@ -372,6 +372,8 @@
     <ClInclude Include="GoldenArcherBingo.h">
       <Filter>Events\GoldenArcher</Filter>
     </ClInclude>
+    <ClInclude Include="CustomAttack.h" />
+    <ClInclude Include="CustomPick.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Math.cpp">
@@ -668,6 +670,9 @@
     <ClCompile Include="GoldenArcherBingo.cpp">
       <Filter>Events\GoldenArcher</Filter>
     </ClCompile>
+    <ClCompile Include="ResetSystem.cpp" />
+    <ClCompile Include="CustomAttack.cpp" />
+    <ClCompile Include="CustomPick.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="GameServer.rc">

@@ -5,10 +5,10 @@ CustomerName=Nico
 ; Server Settings
 ;==================================================
 ; Name of the Server in the game
-ServerName=SV1
+ServerName=Pakito
 
 ; Name of the Window
-WindowName=Server 1
+WindowName=Memory
 
 ; Code of the Server -> Sync with ConnectServer/ServerList
 ServerCode=0

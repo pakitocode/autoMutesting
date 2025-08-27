@@ -1,0 +1,48 @@
+11:17:41 [ServerInfo] ChaosMix loaded successfully
+11:17:41 [ServerInfo] Character loaded successfully
+11:17:41 [ServerInfo] Command loaded successfully
+11:17:41 [ServerInfo] Common loaded successfully
+11:17:41 [ServerInfo] Custom loaded successfully
+11:17:41 [ServerInfo] Event loaded successfully
+11:17:42 [ServerInfo] EventItemBag loaded successfully
+11:17:42 [ServerInfo] Hack loaded successfully
+11:17:42 [ServerInfo] Item loaded successfully
+11:17:42 [ServerInfo] Monster loaded successfully
+11:17:42 [ServerInfo] Move loaded successfully
+11:17:42 [ServerInfo] Quest loaded successfully
+11:17:43 [ServerInfo] Shop loaded successfully
+11:17:43 [ServerInfo] Skill loaded successfully
+11:17:43 [ServerInfo] Util loaded successfully
+11:17:43 [ResetSystem] Bat dau nap file config reset...
+11:17:43 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+11:17:43 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+11:17:43 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+11:17:43 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+11:17:43 [ResetSystem] Da nap xong toan bo file config reset.
+11:17:43 [Blood Castle] (1) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (1) SetState EMPTY
+11:17:43 [Blood Castle] (2) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (2) SetState EMPTY
+11:17:43 [Blood Castle] (3) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (3) SetState EMPTY
+11:17:43 [Blood Castle] (4) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (4) SetState EMPTY
+11:17:43 [Blood Castle] (5) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (5) SetState EMPTY
+11:17:43 [Blood Castle] (6) Sync Start Time. [102] min remain
+11:17:43 [Blood Castle] (6) SetState EMPTY
+11:17:43 [Devil Square] (1) Sync Start Time. [132] min remain
+11:17:43 [Devil Square] (1) SetState EMPTY
+11:17:43 [Devil Square] (2) Sync Start Time. [132] min remain
+11:17:43 [Devil Square] (2) SetState EMPTY
+11:17:43 [Devil Square] (3) Sync Start Time. [132] min remain
+11:17:43 [Devil Square] (3) SetState EMPTY
+11:17:43 [Devil Square] (4) Sync Start Time. [132] min remain
+11:17:43 [Devil Square] (4) SetState EMPTY
+11:17:43 [Bingo] SetState BLANK
+11:17:43 [Bingo] SetState EMPTY
+11:17:43 [JoinServerConnection] Connected
+11:17:43 [DataServerConnection] Connected
+11:21:23 [JoinServerConnection] Disconnected
+11:21:25 [DataServerConnection] Disconnected
+11:21:25 [JoinServerConnection] Connect Failed

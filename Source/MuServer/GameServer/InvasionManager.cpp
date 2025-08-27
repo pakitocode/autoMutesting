@@ -9,6 +9,8 @@
 #include "ScheduleManager.h"
 #include "ServerInfo.h"
 #include "Util.h"
+#include "ResetSystem.h"
+
 
 CInvasionManager gInvasionManager;
 
@@ -311,6 +313,9 @@ void CInvasionManager::ProcState_EMPTY(INVASION_INFO* lpInfo)
 
 			gNotice.GCNoticeSendToAll(0, lpInfo->WarningMsg, lpInfo->InvasionName, (lpInfo->MinutesLeft + 1));
 		}
+		// =========== START OF FIX CODE ===========
+		//gItemBagManager.DropItemBySpecialValue(lpInfo->Index, lpTarget, lpObj->Map, lpObj->X, lpObj->Y);
+		// ============ END OF FIX CODE ============
 	}
 
 	if (lpInfo->RemainTime <= 0)
@@ -319,6 +324,9 @@ void CInvasionManager::ProcState_EMPTY(INVASION_INFO* lpInfo)
 		{
 			gNotice.GCNoticeSendToAll(0, lpInfo->RespawnMessage, lpInfo->InvasionName);
 		}
+		// =========== START OF FIX CODE ===========
+		//gItemBagManager.DropItemBySpecialValue(lpInfo->Index, lpTarget, lpObj->Map, lpObj->X, lpObj->Y);
+		// ============ END OF FIX CODE ============
 
 		this->SetState(lpInfo, INVASION_STATE_START);
 	}
@@ -688,6 +696,10 @@ void CInvasionManager::MonsterDieProc(LPOBJ lpObj, LPOBJ lpTarget)
 			{
 				gNotice.GCNoticeSendToAll(0, lpInfo->BossMessage, lpTarget->Name, lpObj->Name);
 			}
+			// =========== START OF FIX CODE ===========
+			//gItemBagManager.DropItemBySpecialValue(lpInfo->Index, lpTarget, lpObj->Map, lpObj->X, lpObj->Y);
+			// ============ END OF FIX CODE ============
+			
 		}
 	}
 }

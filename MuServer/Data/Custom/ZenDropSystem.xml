@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//==================Zen Drop System===============================//
+//Author: FoxWizzy
+//Date: 27.05.2025
+////////////////////////////////////////////////////////////////////
+//Enabled = 1/0 Enabled/Disabled
+//MultiplyByMonsterLevel = Multiply by monster level ? 1/0 Yes/No
+//MultiplyChanceRate = Multiply by ? Min 1 max 100
+//Map Number = Map number to enable on
+//MinMoneyCount = Must be > then MaxMoneyCount
+//MaxMoneyCount = Must be < then MinMoneyCount
+//===============================================================//
+-->
+
+<ZenDropSystem Enable="1" MultiplyByMonsterLevel="0" MultiplyChanceRate="50">
+	<Map Number="0" MinMoneyCount="10000" MaxMoneyCount="1000000" />
+	<Map Number="2" MinMoneyCount="500" MaxMoneyCount="1500" />
+	<Map Number="33" MinMoneyCount="20000" MaxMoneyCount="25000" />
+</ZenDropSystem>

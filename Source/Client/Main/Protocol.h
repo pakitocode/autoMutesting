@@ -13,6 +13,13 @@ struct PMSG_NOTICE_RECV
 	char message[256];
 };
 
+// --- Thêm vào file Protocol.h phía Client ---
+
+struct PMSG_F8_AUTOPLAY_TOGGLE_SEND
+{
+    PBMSG_HEAD header; // Tên header có thể là C1_HEADER, PHEAD... tùy source của bạn
+};
+
 struct PMSG_VIEWPORT_DESTROY_RECV
 {
 	PBMSG_HEAD header; // C1:14

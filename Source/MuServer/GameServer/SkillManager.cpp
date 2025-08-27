@@ -19,6 +19,7 @@
 #include "SkillHitBox.h"
 #include "Util.h"
 #include "Viewport.h"
+#include "Log.h"
 
 CSkillManager gSkillManager;
 
@@ -1824,6 +1825,12 @@ void CSkillManager::CGMultiSkillAttackRecv(PMSG_MULTI_SKILL_ATTACK_RECV* lpMsg, 
 		{
 			return;
 		}
+		// >> THÊM VÀO ĐÂY <<
+        if (lpObj->AttackCustom == 0)
+        {
+            lpObj->LastUsedSkill = lpSkill->m_index;
+            //gLog.Output(LOG_GENERAL, "[LAST_SKILL_UPDATE] Da cap nhat LastUsedSkill (Multi) cho %s thanh ID: %d", lpObj->Name, lpObj->LastUsedSkill);
+        }
 
 		if (!this->CheckSkillDelay(lpObj, lpSkill->m_index))
 		{
@@ -1968,6 +1975,12 @@ void CSkillManager::CGSkillAttackRecv(PMSG_SKILL_ATTACK_RECV* lpMsg, int aIndex)
 		{
 			return;
 		}
+		// Chỉ ghi nhớ skill mới khi auto đang TẮT
+    	if (lpObj->AttackCustom == 0)
+    	{
+        	lpObj->LastUsedSkill = lpSkill->m_index;
+			//gLog.Output(LOG_GENERAL, "[LAST_SKILL_UPDATE] Da cap nhat LastUsedSkill cho %s thanh ID: %d", lpObj->Name, lpObj->LastUsedSkill);
+    	}
 	}
 	else
 	{
@@ -2017,6 +2030,12 @@ void CSkillManager::CGDurationSkillAttackRecv(PMSG_DURATION_SKILL_ATTACK_RECV* l
 		{
 			return;
 		}
+		// >> THÊM VÀO ĐÂY <<
+        if (lpObj->AttackCustom == 0)
+        {
+            lpObj->LastUsedSkill = lpSkill->m_index;
+            //gLog.Output(LOG_GENERAL, "[LAST_SKILL_UPDATE] Da cap nhat LastUsedSkill (Duration) cho %s thanh ID: %d", lpObj->Name, lpObj->LastUsedSkill);
+        }
 
 		if (!this->CheckSkillDelay(lpObj, lpSkill->m_index))
 		{

@@ -1,0 +1,57 @@
+10:31:40 [SocketManager] Server started at port [55990]
+10:31:44 [ServerManager][0] AddServer (127.0.0.1)
+10:31:44 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+10:32:21 [SocketManager] Server started at port [55990]
+10:32:25 [ServerManager][0] AddServer (127.0.0.1)
+10:32:25 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+10:42:40 [SocketManager] Server started at port [55990]
+10:42:44 [ServerManager][0] AddServer (127.0.0.1)
+10:42:44 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+11:14:10 [SocketManager] Server started at port [55990]
+11:14:14 [ServerManager][0] AddServer (127.0.0.1)
+11:14:14 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+11:15:00 [SocketManager] Server started at port [55990]
+11:15:04 [ServerManager][0] AddServer (127.0.0.1)
+11:15:04 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+11:16:32 [SocketManager] Server started at port [55990]
+11:16:36 [ServerManager][0] AddServer (127.0.0.1)
+11:16:36 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+11:35:04 [SocketManager] Server started at port [55990]
+11:35:08 [ServerManager][0] AddServer (127.0.0.1)
+11:35:08 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+13:59:11 [SocketManager] Server started at port [55990]
+13:59:17 [ServerManager][0] AddServer (127.0.0.1)
+13:59:17 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+14:00:18 [SocketManager] Server started at port [55990]
+14:00:22 [ServerManager][0] AddServer (127.0.0.1)
+14:00:22 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+14:12:33 [SocketManager] Server started at port [55990]
+14:12:37 [ServerManager][0] AddServer (127.0.0.1)
+14:12:37 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+14:23:51 [SocketManager] Server started at port [55990]
+14:23:55 [ServerManager][0] AddServer (127.0.0.1)
+14:23:55 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+14:28:05 [SocketManager] Server started at port [55990]
+14:28:09 [ServerManager][0] AddServer (127.0.0.1)
+14:28:09 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+14:29:06 [SocketManager] Server started at port [55990]
+14:29:10 [ServerManager][0] AddServer (127.0.0.1)
+14:29:10 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+15:36:52 [SocketManager] Server started at port [55990]
+15:36:56 [ServerManager][0] AddServer (127.0.0.1)
+15:36:56 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+15:42:42 [SocketManager] Server started at port [55990]
+15:42:46 [ServerManager][0] AddServer (127.0.0.1)
+15:42:46 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+15:57:10 [SocketManager] Server started at port [55990]
+15:57:14 [ServerManager][0] AddServer (127.0.0.1)
+15:57:14 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+16:06:52 [SocketManager] Server started at port [55990]
+16:06:56 [ServerManager][0] AddServer (127.0.0.1)
+16:06:56 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+16:21:56 [SocketManager] Server started at port [55990]
+16:22:00 [ServerManager][0] AddServer (127.0.0.1)
+16:22:00 [ServerManager][0] ServerInfo (Pakito) (55901) (0)
+20:04:01 [SocketManager] Server started at port [55990]
+20:04:06 [ServerManager][0] AddServer (127.0.0.1)
+20:04:06 [ServerManager][0] ServerInfo (Pakito) (55901) (0)

@@ -9,5 +9,9 @@
 14,005		*		255		*		//Mana Potion
 14,006		*		255		*		//Large Mana Potion
 14,008		*		255		*		//Antidote
-
+12,015		*		30		*		//Jewel of chaos
+14,013		*		30		*		//Jewel of bless
+14,014		*		30		*		//Jewel of soul
+14,016		*		30		*		//Jewel of life
+14,022		*		30		*		//Jewel of creation
 end

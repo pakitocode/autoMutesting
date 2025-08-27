@@ -1,0 +1,16 @@
+11:17:41 [SocketManager] Server started at port [55901]
+11:18:08 [ObjectManager][9000] AddClient (192.168.2.65)
+11:18:14 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:18:18 [ObjectManager][9000] AddCharacterInfo (testDW)
+11:20:13 [ObjectManager][9000] DelCharacterInfo (testDW)
+11:20:13 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:20:13 [ObjectManager][9000] DelClient (192.168.2.65)
+11:20:32 [ObjectManager][9000] AddClient (192.168.2.65)
+11:20:37 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:20:39 [ObjectManager][9000] AddCharacterInfo (pakito)
+11:20:52 [ObjectManager][9000] DelCharacterInfo (pakito)
+11:20:55 [ObjectManager][9000] AddCharacterInfo (testDW)
+11:21:10 [ObjectManager][9000] DelCharacterInfo (testDW)
+11:21:10 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:21:10 [ObjectManager][9000] DelClient (192.168.2.65)
+11:21:25 [JoinServerConnection] connect() failed with error: 10061

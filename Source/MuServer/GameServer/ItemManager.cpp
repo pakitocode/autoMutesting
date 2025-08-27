@@ -429,29 +429,39 @@ int CItemManager::GetInventoryItemSlot(LPOBJ lpObj, int index, int level)
 
 int CItemManager::GetInventoryItemCount(LPOBJ lpObj, int index, int level)
 {
-	int count = 0;
+    // LOG BẮT ĐẦU: Ghi lại thông tin vật phẩm đang được tìm kiếm
+    gLog.Output(LOG_GENERAL, "[DEBUG_ITEM_COUNT] Bat dau dem item cho [%s]. Tim ID: %d, Level: %d", lpObj->Name, index, level);
 
-	int MaxValue = this->GetInventoryMaxValue(lpObj);
+    int count = 0;
 
-	for (int n = 0; n < MaxValue; n++)
-	{
-		if (lpObj->Inventory[n].IsItem() != 0)
-		{
-			if (lpObj->Inventory[n].m_Index == index && (level == -1 || lpObj->Inventory[n].m_Level == level))
-			{
-				if (gItemStack.GetItemMaxStack(lpObj->Inventory[n].m_Index, lpObj->Inventory[n].m_Level) == 0)
-				{
-					count++;
-				}
-				else
-				{
-					count += (int)lpObj->Inventory[n].m_Durability;
-				}
-			}
-		}
-	}
+    int MaxValue = this->GetInventoryMaxValue(lpObj);
 
-	return count;
+    // Vòng lặp quét hòm đồ (logic gốc được giữ nguyên)
+    for (int n = 0; n < MaxValue; n++)
+    {
+        if (lpObj->Inventory[n].IsItem() != 0)
+        {
+            // LOG TÌM THẤY: Ghi lại thông tin của TẤT CẢ vật phẩm có trong hòm đồ
+            gLog.Output(LOG_GENERAL, "[DEBUG_ITEM_COUNT] >> Slot %d, co item ID: %d, Level: %d, Dur: %d", n, lpObj->Inventory[n].m_Index, lpObj->Inventory[n].m_Level, (int)lpObj->Inventory[n].m_Durability);
+
+            if (lpObj->Inventory[n].m_Index == index && (level == -1 || lpObj->Inventory[n].m_Level == level))
+            {
+                if (gItemStack.GetItemMaxStack(lpObj->Inventory[n].m_Index, lpObj->Inventory[n].m_Level) == 0)
+                {
+                    count++;
+                }
+                else
+                {
+                    count += (int)lpObj->Inventory[n].m_Durability;
+                }
+            }
+        }
+    }
+
+    // LOG KẾT THÚC: Ghi lại kết quả cuối cùng
+    gLog.Output(LOG_GENERAL, "[DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: %d", count);
+
+    return count;
 }
 
 int CItemManager::GetInventoryEmptySlotCount(LPOBJ lpObj)
@@ -570,6 +580,50 @@ bool CItemManager::CheckItemMoveToInventory(LPOBJ lpObj, CItem* lpItem, int slot
 	if (lpItem->IsItem() == 0)
 	{
 		return 0;
+	}
+
+	// NEU LA DI CHUYEN VAO CAC O TRANG BI (0 -> 11)
+	if (INVENTORY_WEAR_RANGE(slot) != 0)
+	{
+		// ===================[ BAT DAU CODE MOI ]===================
+		// KIEM TRA TOAN BO YEU CAU TRUOC KHI CHO PHEP MAC
+		if (this->CheckItemRequireLevel(lpObj, lpItem) == 0)
+		{
+			// Optional: Gui thong bao cho nguoi choi "Chua du Level"
+			// gNotice.GCNoticeSend(lpObj->Index, 1, "Ban chua du Level de su dung trang bi nay.");
+			return 0; // -> Tra ve 0 de CHAN viec mac do
+		}
+
+		if (this->CheckItemRequireStrength(lpObj, lpItem) == 0)
+		{
+			// Optional: Gui thong bao "Chua du Strength"
+			return 0;
+		}
+
+		if (this->CheckItemRequireDexterity(lpObj, lpItem) == 0)
+		{
+			// Optional: Gui thong bao "Chua du Agility"
+			return 0;
+		}
+
+		if (this->CheckItemRequireVitality(lpObj, lpItem) == 0)
+		{
+			// Optional: Gui thong bao "Chua du Vitality"
+			return 0;
+		}
+
+		if (this->CheckItemRequireEnergy(lpObj, lpItem) == 0)
+		{
+			// Optional: Gui thong bao "Chua du Energy"
+			return 0;
+		}
+
+		if (this->CheckItemRequireClass(lpObj, lpItem->m_Index) == 0)
+		{
+			// Optional: Gui thong bao "Khong phu hop chung toc"
+			return 0;
+		}
+	
 	}
 
 	if (INVENTORY_WEAR_RANGE(slot) == 0)
@@ -1656,46 +1710,48 @@ void CItemManager::UpdateInventoryViewport(int aIndex, int slot)
 	this->GCItemChangeSend(aIndex, slot);
 }
 
+// Dán code này vào file ItemManager.cpp, thay thế hàm DeleteInventoryItemCount cũ
+
 void CItemManager::DeleteInventoryItemCount(LPOBJ lpObj, int index, int level, int count)
 {
-	int MaxValue = this->GetInventoryMaxValue(lpObj);
+	// Ghi log để xác nhận hàm được gọi đúng cách
+	//gLog.Output(LOG_GENERAL, "[DeleteItem] Bat dau xoa %d item ID %d cho [%s]", count, index, lpObj->Name);
 
-	for (int n = 0; n < MaxValue, count > 0; n++)
+	int MaxValue = this->GetInventoryMaxValue(lpObj);
+	int deletedCount = 0;
+
+	// === BƯỚC 1: Tìm và đánh dấu các slot cần xóa ===
+	int slotsToDelete[INVENTORY_SIZE]; // Tạo một mảng tạm để lưu vị trí các slot
+	int itemsToDelete = 0;
+
+	for (int n = 0; n < MaxValue; n++)
 	{
+		if (itemsToDelete >= count) // Nếu đã tìm đủ số lượng thì dừng
+		{
+			break;
+		}
+		
 		if (lpObj->Inventory[n].IsItem() != 0)
 		{
-			if (lpObj->Inventory[n].m_Index == index && lpObj->Inventory[n].m_Level == level)
+			if (lpObj->Inventory[n].m_Index == index && (level == -1 || lpObj->Inventory[n].m_Level == level))
 			{
-				if (gItemStack.GetItemMaxStack(lpObj->Inventory[n].m_Index, lpObj->Inventory[n].m_Level) <= 0)
-				{
-					this->InventoryDelItem(lpObj->Index, n);
-
-					this->GCItemDeleteSend(lpObj->Index, n, 1);
-
-					count--;
-				}
-				else
-				{
-					if (lpObj->Inventory[n].m_Durability > count)
-					{
-						lpObj->Inventory[n].m_Durability -= count;
-
-						this->GCItemDurSend(lpObj->Index, n, (BYTE)lpObj->Inventory[n].m_Durability, 0);
-
-						count = 0;
-					}
-					else
-					{
-						count -= (int)lpObj->Inventory[n].m_Durability;
-
-						this->InventoryDelItem(lpObj->Index, n);
-
-						this->GCItemDeleteSend(lpObj->Index, n, 1);
-					}
-				}
+				slotsToDelete[itemsToDelete] = n; // Lưu vị trí slot vào mảng tạm
+				itemsToDelete++;
 			}
 		}
 	}
+	
+	// === BƯỚC 2: Duyệt qua mảng tạm và thực hiện xóa ===
+	// Quá trình xóa giờ đây an toàn hơn vì nó không nằm trong vòng lặp duyệt chính
+	for (int i = 0; i < itemsToDelete; i++)
+	{
+		int slot = slotsToDelete[i];
+		this->InventoryDelItem(lpObj->Index, slot);
+		this->GCItemDeleteSend(lpObj->Index, slot, 1);
+		deletedCount++;
+	}
+
+	//gLog.Output(LOG_GENERAL, "[DeleteItem] Xoa xong. Da xoa %d/%d item.", deletedCount, count);
 }
 
 void CItemManager::DecreaseItemDur(LPOBJ lpObj, int slot, int dur)

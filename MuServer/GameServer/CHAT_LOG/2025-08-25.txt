@@ -1,0 +1,6 @@
+09:10:39 [General][pakito][pakito] - (Message: /move Noria)
+09:10:57 [General][pakito][pakito] - (Message: /move Devias)
+09:11:31 [General][pakito][pakito] - (Message: /move Noria)
+09:12:37 [General][pakito][pakito] - (Message: /move Devias)
+09:16:13 [General][pakito][pakito] - (Message: /move Noria)
+09:21:33 [General][pakito][pakito] - (Message: /move Noria)

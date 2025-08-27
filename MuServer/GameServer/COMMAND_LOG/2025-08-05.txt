@@ -1,0 +1,2 @@
+17:43:46 [CommandAddPoint][pakito][pakito] - (Type: 3, Amount: 2000)
+17:44:09 [CommandAddPoint][pakito][pakito] - (Type: 0, Amount: 10000)

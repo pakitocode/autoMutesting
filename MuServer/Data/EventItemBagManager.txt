@@ -1,39 +1,41 @@
-//ItemIndex	ItemLevel	MonsterClass	SpecialValue	Comment
-14,011		0		*		*		//Box of Luck
-*		*		55		*		//Skeleton King
-*		*		42		*		//Red Dragon
-14,011		1		*		*		//Star of Christmas
-14,011		3		*		*		//Heart of Love
-14,011		5		*		*		//Silver Medal
-14,011		6		*		*		//Gold Medal
-14,011		7		*		*		//Box of Heaven
-14,011		8		*		*		//Box of Kundun 1
-14,011		9		*		*		//Box of Kundun 2
-14,011		10		*		*		//Box of Kundun 3
-14,011		11		*		*		//Box of Kundun 4
-14,011		12		*		*		//Box of Kundun 5
-*		*		*		0		//Devil Square 1
-*		*		*		1		//Devil Square 2
-*		*		*		2		//Devil Square 3
-*		*		*		3		//Devil Square 4
-*		*		*		4		//Blood Castle 1
-*		*		*		5		//Blood Castle 2
-*		*		*		6		//Blood Castle 3
-*		*		*		7		//Blood Castle 4
-*		*		*		8		//Blood Castle 5
-*		*		*		9		//Blood Castle 6
-*		*		43		*		//Golden Budge Dragon
-*		*		78		*		//Golden Goblin
-*		*		54		*		//Golden Soldier
-*		*		53		*		//Golden Titan
-*		*		79		*		//Golden Dragon
-*		*		80		*		//Golden Lizard King
-*		*		81		*		//Golden Vepar
-*		*		82		*		//Golden Tantalos
-*		*		83		*		//Golden Iron Wheel
-*		*		*		10		//Golden Archer Rena Reward 1
-*		*		*		11		//Golden Archer Rena Reward 2
-*		*		*		12		//Golden Archer Rena Reward 3
-*		*		*		13		//Golden Archer Rena Reward 4
-*		*		*		14		//Golden Archer Bingo
+//Index: so thu tu file trong folder EventItemBag
+//ItemIndex	ItemLevel		MonsterClass	SpecialValue	Comment
+14,011		0		*		*		//000 Box of Luck
+*		*		55		*		//001 Skeleton King
+*		*		44		*		//002 Red Dragon
+14,011		1		*		*		//003 Star of Christmas
+14,011		2		*		*		//004 Heart of Love
+14,011		3		*		*		//005 Silver Medal
+14,011		4		*		*		//006 Gold Medal
+14,011		7		*		*		//007 Box of Heaven
+14,011		8		*		*		//008 Box of Kundun 1
+14,011		9		*		*		//009 Box of Kundun 2
+14,011		10		*		*		//010 Box of Kundun 3
+14,011		11		*		*		//011 Box of Kundun 4
+14,011		12		*		*		//012 Box of Kundun 5
+*		*		*		0		//013 Devil Square 1
+*		*		*		1		//014 Devil Square 2
+*		*		*		2		//015 Devil Square 3
+*		*		*		3		//016 Devil Square 4
+*		*		*		4		//017 Blood Castle 1
+*		*		*		5		//018 Blood Castle 2
+*		*		*		6		//019 Blood Castle 3
+*		*		*		7		//020 Blood Castle 4
+*		*		*		8		//021 Blood Castle 5
+*		*		*		9		//022 Blood Castle 6
+*		*		43		*		//023 Golden Budge Dragon
+*		*		78		*		//024 Golden Goblin
+*		*		54		*		//025 Golden Soldier
+*		*		53		*		//026 Golden Titan
+*		*		79		*		//027 Golden Dragon
+*		*		80		*		//028 Golden Lizard King
+*		*		81		*		//029 Golden Vepar
+*		*		82		*		//030 Golden Tantalos
+*		*		83		*		//031 Golden Iron Wheel
+*		*		*		10		//032 Golden Archer Rena Reward 1
+*		*		*		11		//033 Golden Archer Rena Reward 2
+*		*		*		12		//034 Golden Archer Rena Reward 3
+*		*		*		13		//035 Golden Archer Rena Reward 4
+*		*		*		14		//036 Golden Archer Bingo
+*		*		42		*		//037 Giant Dragon
 end

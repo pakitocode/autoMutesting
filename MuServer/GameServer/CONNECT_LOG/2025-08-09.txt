@@ -1,0 +1,40 @@
+10:24:49 [SocketManager] Server started at port [55901]
+10:25:17 [SocketManager] Server started at port [55901]
+10:26:49 [JoinServerConnection] connect() failed with error: 10061
+10:27:01 [SocketManager] Server started at port [55901]
+12:45:19 [SocketManager] Server started at port [55901]
+12:45:46 [ObjectManager][9000] AddClient (192.168.2.65)
+12:46:04 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+12:46:09 [ObjectManager][9000] AddCharacterInfo (pakito)
+13:04:51 [SocketManager] Server started at port [55901]
+13:05:02 [ObjectManager][9000] AddClient (192.168.2.65)
+13:05:14 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:05:17 [ObjectManager][9000] AddCharacterInfo (pakito)
+13:20:17 [ObjectManager][9000] DelCharacterInfo (pakito)
+13:20:17 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:20:17 [ObjectManager][9000] DelClient (192.168.2.65)
+13:20:17 [SocketManager] WSASend() failed with error: 10038
+14:18:13 [ObjectManager][9000] AddClient (192.168.2.65)
+14:18:21 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:18:23 [ObjectManager][9000] AddCharacterInfo (pakito)
+14:31:55 [ObjectManager][9000] DelCharacterInfo (pakito)
+14:31:55 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:31:55 [ObjectManager][9000] DelClient (192.168.2.65)
+14:31:55 [SocketManager] WSASend() failed with error: 10038
+14:32:20 [SocketManager] Server started at port [55901]
+14:32:34 [ObjectManager][9000] AddClient (192.168.2.65)
+14:32:48 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:32:50 [ObjectManager][9000] AddCharacterInfo (pakito)
+14:39:03 [ObjectManager][9000] DelCharacterInfo (pakito)
+14:39:03 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:39:03 [ObjectManager][9000] DelClient (192.168.2.65)
+14:39:03 [SocketManager] WSASend() failed with error: 10038
+14:39:25 [SocketManager] Server started at port [55901]
+14:39:33 [ObjectManager][9000] AddClient (192.168.2.65)
+14:39:38 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:39:41 [ObjectManager][9000] AddCharacterInfo (pakito)
+14:41:13 [ObjectManager][9000] DelCharacterInfo (pakito)
+14:41:13 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:41:13 [ObjectManager][9000] DelClient (192.168.2.65)
+14:41:13 [SocketManager] WSASend() failed with error: 10038
+14:41:27 [JoinServerConnection] connect() failed with error: 10061

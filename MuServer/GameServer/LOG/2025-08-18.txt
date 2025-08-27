@@ -1,0 +1,2439 @@
+09:27:53 [ServerInfo] ChaosMix loaded successfully
+09:27:53 [ServerInfo] Character loaded successfully
+09:27:53 [ServerInfo] Command loaded successfully
+09:27:53 [ServerInfo] Common loaded successfully
+09:27:53 [ServerInfo] Custom loaded successfully
+09:27:53 [ServerInfo] Event loaded successfully
+09:27:53 [ServerInfo] EventItemBag loaded successfully
+09:27:53 [ServerInfo] Hack loaded successfully
+09:27:53 [ServerInfo] Item loaded successfully
+09:27:53 [ServerInfo] Monster loaded successfully
+09:27:53 [ServerInfo] Move loaded successfully
+09:27:53 [ServerInfo] Quest loaded successfully
+09:27:53 [ServerInfo] Shop loaded successfully
+09:27:53 [ServerInfo] Skill loaded successfully
+09:27:53 [ServerInfo] Util loaded successfully
+09:27:53 [ResetSystem] Bat dau nap file config reset...
+09:27:53 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+09:27:53 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+09:27:53 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+09:27:53 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+09:27:53 [ResetSystem] Da nap xong toan bo file config reset.
+09:27:54 [Blood Castle] (1) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (1) SetState EMPTY
+09:27:54 [Blood Castle] (2) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (2) SetState EMPTY
+09:27:54 [Blood Castle] (3) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (3) SetState EMPTY
+09:27:54 [Blood Castle] (4) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (4) SetState EMPTY
+09:27:54 [Blood Castle] (5) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (5) SetState EMPTY
+09:27:54 [Blood Castle] (6) Sync Start Time. [32] min remain
+09:27:54 [Blood Castle] (6) SetState EMPTY
+09:27:54 [Devil Square] (1) Sync Start Time. [62] min remain
+09:27:54 [Devil Square] (1) SetState EMPTY
+09:27:54 [Devil Square] (2) Sync Start Time. [62] min remain
+09:27:54 [Devil Square] (2) SetState EMPTY
+09:27:54 [Devil Square] (3) Sync Start Time. [62] min remain
+09:27:54 [Devil Square] (3) SetState EMPTY
+09:27:54 [Devil Square] (4) Sync Start Time. [62] min remain
+09:27:54 [Devil Square] (4) SetState EMPTY
+09:27:54 [Bingo] SetState BLANK
+09:27:54 [Bingo] SetState EMPTY
+09:27:54 [JoinServerConnection] Connected
+09:27:54 [DataServerConnection] Connected
+09:28:22 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:28:22 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:28:22 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:28:22 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 24
+09:28:22 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:28:22 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:28:22 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+09:28:22 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:28:22 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+09:28:22 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:28:22 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+09:28:22 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:28:22 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+09:28:22 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+09:28:22 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+09:28:22 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 173, Y: 211
+09:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 111, Y: 223
+09:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 233, Y: 45
+09:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 13
+09:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 47, Y: 160
+09:53:50 [JoinServerConnection] Disconnected
+09:53:52 [DataServerConnection] Disconnected
+09:56:27 [ServerInfo] ChaosMix loaded successfully
+09:56:27 [ServerInfo] Character loaded successfully
+09:56:27 [ServerInfo] Command loaded successfully
+09:56:27 [ServerInfo] Common loaded successfully
+09:56:27 [ServerInfo] Custom loaded successfully
+09:56:27 [ServerInfo] Event loaded successfully
+09:56:27 [ServerInfo] EventItemBag loaded successfully
+09:56:27 [ServerInfo] Hack loaded successfully
+09:56:27 [ServerInfo] Item loaded successfully
+09:56:27 [ServerInfo] Monster loaded successfully
+09:56:27 [ServerInfo] Move loaded successfully
+09:56:27 [ServerInfo] Quest loaded successfully
+09:56:27 [ServerInfo] Shop loaded successfully
+09:56:27 [ServerInfo] Skill loaded successfully
+09:56:27 [ServerInfo] Util loaded successfully
+09:56:27 [ResetSystem] Bat dau nap file config reset...
+09:56:27 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+09:56:27 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+09:56:27 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+09:56:27 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+09:56:27 [ResetSystem] Da nap xong toan bo file config reset.
+09:56:28 [Blood Castle] (1) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (1) SetState EMPTY
+09:56:28 [Blood Castle] (2) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (2) SetState EMPTY
+09:56:28 [Blood Castle] (3) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (3) SetState EMPTY
+09:56:28 [Blood Castle] (4) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (4) SetState EMPTY
+09:56:28 [Blood Castle] (5) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (5) SetState EMPTY
+09:56:28 [Blood Castle] (6) Sync Start Time. [3] min remain
+09:56:28 [Blood Castle] (6) SetState EMPTY
+09:56:28 [Devil Square] (1) Sync Start Time. [33] min remain
+09:56:28 [Devil Square] (1) SetState EMPTY
+09:56:28 [Devil Square] (2) Sync Start Time. [33] min remain
+09:56:28 [Devil Square] (2) SetState EMPTY
+09:56:28 [Devil Square] (3) Sync Start Time. [33] min remain
+09:56:28 [Devil Square] (3) SetState EMPTY
+09:56:28 [Devil Square] (4) Sync Start Time. [33] min remain
+09:56:28 [Devil Square] (4) SetState EMPTY
+09:56:28 [Bingo] SetState BLANK
+09:56:28 [Bingo] SetState EMPTY
+09:56:28 [JoinServerConnection] Connected
+09:56:28 [DataServerConnection] Connected
+09:57:00 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 3
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:57:00 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 3
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:57:00 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 3
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:57:00 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 3
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 21
+09:57:00 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 3
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+09:57:00 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+09:57:00 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+09:57:00 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:57:00 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+09:57:00 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:57:00 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+09:57:00 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+09:57:00 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+09:57:00 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+09:57:00 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+09:57:00 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:00:00 [Blood Castle] (1) SetState STAND
+10:00:00 [Blood Castle] (2) SetState STAND
+10:00:00 [Blood Castle] (3) SetState STAND
+10:00:00 [Blood Castle] (4) SetState STAND
+10:00:00 [Blood Castle] (5) SetState STAND
+10:00:00 [Blood Castle] (6) SetState STAND
+10:00:01 [Blood Castle] (1) Not enough users
+10:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (1) SetState EMPTY
+10:00:01 [Blood Castle] (2) Not enough users
+10:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (2) SetState EMPTY
+10:00:01 [Blood Castle] (3) Not enough users
+10:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (3) SetState EMPTY
+10:00:01 [Blood Castle] (4) Not enough users
+10:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (4) SetState EMPTY
+10:00:01 [Blood Castle] (5) Not enough users
+10:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (5) SetState EMPTY
+10:00:01 [Blood Castle] (6) Not enough users
+10:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+10:00:01 [Blood Castle] (6) SetState EMPTY
+10:04:52 [JoinServerConnection] Disconnected
+10:04:54 [DataServerConnection] Disconnected
+10:20:46 [ServerInfo] ChaosMix loaded successfully
+10:20:46 [ServerInfo] Character loaded successfully
+10:20:46 [ServerInfo] Command loaded successfully
+10:20:46 [ServerInfo] Common loaded successfully
+10:20:46 [ServerInfo] Custom loaded successfully
+10:20:46 [ServerInfo] Event loaded successfully
+10:20:46 [ServerInfo] EventItemBag loaded successfully
+10:20:46 [ServerInfo] Hack loaded successfully
+10:20:46 [ServerInfo] Item loaded successfully
+10:20:46 [ServerInfo] Monster loaded successfully
+10:20:46 [ServerInfo] Move loaded successfully
+10:20:46 [ServerInfo] Quest loaded successfully
+10:20:46 [ServerInfo] Shop loaded successfully
+10:20:46 [ServerInfo] Skill loaded successfully
+10:20:46 [ServerInfo] Util loaded successfully
+10:20:46 [ResetSystem] Bat dau nap file config reset...
+10:20:46 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+10:20:46 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+10:20:46 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+10:20:46 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+10:20:46 [ResetSystem] Da nap xong toan bo file config reset.
+10:20:47 [Blood Castle] (1) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (1) SetState EMPTY
+10:20:47 [Blood Castle] (2) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (2) SetState EMPTY
+10:20:47 [Blood Castle] (3) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (3) SetState EMPTY
+10:20:47 [Blood Castle] (4) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (4) SetState EMPTY
+10:20:47 [Blood Castle] (5) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (5) SetState EMPTY
+10:20:47 [Blood Castle] (6) Sync Start Time. [159] min remain
+10:20:47 [Blood Castle] (6) SetState EMPTY
+10:20:47 [Devil Square] (1) Sync Start Time. [9] min remain
+10:20:47 [Devil Square] (1) SetState EMPTY
+10:20:47 [Devil Square] (2) Sync Start Time. [9] min remain
+10:20:47 [Devil Square] (2) SetState EMPTY
+10:20:47 [Devil Square] (3) Sync Start Time. [9] min remain
+10:20:47 [Devil Square] (3) SetState EMPTY
+10:20:47 [Devil Square] (4) Sync Start Time. [9] min remain
+10:20:47 [Devil Square] (4) SetState EMPTY
+10:20:47 [Bingo] SetState BLANK
+10:20:47 [Bingo] SetState EMPTY
+10:20:47 [JoinServerConnection] Connected
+10:20:47 [DataServerConnection] Connected
+10:21:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:21:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:21:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:21:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 16
+10:21:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:21:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:21:14 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+10:21:14 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:21:14 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+10:21:14 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:21:14 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+10:21:14 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:21:14 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+10:21:14 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+10:21:14 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+10:21:14 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:21:14 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=2, Points=900, Exp=424738558671060992
+10:30:00 [Devil Square] (1) SetState STAND
+10:30:00 [Devil Square] (2) SetState STAND
+10:30:00 [Devil Square] (3) SetState STAND
+10:30:00 [Devil Square] (4) SetState STAND
+10:30:01 [Devil Square] (1) Not enough users
+10:30:01 [Devil Square] (1) Sync Start Time. [179] min remain
+10:30:01 [Devil Square] (1) SetState EMPTY
+10:30:01 [Devil Square] (2) Not enough users
+10:30:01 [Devil Square] (2) Sync Start Time. [179] min remain
+10:30:01 [Devil Square] (2) SetState EMPTY
+10:30:01 [Devil Square] (3) Not enough users
+10:30:01 [Devil Square] (3) Sync Start Time. [179] min remain
+10:30:01 [Devil Square] (3) SetState EMPTY
+10:30:01 [Devil Square] (4) Not enough users
+10:30:01 [Devil Square] (4) Sync Start Time. [179] min remain
+10:30:01 [Devil Square] (4) SetState EMPTY
+10:30:15 [JoinServerConnection] Disconnected
+10:30:17 [DataServerConnection] Disconnected
+10:30:19 [JoinServerConnection] Connect Failed
+10:36:14 [ServerInfo] ChaosMix loaded successfully
+10:36:14 [ServerInfo] Character loaded successfully
+10:36:14 [ServerInfo] Command loaded successfully
+10:36:14 [ServerInfo] Common loaded successfully
+10:36:14 [ServerInfo] Custom loaded successfully
+10:36:14 [ServerInfo] Event loaded successfully
+10:36:14 [ServerInfo] EventItemBag loaded successfully
+10:36:14 [ServerInfo] Hack loaded successfully
+10:36:14 [ServerInfo] Item loaded successfully
+10:36:14 [ServerInfo] Monster loaded successfully
+10:36:14 [ServerInfo] Move loaded successfully
+10:36:14 [ServerInfo] Quest loaded successfully
+10:36:14 [ServerInfo] Shop loaded successfully
+10:36:14 [ServerInfo] Skill loaded successfully
+10:36:14 [ServerInfo] Util loaded successfully
+10:36:14 [ResetSystem] Bat dau nap file config reset...
+10:36:14 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+10:36:14 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+10:36:14 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+10:36:14 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+10:36:14 [ResetSystem] Da nap xong toan bo file config reset.
+10:36:15 [Blood Castle] (1) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (1) SetState EMPTY
+10:36:15 [Blood Castle] (2) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (2) SetState EMPTY
+10:36:15 [Blood Castle] (3) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (3) SetState EMPTY
+10:36:15 [Blood Castle] (4) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (4) SetState EMPTY
+10:36:15 [Blood Castle] (5) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (5) SetState EMPTY
+10:36:15 [Blood Castle] (6) Sync Start Time. [143] min remain
+10:36:15 [Blood Castle] (6) SetState EMPTY
+10:36:15 [Devil Square] (1) Sync Start Time. [173] min remain
+10:36:15 [Devil Square] (1) SetState EMPTY
+10:36:15 [Devil Square] (2) Sync Start Time. [173] min remain
+10:36:15 [Devil Square] (2) SetState EMPTY
+10:36:15 [Devil Square] (3) Sync Start Time. [173] min remain
+10:36:15 [Devil Square] (3) SetState EMPTY
+10:36:15 [Devil Square] (4) Sync Start Time. [173] min remain
+10:36:15 [Devil Square] (4) SetState EMPTY
+10:36:15 [Bingo] SetState BLANK
+10:36:15 [Bingo] SetState EMPTY
+10:36:15 [JoinServerConnection] Connected
+10:36:15 [DataServerConnection] Connected
+10:36:40 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:36:40 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:36:40 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:36:40 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 13
+10:36:40 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:36:40 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:36:40 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+10:36:40 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:36:40 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+10:36:40 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:36:40 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+10:36:40 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:36:40 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+10:36:40 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+10:36:40 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+10:36:40 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:36:40 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=3, Points=1300, Exp=443878874267254784
+10:51:38 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:51:38 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:51:38 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:51:38 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 10
+10:51:38 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:51:38 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:51:38 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+10:51:38 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:51:38 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+10:51:38 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:51:38 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+10:51:38 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:51:38 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+10:51:38 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+10:51:38 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+10:51:38 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:51:38 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=3, Points=1300, Exp=443878874267254784
+10:51:51 [ServerInfo] ChaosMix loaded successfully
+10:51:51 [ServerInfo] Character loaded successfully
+10:51:51 [ServerInfo] Command loaded successfully
+10:51:51 [ServerInfo] Common loaded successfully
+10:51:51 [ServerInfo] Custom loaded successfully
+10:51:51 [ServerInfo] Event loaded successfully
+10:51:51 [ServerInfo] EventItemBag loaded successfully
+10:51:51 [ServerInfo] Hack loaded successfully
+10:51:51 [ServerInfo] Item loaded successfully
+10:51:51 [ServerInfo] Monster loaded successfully
+10:51:51 [ServerInfo] Move loaded successfully
+10:51:51 [ServerInfo] Quest loaded successfully
+10:51:51 [ServerInfo] Shop loaded successfully
+10:51:51 [ServerInfo] Skill loaded successfully
+10:51:51 [ServerInfo] Util loaded successfully
+10:52:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:52:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:52:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:52:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 7
+10:52:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+10:52:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+10:52:45 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+10:52:45 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:52:45 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+10:52:45 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:52:45 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+10:52:45 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:52:45 [DeleteItem] Bat dau xoa 3 item ID 470 cho [testDW]
+10:52:45 [DeleteItem] Xoa xong. Da xoa 3/3 item.
+10:52:45 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+10:52:45 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+10:52:45 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=4, Points=1700, Exp=443878874267254784
+10:53:30 [JoinServerConnection] Disconnected
+10:53:32 [DataServerConnection] Disconnected
+10:56:05 [ServerInfo] ChaosMix loaded successfully
+10:56:05 [ServerInfo] Character loaded successfully
+10:56:05 [ServerInfo] Command loaded successfully
+10:56:05 [ServerInfo] Common loaded successfully
+10:56:05 [ServerInfo] Custom loaded successfully
+10:56:05 [ServerInfo] Event loaded successfully
+10:56:05 [ServerInfo] EventItemBag loaded successfully
+10:56:05 [ServerInfo] Hack loaded successfully
+10:56:05 [ServerInfo] Item loaded successfully
+10:56:05 [ServerInfo] Monster loaded successfully
+10:56:05 [ServerInfo] Move loaded successfully
+10:56:05 [ServerInfo] Quest loaded successfully
+10:56:05 [ServerInfo] Shop loaded successfully
+10:56:05 [ServerInfo] Skill loaded successfully
+10:56:05 [ServerInfo] Util loaded successfully
+10:56:05 [ResetSystem] Bat dau nap file config reset...
+10:56:05 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+10:56:05 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+10:56:05 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+10:56:05 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+10:56:05 [ResetSystem] Da nap xong toan bo file config reset.
+10:56:05 [Blood Castle] (1) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (1) SetState EMPTY
+10:56:05 [Blood Castle] (2) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (2) SetState EMPTY
+10:56:05 [Blood Castle] (3) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (3) SetState EMPTY
+10:56:05 [Blood Castle] (4) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (4) SetState EMPTY
+10:56:05 [Blood Castle] (5) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (5) SetState EMPTY
+10:56:05 [Blood Castle] (6) Sync Start Time. [123] min remain
+10:56:05 [Blood Castle] (6) SetState EMPTY
+10:56:05 [Devil Square] (1) Sync Start Time. [153] min remain
+10:56:05 [Devil Square] (1) SetState EMPTY
+10:56:05 [Devil Square] (2) Sync Start Time. [153] min remain
+10:56:05 [Devil Square] (2) SetState EMPTY
+10:56:05 [Devil Square] (3) Sync Start Time. [153] min remain
+10:56:05 [Devil Square] (3) SetState EMPTY
+10:56:05 [Devil Square] (4) Sync Start Time. [153] min remain
+10:56:05 [Devil Square] (4) SetState EMPTY
+10:56:05 [Bingo] SetState BLANK
+10:56:05 [Bingo] SetState EMPTY
+10:56:05 [JoinServerConnection] Connected
+10:56:05 [DataServerConnection] Connected
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 99, Y: 213
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 132, Y: 180
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 192, Y: 52
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 136, Y: 34
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 79, Y: 175
+11:39:42 [ServerInfo] ChaosMix loaded successfully
+11:39:42 [ServerInfo] Character loaded successfully
+11:39:42 [ServerInfo] Command loaded successfully
+11:39:42 [ServerInfo] Common loaded successfully
+11:39:42 [ServerInfo] Custom loaded successfully
+11:39:42 [ServerInfo] Event loaded successfully
+11:39:42 [ServerInfo] EventItemBag loaded successfully
+11:39:42 [ServerInfo] Hack loaded successfully
+11:39:42 [ServerInfo] Item loaded successfully
+11:39:42 [ServerInfo] Monster loaded successfully
+11:39:42 [ServerInfo] Move loaded successfully
+11:39:42 [ServerInfo] Quest loaded successfully
+11:39:42 [ServerInfo] Shop loaded successfully
+11:39:42 [ServerInfo] Skill loaded successfully
+11:39:42 [ServerInfo] Util loaded successfully
+11:43:08 [ServerInfo] ChaosMix loaded successfully
+11:43:09 [ServerInfo] Character loaded successfully
+11:43:09 [ServerInfo] Command loaded successfully
+11:43:09 [ServerInfo] Common loaded successfully
+11:43:09 [ServerInfo] Custom loaded successfully
+11:43:09 [ServerInfo] Event loaded successfully
+11:43:09 [ServerInfo] EventItemBag loaded successfully
+11:43:09 [ServerInfo] Hack loaded successfully
+11:43:09 [ServerInfo] Item loaded successfully
+11:43:09 [ServerInfo] Monster loaded successfully
+11:43:09 [ServerInfo] Move loaded successfully
+11:43:09 [ServerInfo] Quest loaded successfully
+11:43:09 [ServerInfo] Shop loaded successfully
+11:43:09 [ServerInfo] Skill loaded successfully
+11:43:09 [ServerInfo] Util loaded successfully
+11:43:35 [JoinServerConnection] Disconnected
+11:43:37 [DataServerConnection] Disconnected
+11:43:38 [JoinServerConnection] Connect Failed
+11:44:02 [ServerInfo] ChaosMix loaded successfully
+11:44:02 [ServerInfo] Character loaded successfully
+11:44:02 [ServerInfo] Command loaded successfully
+11:44:02 [ServerInfo] Common loaded successfully
+11:44:02 [ServerInfo] Custom loaded successfully
+11:44:02 [ServerInfo] Event loaded successfully
+11:44:02 [ServerInfo] EventItemBag loaded successfully
+11:44:02 [ServerInfo] Hack loaded successfully
+11:44:02 [ServerInfo] Item loaded successfully
+11:44:03 [ServerInfo] Monster loaded successfully
+11:44:03 [ServerInfo] Move loaded successfully
+11:44:03 [ServerInfo] Quest loaded successfully
+11:44:03 [ServerInfo] Shop loaded successfully
+11:44:03 [ServerInfo] Skill loaded successfully
+11:44:03 [ServerInfo] Util loaded successfully
+11:44:03 [ResetSystem] Bat dau nap file config reset...
+11:44:03 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+11:44:03 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+11:44:03 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+11:44:03 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+11:44:03 [ResetSystem] Da nap xong toan bo file config reset.
+11:44:03 [Blood Castle] (1) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (1) SetState EMPTY
+11:44:03 [Blood Castle] (2) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (2) SetState EMPTY
+11:44:03 [Blood Castle] (3) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (3) SetState EMPTY
+11:44:03 [Blood Castle] (4) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (4) SetState EMPTY
+11:44:03 [Blood Castle] (5) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (5) SetState EMPTY
+11:44:03 [Blood Castle] (6) Sync Start Time. [75] min remain
+11:44:03 [Blood Castle] (6) SetState EMPTY
+11:44:03 [Devil Square] (1) Sync Start Time. [105] min remain
+11:44:03 [Devil Square] (1) SetState EMPTY
+11:44:03 [Devil Square] (2) Sync Start Time. [105] min remain
+11:44:03 [Devil Square] (2) SetState EMPTY
+11:44:03 [Devil Square] (3) Sync Start Time. [105] min remain
+11:44:03 [Devil Square] (3) SetState EMPTY
+11:44:03 [Devil Square] (4) Sync Start Time. [105] min remain
+11:44:03 [Devil Square] (4) SetState EMPTY
+11:44:03 [Bingo] SetState BLANK
+11:44:03 [Bingo] SetState EMPTY
+11:44:03 [JoinServerConnection] Connected
+11:44:03 [DataServerConnection] Connected
+11:44:31 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 202, Level: 0, Dur: 50
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+11:44:31 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 202, Level: 0, Dur: 50
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+11:44:31 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 202, Level: 0, Dur: 50
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+11:44:31 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 202, Level: 0, Dur: 50
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 4
+11:44:31 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 202, Level: 0, Dur: 50
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+11:44:31 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+11:44:31 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+11:44:31 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+11:44:31 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+11:44:31 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+11:44:31 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+11:44:31 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+11:44:31 [DeleteItem] Bat dau xoa 2 item ID 470 cho [testDW]
+11:44:31 [DeleteItem] Xoa xong. Da xoa 2/2 item.
+11:44:31 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+11:44:31 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+11:44:31 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=5, Points=2000, Exp=440496192384663552
+11:46:32 [JoinServerConnection] Disconnected
+11:46:34 [DataServerConnection] Disconnected
+11:46:35 [JoinServerConnection] Connect Failed
+12:46:33 [ServerInfo] ChaosMix loaded successfully
+12:46:33 [ServerInfo] Character loaded successfully
+12:46:33 [ServerInfo] Command loaded successfully
+12:46:33 [ServerInfo] Common loaded successfully
+12:46:33 [ServerInfo] Custom loaded successfully
+12:46:33 [ServerInfo] Event loaded successfully
+12:46:34 [ServerInfo] EventItemBag loaded successfully
+12:46:34 [ServerInfo] Hack loaded successfully
+12:46:34 [ServerInfo] Item loaded successfully
+12:46:34 [ServerInfo] Monster loaded successfully
+12:46:34 [ServerInfo] Move loaded successfully
+12:46:34 [ServerInfo] Quest loaded successfully
+12:46:34 [ServerInfo] Shop loaded successfully
+12:46:34 [ServerInfo] Skill loaded successfully
+12:46:34 [ServerInfo] Util loaded successfully
+12:46:34 [ResetSystem] Bat dau nap file config reset...
+12:46:34 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+12:46:34 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+12:46:34 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+12:46:34 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+12:46:34 [ResetSystem] Da nap xong toan bo file config reset.
+12:46:35 [Blood Castle] (1) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (1) SetState EMPTY
+12:46:35 [Blood Castle] (2) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (2) SetState EMPTY
+12:46:35 [Blood Castle] (3) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (3) SetState EMPTY
+12:46:35 [Blood Castle] (4) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (4) SetState EMPTY
+12:46:35 [Blood Castle] (5) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (5) SetState EMPTY
+12:46:35 [Blood Castle] (6) Sync Start Time. [13] min remain
+12:46:35 [Blood Castle] (6) SetState EMPTY
+12:46:35 [Devil Square] (1) Sync Start Time. [43] min remain
+12:46:35 [Devil Square] (1) SetState EMPTY
+12:46:35 [Devil Square] (2) Sync Start Time. [43] min remain
+12:46:35 [Devil Square] (2) SetState EMPTY
+12:46:35 [Devil Square] (3) Sync Start Time. [43] min remain
+12:46:35 [Devil Square] (3) SetState EMPTY
+12:46:35 [Devil Square] (4) Sync Start Time. [43] min remain
+12:46:35 [Devil Square] (4) SetState EMPTY
+12:46:35 [Bingo] SetState BLANK
+12:46:35 [Bingo] SetState EMPTY
+12:46:35 [JoinServerConnection] Connected
+12:46:35 [DataServerConnection] Connected
+12:52:17 [JoinServerConnection] Disconnected
+12:52:19 [DataServerConnection] Disconnected
+12:52:32 [ServerInfo] ChaosMix loaded successfully
+12:52:32 [ServerInfo] Character loaded successfully
+12:52:32 [ServerInfo] Command loaded successfully
+12:52:32 [ServerInfo] Common loaded successfully
+12:52:32 [ServerInfo] Custom loaded successfully
+12:52:32 [ServerInfo] Event loaded successfully
+12:52:32 [ServerInfo] EventItemBag loaded successfully
+12:52:32 [ServerInfo] Hack loaded successfully
+12:52:32 [ServerInfo] Item loaded successfully
+12:52:32 [ServerInfo] Monster loaded successfully
+12:52:32 [ServerInfo] Move loaded successfully
+12:52:32 [ServerInfo] Quest loaded successfully
+12:52:32 [ServerInfo] Shop loaded successfully
+12:52:32 [ServerInfo] Skill loaded successfully
+12:52:32 [ServerInfo] Util loaded successfully
+12:52:32 [ResetSystem] Bat dau nap file config reset...
+12:52:32 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+12:52:32 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+12:52:32 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+12:52:32 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+12:52:32 [ResetSystem] Da nap xong toan bo file config reset.
+12:52:32 [Blood Castle] (1) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (1) SetState EMPTY
+12:52:32 [Blood Castle] (2) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (2) SetState EMPTY
+12:52:32 [Blood Castle] (3) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (3) SetState EMPTY
+12:52:32 [Blood Castle] (4) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (4) SetState EMPTY
+12:52:32 [Blood Castle] (5) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (5) SetState EMPTY
+12:52:32 [Blood Castle] (6) Sync Start Time. [7] min remain
+12:52:32 [Blood Castle] (6) SetState EMPTY
+12:52:32 [Devil Square] (1) Sync Start Time. [37] min remain
+12:52:32 [Devil Square] (1) SetState EMPTY
+12:52:32 [Devil Square] (2) Sync Start Time. [37] min remain
+12:52:32 [Devil Square] (2) SetState EMPTY
+12:52:32 [Devil Square] (3) Sync Start Time. [37] min remain
+12:52:32 [Devil Square] (3) SetState EMPTY
+12:52:32 [Devil Square] (4) Sync Start Time. [37] min remain
+12:52:32 [Devil Square] (4) SetState EMPTY
+12:52:32 [Bingo] SetState BLANK
+12:52:32 [Bingo] SetState EMPTY
+12:52:32 [JoinServerConnection] Connected
+12:52:32 [DataServerConnection] Connected
+12:53:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:53:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:53:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:53:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 572
+12:53:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:53:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:53:49 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+12:53:49 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:53:49 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+12:53:49 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:53:49 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+12:53:49 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:53:49 [DeleteItem] Bat dau xoa 2 item ID 470 cho [testDW]
+12:53:49 [DeleteItem] Xoa xong. Da xoa 2/2 item.
+12:53:49 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+12:53:49 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:53:49 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=6, Points=2300, Exp=443037198116192256
+12:56:26 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:56:26 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:56:26 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:56:26 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 512
+12:56:26 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 60, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 470, Level: 0, Dur: 30
+12:56:26 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+12:56:26 [DeleteItem] Bat dau xoa 0 item ID 6159 cho [testDW]
+12:56:26 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:56:26 [DeleteItem] Bat dau xoa 0 item ID 7181 cho [testDW]
+12:56:26 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:56:26 [DeleteItem] Bat dau xoa 0 item ID 7182 cho [testDW]
+12:56:26 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:56:26 [DeleteItem] Bat dau xoa 2 item ID 470 cho [testDW]
+12:56:26 [DeleteItem] Xoa xong. Da xoa 2/2 item.
+12:56:26 [DeleteItem] Bat dau xoa 0 item ID 6670 cho [testDW]
+12:56:26 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+12:56:26 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=7, Points=4900, Exp=443037198116192256
+12:58:07 [JoinServerConnection] Disconnected
+12:58:09 [DataServerConnection] Disconnected
+13:55:37 [ServerInfo] ChaosMix loaded successfully
+13:55:37 [ServerInfo] Character loaded successfully
+13:55:37 [ServerInfo] Command loaded successfully
+13:55:37 [ServerInfo] Common loaded successfully
+13:55:37 [ServerInfo] Custom loaded successfully
+13:55:37 [ServerInfo] Event loaded successfully
+13:55:37 [ServerInfo] EventItemBag loaded successfully
+13:55:37 [ServerInfo] Hack loaded successfully
+13:55:37 [ServerInfo] Item loaded successfully
+13:55:37 [ServerInfo] Monster loaded successfully
+13:55:37 [ServerInfo] Move loaded successfully
+13:55:37 [ServerInfo] Quest loaded successfully
+13:55:37 [ServerInfo] Shop loaded successfully
+13:55:37 [ServerInfo] Skill loaded successfully
+13:55:37 [ServerInfo] Util loaded successfully
+13:55:37 [ResetSystem] Bat dau nap file config reset...
+13:55:37 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+13:55:37 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+13:55:37 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+13:55:37 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+13:55:37 [ResetSystem] Da nap xong toan bo file config reset.
+13:55:37 [Blood Castle] (1) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (1) SetState EMPTY
+13:55:37 [Blood Castle] (2) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (2) SetState EMPTY
+13:55:37 [Blood Castle] (3) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (3) SetState EMPTY
+13:55:37 [Blood Castle] (4) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (4) SetState EMPTY
+13:55:37 [Blood Castle] (5) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (5) SetState EMPTY
+13:55:37 [Blood Castle] (6) Sync Start Time. [64] min remain
+13:55:37 [Blood Castle] (6) SetState EMPTY
+13:55:37 [Devil Square] (1) Sync Start Time. [34] min remain
+13:55:37 [Devil Square] (1) SetState EMPTY
+13:55:37 [Devil Square] (2) Sync Start Time. [34] min remain
+13:55:37 [Devil Square] (2) SetState EMPTY
+13:55:37 [Devil Square] (3) Sync Start Time. [34] min remain
+13:55:37 [Devil Square] (3) SetState EMPTY
+13:55:37 [Devil Square] (4) Sync Start Time. [34] min remain
+13:55:37 [Devil Square] (4) SetState EMPTY
+13:55:37 [Bingo] SetState BLANK
+13:55:37 [Bingo] SetState EMPTY
+13:55:37 [JoinServerConnection] Connected
+13:55:37 [DataServerConnection] Connected
+13:59:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+13:59:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+13:59:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+13:59:49 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 461, Level: 0, Dur: 30
+13:59:49 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:05:35 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:05:35 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:05:35 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:05:35 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 462, Level: 0, Dur: 0
+14:05:35 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:07:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:07:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:07:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:07:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 430, Level: 0, Dur: 0
+14:07:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:09:11 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:09:11 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:09:11 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:09:11 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 399, Level: 0, Dur: 0
+14:09:11 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:10:21 [JoinServerConnection] Disconnected
+14:10:23 [DataServerConnection] Disconnected
+14:17:36 [ServerInfo] ChaosMix loaded successfully
+14:17:36 [ServerInfo] Character loaded successfully
+14:17:36 [ServerInfo] Command loaded successfully
+14:17:36 [ServerInfo] Common loaded successfully
+14:17:36 [ServerInfo] Custom loaded successfully
+14:17:36 [ServerInfo] Event loaded successfully
+14:17:36 [ServerInfo] EventItemBag loaded successfully
+14:17:36 [ServerInfo] Hack loaded successfully
+14:17:36 [ServerInfo] Item loaded successfully
+14:17:36 [ServerInfo] Monster loaded successfully
+14:17:36 [ServerInfo] Move loaded successfully
+14:17:36 [ServerInfo] Quest loaded successfully
+14:17:37 [ServerInfo] Shop loaded successfully
+14:17:37 [ServerInfo] Skill loaded successfully
+14:17:37 [ServerInfo] Util loaded successfully
+14:17:37 [ResetSystem] Bat dau nap file config reset...
+14:17:37 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+14:17:37 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+14:17:37 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+14:17:37 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+14:17:37 [ResetSystem] Da nap xong toan bo file config reset.
+14:17:37 [Blood Castle] (1) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (1) SetState EMPTY
+14:17:37 [Blood Castle] (2) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (2) SetState EMPTY
+14:17:37 [Blood Castle] (3) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (3) SetState EMPTY
+14:17:37 [Blood Castle] (4) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (4) SetState EMPTY
+14:17:37 [Blood Castle] (5) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (5) SetState EMPTY
+14:17:37 [Blood Castle] (6) Sync Start Time. [42] min remain
+14:17:37 [Blood Castle] (6) SetState EMPTY
+14:17:37 [Devil Square] (1) Sync Start Time. [12] min remain
+14:17:37 [Devil Square] (1) SetState EMPTY
+14:17:37 [Devil Square] (2) Sync Start Time. [12] min remain
+14:17:37 [Devil Square] (2) SetState EMPTY
+14:17:37 [Devil Square] (3) Sync Start Time. [12] min remain
+14:17:37 [Devil Square] (3) SetState EMPTY
+14:17:37 [Devil Square] (4) Sync Start Time. [12] min remain
+14:17:37 [Devil Square] (4) SetState EMPTY
+14:17:37 [Bingo] SetState BLANK
+14:17:37 [Bingo] SetState EMPTY
+14:17:37 [JoinServerConnection] Connected
+14:17:37 [DataServerConnection] Connected
+14:18:20 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:18:20 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 461, Level: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:18:20 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 462, Level: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:18:20 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 15
+14:18:20 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 430, Level: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:18:20 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 8
+14:18:20 [DeleteItem] Bat dau xoa 0 item ID 399 cho [testDW]
+14:18:20 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+14:18:20 [DeleteItem] Bat dau xoa 0 item ID 461 cho [testDW]
+14:18:20 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+14:18:20 [DeleteItem] Bat dau xoa 0 item ID 462 cho [testDW]
+14:18:20 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+14:18:20 [DeleteItem] Bat dau xoa 2 item ID 470 cho [testDW]
+14:18:20 [DeleteItem] Xoa xong. Da xoa 2/2 item.
+14:18:20 [DeleteItem] Bat dau xoa 0 item ID 430 cho [testDW]
+14:18:20 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+14:18:20 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=8, Points=5400, Exp=452602485421375488
+14:20:14 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:20:14 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:26:58 [JoinServerConnection] Disconnected
+14:27:00 [DataServerConnection] Disconnected
+14:28:52 [ServerInfo] ChaosMix loaded successfully
+14:28:52 [ServerInfo] Character loaded successfully
+14:28:52 [ServerInfo] Command loaded successfully
+14:28:52 [ServerInfo] Common loaded successfully
+14:28:52 [ServerInfo] Custom loaded successfully
+14:28:52 [ServerInfo] Event loaded successfully
+14:28:52 [ServerInfo] EventItemBag loaded successfully
+14:28:52 [ServerInfo] Hack loaded successfully
+14:28:52 [ServerInfo] Item loaded successfully
+14:28:52 [ServerInfo] Monster loaded successfully
+14:28:52 [ServerInfo] Move loaded successfully
+14:28:52 [ServerInfo] Quest loaded successfully
+14:28:52 [ServerInfo] Shop loaded successfully
+14:28:52 [ServerInfo] Skill loaded successfully
+14:28:52 [ServerInfo] Util loaded successfully
+14:28:52 [ResetSystem] Bat dau nap file config reset...
+14:28:52 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+14:28:52 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+14:28:52 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+14:28:52 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+14:28:52 [ResetSystem] Da nap xong toan bo file config reset.
+14:28:53 [Blood Castle] (1) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (1) SetState EMPTY
+14:28:53 [Blood Castle] (2) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (2) SetState EMPTY
+14:28:53 [Blood Castle] (3) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (3) SetState EMPTY
+14:28:53 [Blood Castle] (4) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (4) SetState EMPTY
+14:28:53 [Blood Castle] (5) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (5) SetState EMPTY
+14:28:53 [Blood Castle] (6) Sync Start Time. [31] min remain
+14:28:53 [Blood Castle] (6) SetState EMPTY
+14:28:53 [Devil Square] (1) Sync Start Time. [1] min remain
+14:28:53 [Devil Square] (1) SetState EMPTY
+14:28:53 [Devil Square] (2) Sync Start Time. [1] min remain
+14:28:53 [Devil Square] (2) SetState EMPTY
+14:28:53 [Devil Square] (3) Sync Start Time. [1] min remain
+14:28:53 [Devil Square] (3) SetState EMPTY
+14:28:53 [Devil Square] (4) Sync Start Time. [1] min remain
+14:28:53 [Devil Square] (4) SetState EMPTY
+14:28:53 [Bingo] SetState BLANK
+14:28:53 [Bingo] SetState EMPTY
+14:28:53 [JoinServerConnection] Connected
+14:28:53 [DataServerConnection] Connected
+14:29:58 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: -1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 170, Level: 11, Dur: 203
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 2, co item ID: 226, Level: 0, Dur: 255
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 258, Level: 0, Dur: 255
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 290, Level: 0, Dur: 255
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 322, Level: 0, Dur: 255
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 354, Level: 0, Dur: 255
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 388, Level: 11, Dur: 221
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 11, Dur: 86
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 36, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 37, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 38, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 39, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 40, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 41, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 42, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 43, co item ID: 461, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 44, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 45, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 46, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 47, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 48, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 49, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 50, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 51, co item ID: 462, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 52, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 53, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 54, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 55, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 56, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 57, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 58, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 59, co item ID: 430, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 68, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 69, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 70, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 71, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 72, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 73, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 74, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] >> Slot 75, co item ID: 399, Level: 0, Dur: 0
+14:29:58 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+14:30:00 [Devil Square] (1) SetState STAND
+14:30:00 [Devil Square] (2) SetState STAND
+14:30:00 [Devil Square] (3) SetState STAND
+14:30:00 [Devil Square] (4) SetState STAND
+14:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 135, Y: 187
+14:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 144, Y: 197
+14:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 236, Y: 87
+14:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 84, Y: 21
+14:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 79, Y: 101
+14:30:01 [Devil Square] (1) Not enough users
+14:30:01 [Devil Square] (1) Sync Start Time. [119] min remain
+14:30:01 [Devil Square] (1) SetState EMPTY
+14:30:01 [Devil Square] (2) Not enough users
+14:30:01 [Devil Square] (2) Sync Start Time. [119] min remain
+14:30:01 [Devil Square] (2) SetState EMPTY
+14:30:01 [Devil Square] (3) Not enough users
+14:30:01 [Devil Square] (3) Sync Start Time. [119] min remain
+14:30:01 [Devil Square] (3) SetState EMPTY
+14:30:01 [Devil Square] (4) Not enough users
+14:30:01 [Devil Square] (4) Sync Start Time. [119] min remain
+14:30:01 [Devil Square] (4) SetState EMPTY
+14:52:47 [JoinServerConnection] Disconnected
+14:52:49 [DataServerConnection] Disconnected
+14:58:14 [ServerInfo] ChaosMix loaded successfully
+14:58:14 [ServerInfo] Character loaded successfully
+14:58:14 [ServerInfo] Command loaded successfully
+14:58:14 [ServerInfo] Common loaded successfully
+14:58:14 [ServerInfo] Custom loaded successfully
+14:58:14 [ServerInfo] Event loaded successfully
+14:58:14 [ServerInfo] EventItemBag loaded successfully
+14:58:14 [ServerInfo] Hack loaded successfully
+14:58:14 [ServerInfo] Item loaded successfully
+14:58:14 [ServerInfo] Monster loaded successfully
+14:58:14 [ServerInfo] Move loaded successfully
+14:58:14 [ServerInfo] Quest loaded successfully
+14:58:14 [ServerInfo] Shop loaded successfully
+14:58:14 [ServerInfo] Skill loaded successfully
+14:58:14 [ServerInfo] Util loaded successfully
+14:58:14 [ResetSystem] Bat dau nap file config reset...
+14:58:14 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+14:58:14 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+14:58:14 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+14:58:14 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+14:58:14 [ResetSystem] Da nap xong toan bo file config reset.
+14:58:15 [Blood Castle] (1) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (1) SetState EMPTY
+14:58:15 [Blood Castle] (2) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (2) SetState EMPTY
+14:58:15 [Blood Castle] (3) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (3) SetState EMPTY
+14:58:15 [Blood Castle] (4) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (4) SetState EMPTY
+14:58:15 [Blood Castle] (5) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (5) SetState EMPTY
+14:58:15 [Blood Castle] (6) Sync Start Time. [1] min remain
+14:58:15 [Blood Castle] (6) SetState EMPTY
+14:58:15 [Devil Square] (1) Sync Start Time. [91] min remain
+14:58:15 [Devil Square] (1) SetState EMPTY
+14:58:15 [Devil Square] (2) Sync Start Time. [91] min remain
+14:58:15 [Devil Square] (2) SetState EMPTY
+14:58:15 [Devil Square] (3) Sync Start Time. [91] min remain
+14:58:15 [Devil Square] (3) SetState EMPTY
+14:58:15 [Devil Square] (4) Sync Start Time. [91] min remain
+14:58:15 [Devil Square] (4) SetState EMPTY
+14:58:15 [Bingo] SetState BLANK
+14:58:15 [Bingo] SetState EMPTY
+14:58:15 [JoinServerConnection] Connected
+14:58:15 [DataServerConnection] Connected
+15:00:00 [Blood Castle] (1) SetState STAND
+15:00:00 [Blood Castle] (2) SetState STAND
+15:00:00 [Blood Castle] (3) SetState STAND
+15:00:00 [Blood Castle] (4) SetState STAND
+15:00:00 [Blood Castle] (5) SetState STAND
+15:00:00 [Blood Castle] (6) SetState STAND
+15:00:01 [Blood Castle] (1) Not enough users
+15:00:01 [Blood Castle] (1) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (1) SetState EMPTY
+15:00:01 [Blood Castle] (2) Not enough users
+15:00:01 [Blood Castle] (2) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (2) SetState EMPTY
+15:00:01 [Blood Castle] (3) Not enough users
+15:00:01 [Blood Castle] (3) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (3) SetState EMPTY
+15:00:01 [Blood Castle] (4) Not enough users
+15:00:01 [Blood Castle] (4) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (4) SetState EMPTY
+15:00:01 [Blood Castle] (5) Not enough users
+15:00:01 [Blood Castle] (5) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (5) SetState EMPTY
+15:00:01 [Blood Castle] (6) Not enough users
+15:00:01 [Blood Castle] (6) Sync Start Time. [59] min remain
+15:00:01 [Blood Castle] (6) SetState EMPTY
+15:01:33 [DeleteItem] Bat dau xoa 1 item ID 399 cho [testDW]
+15:01:33 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:01:33 [DeleteItem] Bat dau xoa 1 item ID 461 cho [testDW]
+15:01:33 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:01:33 [DeleteItem] Bat dau xoa 1 item ID 462 cho [testDW]
+15:01:33 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:01:33 [DeleteItem] Bat dau xoa 1 item ID 470 cho [testDW]
+15:01:33 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:01:33 [DeleteItem] Bat dau xoa 1 item ID 430 cho [testDW]
+15:01:33 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:01:33 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=11, Points=6620, Exp=461888771651010560
+15:06:32 [DeleteItem] Bat dau xoa 1 item ID 399 cho [testDW]
+15:06:32 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:06:32 [DeleteItem] Bat dau xoa 0 item ID 461 cho [testDW]
+15:06:32 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+15:06:32 [DeleteItem] Bat dau xoa 0 item ID 462 cho [testDW]
+15:06:32 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+15:06:32 [DeleteItem] Bat dau xoa 1 item ID 470 cho [testDW]
+15:06:32 [DeleteItem] Xoa xong. Da xoa 1/1 item.
+15:06:32 [DeleteItem] Bat dau xoa 0 item ID 430 cho [testDW]
+15:06:32 [DeleteItem] Xoa xong. Da xoa 0/0 item.
+15:06:32 [DEBUG_RESET_SAVE] Chuan bi luu: Level=1, Reset=101, Points=26370, Exp=461888771651010560
+15:08:56 [JoinServerConnection] Disconnected
+15:08:58 [DataServerConnection] Disconnected

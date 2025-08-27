@@ -32,9 +32,13 @@
 #include "Util.h"
 #include "Viewport.h"
 #include "Warehouse.h"
+#include "ResetSystem.h"
+#include "CustomAttack.h"
+#include "CustomPick.h"
 
 void ProtocolCore(BYTE head, BYTE* lpMsg, int size, int aIndex, int encrypt, int serial)
 {
+	//gLog.Output(LOG_GENERAL, "[MASTER_LOG] Nhan duoc packet -> HEAD: 0x%02X, aIndex: %d", head, aIndex);
 	ConsoleProtocolLog(CON_PROTO_TCP_RECV, aIndex, lpMsg, size);
 
 	if (gObj[aIndex].Type == OBJECT_USER && gHackPacketCheck.CheckPacketHack(aIndex, head, ((lpMsg[0] == 0xC1) ? lpMsg[3] : lpMsg[4]), encrypt, serial) == 0)
@@ -445,6 +449,12 @@ void ProtocolCore(BYTE head, BYTE* lpMsg, int size, int aIndex, int encrypt, int
 			break;
 		}
 
+		case 0xA1: // Packet F8 từ Client
+		{
+			CGAutoPlayToggleRecv(aIndex);
+        	break;
+		}
+
 		case 0xA2:
 		{
 			gQuest.CGQuestStateRecv((PMSG_QUEST_STATE_RECV*)lpMsg, aIndex);
@@ -547,6 +557,7 @@ void ProtocolCore(BYTE head, BYTE* lpMsg, int size, int aIndex, int encrypt, int
 
 					break;
 				}
+        			
 			}
 
 			break;
@@ -2298,4 +2309,85 @@ void GCHealthBarSend(int aIndex)
 	memcpy(send, &pMsg, sizeof(pMsg));
 
 	DataSend(lpObj->Index, send, size);
+}
+
+// ========================================================================
+// == HÀM XỬ LÝ F8 (PHIÊN BẢN CUỐI CÙNG - LOGIC BỀN VỮNG) ==
+// ========================================================================
+void CGAutoPlayToggleRecv(int aIndex)
+{
+    if (!gObjIsConnectedGP(aIndex))
+    {
+        return;
+    }
+
+    LPOBJ lpObj = &gObj[aIndex];
+
+    // --- LOGIC TẮT AUTO ---
+    if (lpObj->AttackCustom == 1)
+    {
+        gCustomAttack.OnAttackClose(lpObj);
+		gCustomPick.OnPickClose(lpObj); // << THÊM DÒNG NÀY: Tắt và xóa danh sách nhặt đồ
+        // KHÔNG reset LastUsedSkill ở đây để ghi nhớ cho lần sau
+        //gLog.Output(LOG_GENERAL, "[AutoPlay][%s][%s] Auto turned OFF. Last used skill (%d) is remembered.", lpObj->Account, lpObj->Name, lpObj->LastUsedSkill);
+        return;
+    }
+
+    // --- LOGIC BẬT AUTO ---
+    //gLog.Output(LOG_GENERAL, "--------------------------------------------------");
+    //gLog.Output(LOG_GENERAL, "[AutoPlay][%s][%s] Auto turned ON...", lpObj->Account, lpObj->Name);
+    
+    int SkillToUse = 0;
+
+    // Ưu tiên 1: Lấy skill vừa dùng từ "bộ nhớ"
+    //gLog.Output(LOG_GENERAL, "[AutoPlay] -> Checking LastUsedSkill (ID: %d)", lpObj->LastUsedSkill);
+    if (gCustomAttack.GetAttackSkill(lpObj, &SkillToUse, lpObj->LastUsedSkill) == true)
+    {
+        //gLog.Output(LOG_GENERAL, "[AutoPlay] -> -> Success! Using last used skill: %d", SkillToUse);
+    }
+    // Ưu tiên 2: Nếu không có, tìm skill mặc định
+    else
+    {
+        //gLog.Output(LOG_GENERAL, "[AutoPlay] -> -> Failed or invalid. Searching for default skill...");
+        if (gCustomAttack.GetAttackSkill(lpObj, &SkillToUse, -1) == false)
+        {
+            //gLog.Output(LOG_GENERAL, "[AutoPlay] -> -> -> Failed! No suitable skill found.");
+            char* message = gMessage.GetTextMessage(120, lpObj->Lang);
+            if (message != nullptr) { gNotice.GCNoticeSend(lpObj->Index, 1, message); }
+            return;
+        }
+        else
+        {
+            //gLog.Output(LOG_GENERAL, "[AutoPlay] -> -> -> Success! Found default skill: %d", SkillToUse);
+        }
+    }
+
+    // Bật auto với skill đã tìm được
+    lpObj->AttackCustom = 1;
+    lpObj->PickupEnable = 1;
+    lpObj->AttackCustomSkill = SkillToUse;
+    lpObj->AttackCustomDelay = GetTickCount();
+    lpObj->AttackCustomZoneX = lpObj->X;
+    lpObj->AttackCustomZoneY = lpObj->Y;
+    lpObj->AttackCustomZoneMap = lpObj->Map;
+    lpObj->AttackCustomAutoBuff = 0;
+
+	lpObj->PickupEnable = 1; // Bật chức năng nhặt đồ
+    
+    CUSTOMPICK_INFO PickInfo;
+    for (int i = 0; i < MAX_CUSTOMPICK; i++)
+    {
+        if (gCustomPick.GetInfo(i, &PickInfo)) // Lấy thông tin từng vật phẩm trong file config
+        {
+            // Gán vật phẩm vào danh sách nhặt của người chơi
+            lpObj->Pickup[PickInfo.Index] = GET_ITEM(PickInfo.Cat, PickInfo.Item);
+        }
+    }
+
+    //gLog.Output(LOG_GENERAL, "[AutoPlay] -> FINAL: Auto ON with Skill ID: %d", lpObj->AttackCustomSkill);
+    //gLog.Output(LOG_GENERAL, "--------------------------------------------------");
+
+    // Gửi thông báo "Auto ON"
+    char* message = gMessage.GetTextMessage(118, lpObj->Lang);
+    if (message != nullptr) { gNotice.GCNoticeSend(lpObj->Index, 1, message); }
 }

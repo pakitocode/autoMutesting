@@ -1,0 +1,8 @@
+// Day la file cho Nguoi Choi Vip (AL2)
+//Index	MinReset	MaxReset		ReqLevel	ReqMoney	KeepStats		AddPoints		ReqChaos		ReqBless		ReqSoul		ReqCreation	ReqLoch
+0	0	1		270	1000000		0		1000		0		0		0		4		0
+1	2	4		290	1000000		0		800		0		0		0		3		0
+2	5	10		310	2000000		0		500		0		0		0		2		0
+3	11	100		320	2000000		0		220		1		0		0		1		0
+4	101	9999		340	2000000		0		170		1		0		0		1		0
+end

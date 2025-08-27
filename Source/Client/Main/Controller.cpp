@@ -6,6 +6,27 @@
 #include "MoveList.h"
 #include "resource.h"
 #include "Window.h"
+#include "Protocol.h" // Thêm để biết PMSG_F8_AUTOPLAY_TOGGLE_SEND
+#include "Offsets.h"   // Thêm để biết g_hWnd
+
+// ========================================================================
+// == KHAI BÁO BIẾN VÀ HÀM CHO F8 AUTO PLAY (ĐẶT Ở ĐÂY) ==
+// ========================================================================
+
+WNDPROC g_OriginalWndProc; // Biến lưu WindowProc gốc
+
+LRESULT CALLBACK MyNewWindowProc(HWND hWnd, UINT Msg, WPARAM wParam, LPARAM lParam)
+{
+    if (Msg == WM_KEYDOWN && wParam == VK_F8)
+    {
+        PMSG_F8_AUTOPLAY_TOGGLE_SEND pMsg;
+        pMsg.header.set(0xA1, sizeof(pMsg));
+        gProtocol.DataSend((BYTE*)&pMsg, pMsg.header.size);
+        return 1;
+    }
+    return CallWindowProc(g_OriginalWndProc, hWnd, Msg, wParam, lParam);
+}
+// ========================================================================
 
 Controller gController;
 
@@ -182,6 +203,14 @@ LRESULT Controller::Keyboard(int nCode, WPARAM wParam, LPARAM lParam)
 
 void Controller::CheckKeyboardKeys()
 {
+	// >> THÊM KHỐI CODE NÀY VÀO ĐẦU HÀM CheckKeyboardKeys() <<
+	static bool hook_installed = false;
+
+	if (hook_installed == false && g_hWnd != NULL)
+	{
+    	g_OriginalWndProc = (WNDPROC)SetWindowLongPtr(g_hWnd, GWLP_WNDPROC, (LONG_PTR)MyNewWindowProc);
+    	hook_installed = true; // Đánh dấu là đã cài đặt để không chạy lại
+	}
 	if ((GetAsyncKeyStateCall('M') >> 0x0F)) // M Pressed
 	{
 		if (!KeyState['M'])

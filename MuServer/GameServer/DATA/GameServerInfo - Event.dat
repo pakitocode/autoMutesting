@@ -6,7 +6,7 @@
 BloodCastleEvent=1
 
 ; Blood Castle Maximum Users per Castle
-BloodCastleMaxUser=10
+BloodCastleMaxUser=40
 
 ; Blood Castle enable PVP? (0 = No / 1 = Yes)
 BloodCastleAllowPK=1
@@ -24,7 +24,7 @@ BonusManagerSwitch=1
 DevilSquareEvent=1
 
 ; Devil Square Maximum Users per Square
-DevilSquareMaxUser=15
+DevilSquareMaxUser=100
 
 ; Devil Square enable PVP? (0 = No / 1 = Yes)
 DevilSquareAllowPK=1
@@ -39,10 +39,10 @@ InvasionManagerSwitch=1
 FlyingDragonsSwitch=1
 
 ; Dragons will only spawn in the map of the boss (0 = No / 1 = Yes)
-FlyingDragonsOnlyBossMapSpawn=0
+FlyingDragonsOnlyBossMapSpawn=1
 
 ; Dragons will disappear when the boss dies (0 = No / 1 = Yes)
-FlyingDragonsKillBossDisappear=0
+FlyingDragonsKillBossDisappear=1
 
 ;==================================================
 ; Golden Archer Settings
@@ -50,9 +50,9 @@ FlyingDragonsKillBossDisappear=0
 ; Required Renas to exchange for ItemBag
 ; Use 0 to disable the button
 RenaExchangeRequired1=10
-RenaExchangeRequired2=50
-RenaExchangeRequired3=100
-RenaExchangeRequired4=500
+RenaExchangeRequired2=20
+RenaExchangeRequired3=40
+RenaExchangeRequired4=80
 
 ; Required Stones to exchange for VIP
 ; Use 0 to disable the button

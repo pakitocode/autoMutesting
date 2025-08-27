@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// Description: Expiriance System
+// ----------------------------------------------------------------------------------
+// Author: FoxWizzy
+// Date: 	19:11 11.09.2017
+//===================================================================================
+//
+// ### ExpSystem ###
+//	CalcType: Defines a type of exp calculation to be used
+//		0: Static exp only
+//			~ NormalExp + EventExp + VipExp + MapBonusExp
+//			~ MasterExp + EventExp + VipExp + MapBonusExp
+//		1: Static + Dynamic
+//			~ NormalExp + DynamicExp + EventExp + VipExp + MapBonusExp
+//			~ MasterExp + DynamicExp + EventExp + VipExp + MapBonusExp
+//		2: Static * Dynamic
+//			~ NormalExp * DynamicExp + EventExp + VipExp + MapBonusExp
+//			~ MasterExp * DynamicExp + EventExp + VipExp + MapBonusExp
+//		3: Dynamic only
+//			~ DynamicExp + EventExp + VipExp + MapBonusExp
+//			~ DynamicExp + EventExp + VipExp + MapBonusExp
+//	DebugMode: If enables will display a log in Game Server, 0/1
+//
+// ### ExpSystem::StaticExp ###
+//	Normal: The normal experience multiplier, float 
+//	Master: The master experience multiplier, float
+//	Event: The event experience bonus, float
+//	Quest: The quest experience multiplier (quests received from Quests System), float
+//
+// ### ExpSystem::DynamicExpRangeList ###
+//	MinReset: Start range of resets count to apply the rule
+//	MaxReset: End range of resets count to apply the rule
+//	MinLevel: Start range of level to apply the rule
+//	MaxLevel: End range of level to apply the rule
+//	NormalExp: Regular experience multiplier
+//	MasterExp: Master experience multiplier
+//
+// STRICTLY NO COMMENTS INSIDE TAGS
+//
+-->
+
+<ExpSystem CalcType="2"  DebugMode="1">
+	<StaticExp Normal="1.0" Master="1.0" Event="0.0" Quest="1.0" />
+	
+	<DynamicExpRangeList>
+		<Range MinReset="0" MaxReset="100" MinLevel="1" MaxLevel="400" NormalExp="100000.0" />
+		<Range MinReset="5" MaxReset="10"  MinLevel="1" MaxLevel="420" NormalExp="10000.0" />
+		<Range MinReset="10" MaxReset="15" MinLevel="1" MaxLevel="440" NormalExp="8500.0" />
+		<Range MinReset="15" MaxReset="20" MinLevel="1" MaxLevel="460" NormalExp="7000.0" />
+		<Range MinReset="20" MaxReset="30" MinLevel="1" MaxLevel="480" NormalExp="5500.0" />
+		<Range MinReset="30" MaxReset="40" MinLevel="1" MaxLevel="500" NormalExp="4000.0" />
+		<Range MinReset="40" MaxReset="50" MinLevel="1" MaxLevel="520" NormalExp="3000.0" />
+		<Range MinReset="50" MaxReset="60" MinLevel="1" MaxLevel="540" NormalExp="2000.0" />
+		<Range MinReset="60" MaxReset="70" MinLevel="1" MaxLevel="560" NormalExp="1000.0" />
+		<Range MinReset="70" MaxReset="80" MinLevel="1" MaxLevel="580" NormalExp="500.0" />
+		<Range MinReset="80" MaxReset="90" MinLevel="1" MaxLevel="600" NormalExp="250.0" />
+		<Range MinReset="90" MaxReset="100" MinLevel="1" MaxLevel="620" NormalExp="100.0" />
+	</DynamicExpRangeList>
+
+</ExpSystem>

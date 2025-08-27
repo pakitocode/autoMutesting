@@ -4,12 +4,12 @@
 
 0
 //EventName		DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
-"EventName"		1000	100		1		1		0
+//"EventName"		0	100		1		0		1
 end
 
 1
 //Item	MinLvl	MaxLvl	Skill	Luck	Opt	Exce	Comment
-//00,000	0	0	0	0	0	0	//Comment
+//14,013	0	0	0	0	0	0	//Bless
 end
 
 //======================================
@@ -17,19 +17,58 @@ end
 //======================================
 
 2
-//Index	DropRate
+//Index	DropRate 
 0	10000
 end
 
 3
 //Index	Section	SectionRate	MoneyAmount	OptionValue	DW	DK	FE	MG
-//0	4	10000		0		0		1	1	1	1
+0	4	9650		0		0		1	1	1	1
+0	5	350		0		0		1	1	1	1
 end
 
 // ItemGrade works when ExcellentRate = 0
 // LevelRate, SkillRate, LuckRate, OptionRate and ExcellentRate
 // Uses ItemOptionRate Indexes
 4
-//ItemIndex	ItemLevel	ItemGrade	LevelRate	SkillRate	LuckRate	OptionRate	ExcellentRate	Comment
-//00,000		0		0		*		*		*		*		*		//
+//ItemIndex	ItemLevel		ItemGrade	LevelRate		SkillRate		LuckRate		OptionRate	ExcellentRate	Comment
+00,012		*		*		1		1		1		1		1		//Giant Sword
+00,013		*		*		1		1		1		1		1		//Giant Sword
+00,014		*		*		1		1		1		1		1		//Giant Sword
+00,015		*		*		1		1		1		1		1		//Giant Sword
+02,006		*		*		1		1		1		1		1		//Chaos Dragon Axe
+04,006		*		*		1		1		1		1		1		//Chaos Nature Bow
+04,014		*		*		1		1		1		1		1		//Aquagold Crossbow
+05,006		*		*		1		1		1		1		1		//Staff of Resurrection
+05,007		*		*		1		1		1		1		1		//Chaos Lightning Staff
+06,012		*		*		1		1		1		1		1		//Bronze Shield
+06,014		*		*		1		1		1		1		1		//Legendary Shield
+07,001		*		*		1		1		1		1		1		//Dragon Helm
+08,001		*		*		1		1		1		1		1		//Dragon Armor
+09,001		*		*		1		1		1		1		1		//Dragon Pants
+10,001		*		*		1		1		1		1		1		//Dragon Gloves
+11,001		*		*		1		1		1		1		1		//Dragon Boots
+07,003		*		*		1		1		1		1		1		//Legendary Helm
+08,003		*		*		1		1		1		1		1		//Legendary Armor
+09,003		*		*		1		1		1		1		1		//Legendary Pants
+10,003		*		*		1		1		1		1		1		//Legendary Gloves
+11,003		*		*		1		1		1		1		1		//Legendary Boots
+07,009		*		*		1		1		1		1		1		//Plate Helm
+08,009		*		*		1		1		1		1		1		//Plate Armor
+09,009		*		*		1		1		1		1		1		//Plate Pants
+10,009		*		*		1		1		1		1		1		//Plate Gloves
+11,009		*		*		1		1		1		1		1		//Plate Boots
+07,013		*		*		1		1		1		1		1		//Spirit Helm
+08,013		*		*		1		1		1		1		1		//Spirit Armor
+09,013		*		*		1		1		1		1		1		//Spirit Pants
+10,013		*		*		1		1		1		1		1		//Spirit Gloves
+11,013		*		*		1		1		1		1		1		//Spirit Boots
+end
+
+5
+//ItemIndex	ItemLevel		ItemGrade	LevelRate		SkillRate		LuckRate		OptionRate	ExcellentRate	Comment
+13,008		*		*		1		1		1		1		1		//Ring of Ice
+13,009		*		*		1		1		1		1		1		//Ring of Poison
+13,012		*		*		1		1		1		1		1		//Pendant of Lightning
+13,013		*		*		1		1		1		1		1		//Pendant of Fire
 end

@@ -605,6 +605,36 @@ struct OBJECTSTRUCT
 	int RegenType;
 	int LastAutomataRuntime;
 	int LastAutomataDelay;
+	bool m_bAutoAttack;
+	bool m_bAutoHeal;
+	bool m_bAutoPick;
+	bool m_bAutoBuff;
+	// >> COPY VÀ DÁN TOÀN BỘ KHỐI NÀY VÀO OBJECTSTRUCT <<
+	/*Attack & Pick Custom add By Siniestro*/
+	int AttackCustom;
+	int AttackCustomTime;
+	int AttackCustomSkill;
+	int AttackCustomDelay;
+	int AttackCustomZoneX;
+	int AttackCustomZoneY;
+	int AttackCustomZoneMap;
+	int AttackCustomOffline;
+	int AttackCustomOfflineTime;
+	int AttackCustomAutoBuff;
+	int AttackCustomAutoBuffDelay;
+	int DisablePvp;
+	int PickupEnable;
+	int Pickup[20]; // Bạn có thể thay 20 bằng MAX_CUSTOMPICK nếu có định nghĩa
+	int PickupExc;
+	int PickupSocket;
+	int PickupSetItem;
+	int LastUsedSkill;
+	/*end*/
+
+	void proc_AutoAttack();
+	void proc_AutoHeal();
+	void proc_AutoPick();
+	void proc_AutoBuff();
 	DWORD LastCheckTick;
 };
 
@@ -690,6 +720,7 @@ short gObjDel(int aIndex);
 LPOBJ gObjFind(char* name);
 
 int gObjCalcDistance(LPOBJ lpObj, LPOBJ lpTarget);
+void gObjPickProc();
 
 //**************************************************************************//
 // OBJECT CHECK FUNCTIONS **************************************************//

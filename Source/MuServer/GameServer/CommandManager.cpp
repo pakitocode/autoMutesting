@@ -19,6 +19,10 @@
 #include "ServerInfo.h"
 #include "Util.h"
 #include "Monster.h"
+#include "ResetSystem.h"
+#include "DefaultClassInfo.h"
+#include "CustomAttack.h"
+#include "CustomPick.h"
 
 CCommandManager gCommandManager;
 
@@ -239,8 +243,16 @@ bool CCommandManager::ManagementCore(LPOBJ lpObj, char* message)
 
 	if (this->GetInfoByName(command, &CommandData) == false)
 	{
-		return false;
-	}
+		// THÊM ĐOẠN CODE NÀY VÀO
+        // Nó sẽ kiểm tra xem đây có phải là lệnh của CustomAttack hoặc CustomPick không
+        if (gCustomAttack.CommandCustomAttack(lpObj, message) == true || gCustomPick.CommandPick(lpObj, message) == true)
+        {
+            return true; // Nếu đúng, trả về true để server biết lệnh đã được xử lý
+        }
+        
+        return false; // Nếu không phải, trả về false như cũ
+    }
+
 
 	char* argument = &message[strlen(command)];
 
@@ -316,216 +328,216 @@ bool CCommandManager::ManagementCore(LPOBJ lpObj, char* message)
 
 	switch (CommandData.Index)
 	{
-		case COMMAND_MOVE:
-		{
-			this->CommandMove(lpObj, argument);
+	case COMMAND_MOVE:
+	{
+		this->CommandMove(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_POST:
-		{
-			this->CommandPost(lpObj, argument);
+	case COMMAND_POST:
+	{
+		this->CommandPost(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ADD_STR:
-		{
-			this->CommandAddPoint(lpObj, argument, 0);
+	case COMMAND_ADD_STR:
+	{
+		this->CommandAddPoint(lpObj, argument, 0);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ADD_DEX:
-		{
-			this->CommandAddPoint(lpObj, argument, 1);
+	case COMMAND_ADD_DEX:
+	{
+		this->CommandAddPoint(lpObj, argument, 1);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ADD_VIT:
-		{
-			this->CommandAddPoint(lpObj, argument, 2);
+	case COMMAND_ADD_VIT:
+	{
+		this->CommandAddPoint(lpObj, argument, 2);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ADD_ENE:
-		{
-			this->CommandAddPoint(lpObj, argument, 3);
+	case COMMAND_ADD_ENE:
+	{
+		this->CommandAddPoint(lpObj, argument, 3);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_RESET:
-		{
-			this->CommandReset(lpObj, argument);
+	case COMMAND_RESET:
+	{
+		this->CommandReset(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GRAND_RESET:
-		{
-			this->CommandGrandReset(lpObj, argument);
+	case COMMAND_GRAND_RESET:
+	{
+		this->CommandGrandReset(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_PK_CLEAR:
-		{
-			this->CommandPKClear(lpObj, argument);
+	case COMMAND_PK_CLEAR:
+	{
+		this->CommandPKClear(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ADD_MONEY:
-		{
-			this->CommandAddMoney(lpObj, argument);
+	case COMMAND_ADD_MONEY:
+	{
+		this->CommandAddMoney(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_SUB_MONEY:
-		{
-			this->CommandSubMoney(lpObj, argument);
+	case COMMAND_SUB_MONEY:
+	{
+		this->CommandSubMoney(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_CHANGE:
-		{
-			this->CommandChange(lpObj, argument);
+	case COMMAND_CHANGE:
+	{
+		this->CommandChange(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_WARE:
-		{
-			this->CommandWare(lpObj, argument);
+	case COMMAND_WARE:
+	{
+		this->CommandWare(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_ONLINES:
-		{
-			this->CommandOnlines(lpObj, argument);
+	case COMMAND_ONLINES:
+	{
+		this->CommandOnlines(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GUILD_WAR:
-		{
-			this->CommandGuildWar(lpObj, argument);
+	case COMMAND_GUILD_WAR:
+	{
+		this->CommandGuildWar(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_BATTLE_SOCCER:
-		{
-			this->CommandBattleSoccer(lpObj, argument);
+	case COMMAND_BATTLE_SOCCER:
+	{
+		this->CommandBattleSoccer(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_REQUEST:
-		{
-			this->CommandRequest(lpObj, argument);
+	case COMMAND_REQUEST:
+	{
+		this->CommandRequest(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
 
-		case COMMAND_GM_GLOBAL:
-		{
-			this->CommandGMGlobal(lpObj, argument);
+	case COMMAND_GM_GLOBAL:
+	{
+		this->CommandGMGlobal(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_MOVE:
-		{
-			this->CommandGMMove(lpObj, argument);
+	case COMMAND_GM_MOVE:
+	{
+		this->CommandGMMove(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_MOVEALL:
-		{
-			this->CommandGMMoveAll(lpObj, argument);
+	case COMMAND_GM_MOVEALL:
+	{
+		this->CommandGMMoveAll(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_CHASE:
-		{
-			this->CommandGMChase(lpObj, argument);
+	case COMMAND_GM_CHASE:
+	{
+		this->CommandGMChase(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_BRING:
-		{
-			this->CommandGMBring(lpObj, argument);
+	case COMMAND_GM_BRING:
+	{
+		this->CommandGMBring(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_DISCONNECT:
-		{
-			this->CommandGMDisconnect(lpObj, argument);
+	case COMMAND_GM_DISCONNECT:
+	{
+		this->CommandGMDisconnect(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_FIREWORKS:
-		{
-			this->CommandGMFireworks(lpObj, argument);
+	case COMMAND_GM_FIREWORKS:
+	{
+		this->CommandGMFireworks(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_DROP:
-		{
-			this->CommandGMDrop(lpObj, argument);
+	case COMMAND_GM_DROP:
+	{
+		this->CommandGMDrop(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_MAKE:
-		{
-			this->CommandGMMake(lpObj, argument);
+	case COMMAND_GM_MAKE:
+	{
+		this->CommandGMMake(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_MAKESET:
-		{
-			this->CommandGMMakeSet(lpObj, argument);
+	case COMMAND_GM_MAKESET:
+	{
+		this->CommandGMMakeSet(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_CLEARINV:
-		{
-			this->CommandGMClearInv(lpObj, argument);
+	case COMMAND_GM_CLEARINV:
+	{
+		this->CommandGMClearInv(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_SKIN:
-		{
-			this->CommandGMSkin(lpObj, argument);
+	case COMMAND_GM_SKIN:
+	{
+		this->CommandGMSkin(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 
-		case COMMAND_GM_MAKEMOB:
-		{
-			this->CommandGMMakeMob(lpObj, argument);
+	case COMMAND_GM_MAKEMOB:
+	{
+		this->CommandGMMakeMob(lpObj, argument);
 
-			break;
-		}
+		break;
+	}
 	}
 
 	lpObj->Money -= CommandData.Money[lpObj->AccountLevel];
@@ -598,26 +610,26 @@ void CCommandManager::DGGlobalPostRecv(SDHP_GLOBAL_POST_RECV* lpMsg)
 {
 	switch (lpMsg->type)
 	{
-		case 0:
-		{
-			this->GCPostMessageGold(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
+	case 0:
+	{
+		this->GCPostMessageGold(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
 
-			break;
-		}
+		break;
+	}
 
-		case 1:
-		{
-			this->GCPostMessageBlue(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
+	case 1:
+	{
+		this->GCPostMessageBlue(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
 
-			break;
-		}
+		break;
+	}
 
-		case 2:
-		{
-			this->GCPostMessageGreen(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
+	case 2:
+	{
+		this->GCPostMessageGreen(lpMsg->name, lpMsg->serverName, 69, lpMsg->message);
 
-			break;
-		}
+		break;
+	}
 	}
 }
 
@@ -740,24 +752,24 @@ void CCommandManager::CommandAddPoint(LPOBJ lpObj, char* arg, int type)
 	{
 		switch (type)
 		{
-			case 2: // Vitality
-			{
-				pMsg.MaxLifeAndMana = GET_MAX_WORD_VALUE((lpObj->MaxLife + lpObj->AddLife));
+		case 2: // Vitality
+		{
+			pMsg.MaxLifeAndMana = GET_MAX_WORD_VALUE((lpObj->MaxLife + lpObj->AddLife));
 
-				break;
-			}
+			break;
+		}
 
-			case 3: // Energy
-			{
-				pMsg.MaxLifeAndMana = GET_MAX_WORD_VALUE((lpObj->MaxMana + lpObj->AddMana));
+		case 3: // Energy
+		{
+			pMsg.MaxLifeAndMana = GET_MAX_WORD_VALUE((lpObj->MaxMana + lpObj->AddMana));
 
-				break;
-			}
+			break;
+		}
 		}
 
 		pMsg.MaxBP = GET_MAX_WORD_VALUE((lpObj->MaxBP + lpObj->AddBP));
 
-	#if(GAMESERVER_EXTRA==1)
+#if(GAMESERVER_EXTRA==1)
 
 		pMsg.ViewPoint = (DWORD)(lpObj->LevelUpPoint);
 
@@ -775,7 +787,7 @@ void CCommandManager::CommandAddPoint(LPOBJ lpObj, char* arg, int type)
 
 		pMsg.ViewEnergy = lpObj->Energy;
 
-	#endif
+#endif
 
 		GCNewCharacterInfoSend(lpObj);
 
@@ -889,74 +901,99 @@ void CCommandManager::CommandAddPointAutoProc(LPOBJ lpObj)
 
 void CCommandManager::CommandReset(LPOBJ lpObj, char* arg)
 {
-	char mode[5] = { 0 };
+	// Bước 1: Đảm bảo con trỏ hòm đồ đang trỏ đúng vào hòm đồ thật
+	gObjFixInventoryPointer(lpObj->Index);
 
-	this->GetString(arg, mode, sizeof(mode), 0);
+	// Bước 2: Lấy thông tin quy tắc reset từ hệ thống mới
+	RESET_INFO* lpResetInfo = gResetSystem.GetResetInfo(lpObj);
 
-	if (strcmp(mode, "auto") == 0)
+	// Bước 3: Kiểm tra các điều kiện
+	if (lpResetInfo == 0)
 	{
-		this->CommandResetAuto(lpObj, arg);
-
-		return;
-	}
-
-	if (lpObj->Interface.use != 0 || lpObj->State == OBJECT_DELCMD || lpObj->DieRegen != 0 || lpObj->Teleport != 0)
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(75, lpObj->Lang));
-
-		return;
-	}
-
-	if (lpObj->Level < gResetTable.GetResetLevel(lpObj))
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(59, lpObj->Lang), gResetTable.GetResetLevel(lpObj));
-
-		return;
-	}
-
-	if (lpObj->Money < ((DWORD)gResetTable.GetResetMoney(lpObj)))
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(58, lpObj->Lang), gResetTable.GetResetMoney(lpObj));
-
-		return;
-	}
-
-	if (lpObj->Reset >= gServerInfo.m_CommandResetLimit[lpObj->AccountLevel])
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(76, lpObj->Lang), gServerInfo.m_CommandResetLimit[lpObj->AccountLevel]);
-
-		return;
-	}
-
-	if (gServerInfo.m_CommandResetCheckItem[lpObj->AccountLevel] != 0)
-	{
-		for (int n = 0; n < INVENTORY_WEAR_SIZE; n++)
+		char* message = gMessage.GetTextMessage(113, lpObj->Lang);
+		if (message != nullptr)
 		{
-			if (lpObj->Inventory[n].IsItem() != false)
-			{
-				gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(77, lpObj->Lang));
-
-				return;
-			}
+			gNotice.GCNoticeSend(lpObj->Index, 1, message);
 		}
-	}
-
-	if (((lpObj->CommandManagerTransaction == 0) ? (lpObj->CommandManagerTransaction++) : lpObj->CommandManagerTransaction) != 0)
-	{
 		return;
 	}
 
-	SDHP_COMMAND_RESET_SEND pMsg;
+	if (lpObj->Level < lpResetInfo->ReqLevel)
+	{
+		char* message = gMessage.GetTextMessage(114, lpObj->Lang);
+		if (message != nullptr)
+		{
+			gNotice.GCNoticeSend(lpObj->Index, 1, message, lpResetInfo->ReqLevel);
+		}
+		return;
+	}
 
-	pMsg.header.set(0x05, 0x04, sizeof(pMsg));
+	if (lpObj->Money < lpResetInfo->ReqMoney)
+	{
+		char* message = gMessage.GetTextMessage(115, lpObj->Lang);
+		if (message != nullptr)
+		{
+			gNotice.GCNoticeSend(lpObj->Index, 1, message, lpResetInfo->ReqMoney);
+		}
+		return;
+	}
 
-	pMsg.index = lpObj->Index;
+	if (gResetSystem.CheckResetItem(lpObj, lpResetInfo) == false)
+	{
+		char* message = gMessage.GetTextMessage(116, lpObj->Lang);
+		if (message != nullptr)
+		{
+			gNotice.GCNoticeSend(lpObj->Index, 1, message);
+		}
+		return;
+	}
 
-	memcpy(pMsg.account, lpObj->Account, sizeof(pMsg.account));
+	// Bước 4: Nếu tất cả kiểm tra đều qua, thực hiện reset
+	gResetSystem.TakeResetItem(lpObj, lpResetInfo);
+	lpObj->Money -= lpResetInfo->ReqMoney;
+	GCMoneySend(lpObj->Index, lpObj->Money);
 
-	memcpy(pMsg.name, lpObj->Name, sizeof(pMsg.name));
+	if (lpResetInfo->KeepStats == 0)
+	{
+		lpObj->Strength = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Strength;
+		lpObj->Dexterity = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Dexterity;
+		lpObj->Vitality = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Vitality;
+		lpObj->Energy = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Energy;
+	}
 
-	gDataServerConnection.DataSend((BYTE*)&pMsg, pMsg.header.size);
+	lpObj->Level = 1;
+	lpObj->Reset++;
+	lpObj->Experience = 0; // Reset cả kinh nghiệm về 0
+
+	gResetSystem.RecalculateResetPoints(lpObj);
+	gObjectManager.CharacterCalcAttribute(lpObj->Index);
+	// === THÊM LOG DEBUG Ở ĐÂY ===
+	gLog.Output(LOG_GENERAL, "[DEBUG_RESET_SAVE] Chuan bi luu: Level=%d, Reset=%d, Points=%d, Exp=%lld", lpObj->Level, lpObj->Reset, lpObj->LevelUpPoint, lpObj->Experience);
+	GDCharacterInfoSaveSend(lpObj->Index); // Gửi yêu cầu lưu thông tin nhân vật vào DB
+	GDResetInfoSaveSend(lpObj->Index, 0, 0, 0); // LƯU SỐ LẦN RESET MỚI (QUAN TRỌNG NHẤT)
+	GCLevelUpSend(lpObj); // Gửi gói tin cập nhật level, point... cho client
+	GCNewCharacterInfoSend(lpObj); // Gửi gói tin cập nhật mở rộng cho client (an toàn hơn)
+	switch (lpObj->Class)
+	{
+	case CLASS_DW: case CLASS_DK: case CLASS_MG:
+		gObjMoveGate(lpObj->Index, 17); // Lorencia
+		break;
+	case CLASS_FE:
+		gObjMoveGate(lpObj->Index, 27); // Noria
+		break;
+	}
+	// === THÊM LỆNH "LÀM MỚI" TẠI ĐÂY ===
+	gObjSetPosition(lpObj->Index, lpObj->X, lpObj->Y);
+
+	char* successMessage = gMessage.GetTextMessage(117, lpObj->Lang);
+	if (successMessage != nullptr)
+	{
+		gNotice.GCNoticeSend(lpObj->Index, 1, successMessage, lpObj->Reset);
+	}
+	// === THÊM DÒNG NÀY ĐỂ CẬP NHẬT LẠI THÔNG BÁO XANH ===
+	gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(40, lpObj->Lang), lpObj->Reset, lpObj->GrandReset);
+
+	gLog.Output(LOG_COMMAND, "[CommandReset][%s][%s] - (Reset: %d)", lpObj->Account, lpObj->Name, lpObj->Reset);
 }
 
 void CCommandManager::CommandResetAuto(LPOBJ lpObj, char* arg)
@@ -1000,273 +1037,309 @@ void CCommandManager::CommandResetAuto(LPOBJ lpObj, char* arg)
 
 void CCommandManager::CommandResetAutoProc(LPOBJ lpObj)
 {
+	gObjFixInventoryPointer(lpObj->Index);
+
 	if (lpObj->Interface.use != 0 || lpObj->State == OBJECT_DELCMD || lpObj->DieRegen != 0 || lpObj->Teleport != 0)
 	{
 		return;
 	}
 
-	if (lpObj->Level < gResetTable.GetResetLevel(lpObj))
+	RESET_INFO* lpResetInfo = gResetSystem.GetResetInfo(lpObj);
+
+	if (lpResetInfo == 0)
 	{
-		return;
-	}
-
-	if (lpObj->Money < ((DWORD)gResetTable.GetResetMoney(lpObj)))
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(58, lpObj->Lang), gResetTable.GetResetMoney(lpObj));
-
-		return;
-	}
-
-	if (lpObj->Reset >= gServerInfo.m_CommandResetLimit[lpObj->AccountLevel])
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(76, lpObj->Lang), gServerInfo.m_CommandResetLimit[lpObj->AccountLevel]);
-
-		return;
-	}
-
-	if (gServerInfo.m_CommandResetCheckItem[lpObj->AccountLevel] != 0)
-	{
-		for (int n = 0; n < INVENTORY_WEAR_SIZE; n++)
+		lpObj->AutoResetEnable = 0;
+		char* message = gMessage.GetTextMessage(113, lpObj->Lang);
+		if (message != nullptr)
 		{
-			if (lpObj->Inventory[n].IsItem() != false)
-			{
-				gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(77, lpObj->Lang));
-
-				return;
-			}
+			gNotice.GCNoticeSend(lpObj->Index, 1, message);
 		}
+		return;
 	}
 
-	if (((lpObj->CommandManagerTransaction == 0) ? (lpObj->CommandManagerTransaction++) : lpObj->CommandManagerTransaction) != 0)
+	if (lpObj->Level < lpResetInfo->ReqLevel)
 	{
 		return;
 	}
 
-	SDHP_COMMAND_RESET_SEND pMsg;
-
-	pMsg.header.set(0x05, 0x04, sizeof(pMsg));
-
-	pMsg.index = lpObj->Index;
-
-	memcpy(pMsg.account, lpObj->Account, sizeof(pMsg.account));
-
-	memcpy(pMsg.name, lpObj->Name, sizeof(pMsg.name));
-
-	gDataServerConnection.DataSend((BYTE*)&pMsg, pMsg.header.size);
-}
-
-void CCommandManager::DGCommandResetRecv(SDHP_COMMAND_RESET_RECV* lpMsg)
-{
-	if (gObjIsAccountValid(lpMsg->index, lpMsg->account) == false)
+	if (lpObj->Money < lpResetInfo->ReqMoney)
 	{
-		LogAdd(LOG_RED, "[DGCommandResetRecv] Invalid Account [%d](%s)", lpMsg->index, lpMsg->account);
-
-		CloseClient(lpMsg->index);
-
+		lpObj->AutoResetEnable = 0;
+		char* message = gMessage.GetTextMessage(115, lpObj->Lang);
+		if (message != nullptr)
+		{
+			gNotice.GCNoticeSend(lpObj->Index, 1, message, lpResetInfo->ReqMoney);
+		}
 		return;
 	}
 
-	LPOBJ lpObj = &gObj[lpMsg->index];
-
-	lpObj->CommandManagerTransaction = 0;
-
-	if (lpMsg->ResetDay >= ((DWORD)gServerInfo.m_CommandResetLimitDay[lpObj->AccountLevel]))
+	if (gResetSystem.CheckResetItem(lpObj, lpResetInfo) == false)
 	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(78, lpObj->Lang), gServerInfo.m_CommandResetLimitDay[lpObj->AccountLevel]);
-
+		lpObj->AutoResetEnable = 0;
+		char* message = gMessage.GetTextMessage(116, lpObj->Lang);
+		if (message != nullptr)
+		{
+			gNotice.GCNoticeSend(lpObj->Index, 1, message);
+		}
 		return;
 	}
 
-	if (lpMsg->ResetWek >= ((DWORD)gServerInfo.m_CommandResetLimitWek[lpObj->AccountLevel]))
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(79, lpObj->Lang), gServerInfo.m_CommandResetLimitWek[lpObj->AccountLevel]);
-
-		return;
-	}
-
-	if (lpMsg->ResetMon >= ((DWORD)gServerInfo.m_CommandResetLimitMon[lpObj->AccountLevel]))
-	{
-		gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(80, lpObj->Lang), gServerInfo.m_CommandResetLimitMon[lpObj->AccountLevel]);
-
-		return;
-	}
-
-	lpObj->Money -= gResetTable.GetResetMoney(lpObj);
-
+	gResetSystem.TakeResetItem(lpObj, lpResetInfo);
+	lpObj->Money -= lpResetInfo->ReqMoney;
 	GCMoneySend(lpObj->Index, lpObj->Money);
 
-	lpObj->Level = ((gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel] == -1) ? (lpObj->Level - gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel]) : gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel]);
-
-	lpObj->Experience = gLevelExperience[lpObj->Level - 1];
-
-	lpObj->Reset += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
-
-	lpMsg->ResetDay += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
-
-	lpMsg->ResetWek += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
-
-	lpMsg->ResetMon += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
-
-	lpObj->AutoAddPointCount = 0;
-
-	lpObj->AutoAddPointStats[0] = 0;
-
-	lpObj->AutoAddPointStats[1] = 0;
-
-	lpObj->AutoAddPointStats[2] = 0;
-
-	lpObj->AutoAddPointStats[3] = 0;
-
-	if (gServerInfo.m_CommandResetQuest[lpObj->AccountLevel] != 0)
+	if (lpResetInfo->KeepStats == 0)
 	{
-		lpObj->DBClass = ((lpObj->DBClass / 16) * 16);
-
-		lpObj->ChangeUp = lpObj->DBClass % 16;
-
-		gObjectManager.CharacterMakePreviewCharSet(lpObj->Index);
-
-		BYTE Class = (lpObj->ChangeUp * 16);
-
-		Class -= (Class / 32);
-
-		Class += (lpObj->Class * 32);
-
-		gQuest.GCQuestRewardSend(lpObj->Index, 201, Class);
-
-		memset(lpObj->Quest, 0xFF, sizeof(lpObj->Quest));
-
-		gQuest.GCQuestInfoSend(lpObj->Index);
-	}
-
-	if (gServerInfo.m_CommandResetSkill[lpObj->AccountLevel] != 0)
-	{
-		for (int n = 0; n < MAX_SKILL_LIST; n++)
-		{
-			lpObj->Skill[n].Clear();
-		}
-
-		gSkillManager.GCSkillListSend(lpObj);
-
-		gObjectManager.CharacterCalcAttribute(lpObj->Index);
-	}
-
-	if (gServerInfo.m_CommandResetStats[lpObj->AccountLevel] != 0)
-	{
-		int point = gResetTable.GetResetPoint(lpObj);
-
-		point = (point * gServerInfo.m_CommandResetPointRate[lpObj->Class]) / 100;
-
-		point += (lpObj->Level - 1) * gServerInfo.m_LevelUpPoint[lpObj->Class];
-
-		point += ((gQuest.CheckQuestListState(lpObj, 2, QUEST_FINISH) == 0) ? 0 : ((lpObj->Level > 220) ? ((lpObj->Level - 220) * gServerInfo.m_PlusStatPoint) : 0));
-
-		point += gQuest.GetQuestRewardLevelUpPoint(lpObj);
-
-		point += lpObj->FruitAddPoint;
-
-		if (gServerInfo.m_CommandGrandResetStats[lpObj->AccountLevel] != 0)
-		{
-			int grpoint = gServerInfo.m_CommandGrandResetPoint[lpObj->AccountLevel] * lpObj->GrandReset;
-
-			grpoint = (grpoint * gServerInfo.m_CommandGrandResetPointRate[lpObj->Class]) / 100;
-
-			grpoint += (lpObj->Level - 1) * gServerInfo.m_LevelUpPoint[lpObj->Class];
-
-			grpoint += ((gQuest.CheckQuestListState(lpObj, 2, QUEST_FINISH) == 0) ? 0 : ((lpObj->Level > 220) ? ((lpObj->Level - 220) * gServerInfo.m_PlusStatPoint) : 0));
-
-			grpoint += gQuest.GetQuestRewardLevelUpPoint(lpObj);
-
-			grpoint += lpObj->FruitAddPoint;
-
-			point += grpoint;
-		}
-
-		lpObj->LevelUpPoint = point;
-
 		lpObj->Strength = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Strength;
-
 		lpObj->Dexterity = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Dexterity;
-
 		lpObj->Vitality = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Vitality;
-
 		lpObj->Energy = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Energy;
 	}
 
+	lpObj->Level = 1;
+	lpObj->Reset++;
+	lpObj->Experience = 0; // Reset cả kinh nghiệm về 0
+
+	gResetSystem.RecalculateResetPoints(lpObj);
 	gObjectManager.CharacterCalcAttribute(lpObj->Index);
-
-	GCNewCharacterInfoSend(lpObj);
-
-	GDCharacterInfoSaveSend(lpObj->Index);
-
-	GDResetInfoSaveSend(lpObj->Index, lpMsg->ResetDay, lpMsg->ResetWek, lpMsg->ResetMon);
-
-	GCLevelUpSend(lpObj);
-
-	gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(81, lpObj->Lang), lpObj->Reset);
-
-	if (gServerInfo.m_CommandResetMove[lpObj->AccountLevel] != 0)
+	// === THÊM LOG DEBUG Ở ĐÂY ===
+	gLog.Output(LOG_GENERAL, "[DEBUG_RESET_SAVE] Chuan bi luu: Level=%d, Reset=%d, Points=%d, Exp=%lld", lpObj->Level, lpObj->Reset, lpObj->LevelUpPoint, lpObj->Experience);
+	GDCharacterInfoSaveSend(lpObj->Index); // Gửi yêu cầu lưu thông tin nhân vật vào DB
+	GDResetInfoSaveSend(lpObj->Index, 0, 0, 0); // LƯU SỐ LẦN RESET MỚI
+	GCLevelUpSend(lpObj); // Gửi gói tin cập nhật level, point... cho client
+	GCNewCharacterInfoSend(lpObj); // Gửi gói tin cập nhật mở rộng cho client (an toàn hơn)
+	switch (lpObj->Class)
 	{
-		if (gServerInfo.m_CommandResetMove[lpObj->AccountLevel] == 2)
-		{
-			lpObj->CloseCount = 1;
+	case CLASS_DW: case CLASS_DK: case CLASS_MG:
+		gObjMoveGate(lpObj->Index, 17); // Lorencia
+		break;
+	case CLASS_FE:
+		gObjMoveGate(lpObj->Index, 27); // Noria
+		break;
+	}
+	// === THÊM LỆNH "LÀM MỚI" TẠI ĐÂY ===
+	gObjSetPosition(lpObj->Index, lpObj->X, lpObj->Y);
 
-			lpObj->CloseType = 1;
-		}
-		else
-		{
-			switch (lpObj->Class)
+	char* successMessage = gMessage.GetTextMessage(117, lpObj->Lang);
+	if (successMessage != nullptr)
+	{
+		gNotice.GCNoticeSend(lpObj->Index, 1, successMessage, lpObj->Reset);
+	}
+	// === THÊM DÒNG NÀY ĐỂ CẬP NHẬT LẠI THÔNG BÁO XANH ===
+	gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(40, lpObj->Lang), lpObj->Reset, lpObj->GrandReset);
+
+	gLog.Output(LOG_COMMAND, "[CommandResetAuto][%s][%s] - (Reset: %d)", lpObj->Account, lpObj->Name, lpObj->Reset);
+}
+
+void CCommandManager::DGCommandResetRecv(SDHP_COMMAND_RESET_RECV* lpMsg)
+//{
+	//if (gObjIsAccountValid(lpMsg->index, lpMsg->account) == false)
+	//{
+		//LogAdd(LOG_RED, "[DGCommandResetRecv] Invalid Account [%d](%s)", lpMsg->index, lpMsg->account);
+
+		//CloseClient(lpMsg->index);
+
+		//return;
+	//}
+
+	//LPOBJ lpObj = &gObj[lpMsg->index];
+
+	//lpObj->CommandManagerTransaction = 0;
+
+	//if (lpMsg->ResetDay >= ((DWORD)gServerInfo.m_CommandResetLimitDay[lpObj->AccountLevel]))
+	//{
+		//gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(78, lpObj->Lang), gServerInfo.m_CommandResetLimitDay[lpObj->AccountLevel]);
+
+		//return;
+	//}
+
+	//if (lpMsg->ResetWek >= ((DWORD)gServerInfo.m_CommandResetLimitWek[lpObj->AccountLevel]))
+	//{
+		//gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(79, lpObj->Lang), gServerInfo.m_CommandResetLimitWek[lpObj->AccountLevel]);
+
+		//return;
+	//}
+
+	//if (lpMsg->ResetMon >= ((DWORD)gServerInfo.m_CommandResetLimitMon[lpObj->AccountLevel]))
+	//{
+		//gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(80, lpObj->Lang), gServerInfo.m_CommandResetLimitMon[lpObj->AccountLevel]);
+
+		//return;
+	//}
+
+	//lpObj->Money -= gResetTable.GetResetMoney(lpObj);
+
+	//GCMoneySend(lpObj->Index, lpObj->Money);
+
+	//lpObj->Level = ((gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel] == -1) ? (lpObj->Level - gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel]) : gServerInfo.m_CommandResetStartLevel[lpObj->AccountLevel]);
+
+	//lpObj->Experience = gLevelExperience[lpObj->Level - 1];
+
+	//lpObj->Reset += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
+
+	//lpMsg->ResetDay += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
+
+	//lpMsg->ResetWek += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
+
+	//lpMsg->ResetMon += gBonusManager.GetBonusValue(lpObj, BONUS_INDEX_RESET_AMOUNT, gServerInfo.m_CommandResetCount[lpObj->AccountLevel], -1, -1, -1, -1);
+
+	//lpObj->AutoAddPointCount = 0;
+
+	//lpObj->AutoAddPointStats[0] = 0;
+
+	//lpObj->AutoAddPointStats[1] = 0;
+
+	//lpObj->AutoAddPointStats[2] = 0;
+
+	//lpObj->AutoAddPointStats[3] = 0;
+
+	//if (gServerInfo.m_CommandResetQuest[lpObj->AccountLevel] != 0)
+	//{
+		//lpObj->DBClass = ((lpObj->DBClass / 16) * 16);
+
+		//lpObj->ChangeUp = lpObj->DBClass % 16;
+
+		//gObjectManager.CharacterMakePreviewCharSet(lpObj->Index);
+
+		//BYTE Class = (lpObj->ChangeUp * 16);
+
+		//Class -= (Class / 32);
+
+		//Class += (lpObj->Class * 32);
+
+		//gQuest.GCQuestRewardSend(lpObj->Index, 201, Class);
+
+		//memset(lpObj->Quest, 0xFF, sizeof(lpObj->Quest));
+
+		//gQuest.GCQuestInfoSend(lpObj->Index);
+	//}
+
+	//if (gServerInfo.m_CommandResetSkill[lpObj->AccountLevel] != 0)
+	//{
+		//for (int n = 0; n < MAX_SKILL_LIST; n++)
+		//{
+			//lpObj->Skill[n].Clear();
+		//}
+
+		//gSkillManager.GCSkillListSend(lpObj);
+
+		//gObjectManager[lpObj->AccountLevel] != 0)
+	{
+		//int point = gResetTable.GetResetPoint(lpObj);
+
+		//ipont = (point * gServerInfo.m_CommandResetPointRate[lpObj->Class]) / 100;
+
+		//point += (lpObj->Level - 1) * gServerInfo.m_LevelUpPoint[lpObj->Class];
+
+		//point += ((gQuest.CheckQuestListState(lpObj, 2, QUEST_FINISH) == 0) ? 0 : ((lpObj->Level > 220) ? ((lpObj->Level - 220) * gServerInfo.m_PlusStatPoint) : 0));
+
+		//point += gQuest.GetQuestRewardLevelUpPoint(lpObj);
+
+		//point += lpObj->FruitAddPoint;
+
+		//if (gServerInfo.m_CommandGrandResetStats[lpObj->AccountLevel] != 0)
+		//{
+			// grpoint = gServerInfo.m_CommandGrandResetPoint[lpObj->AccountLevel] * lpObj->GrandReset;
+
+			//grpoint = (grpoint * gServerInfo.m_CommandGrandResetPointRate[lpObj->Class]) / 100;
+
+			//grpoint += (lpObj->Level - 1) * gServerInfo.m_LevelUpPoint[lpObj->Class];
+
+			//grpoint += ((gQuest.CheckQuestListState(lpObj, 2, QUEST_FINISH) == 0) ? 0 : ((lpObj->Level > 220) ? ((lpObj->Level - 220) * gServerInfo.m_PlusStatPoint) : 0));
+
+			//grpoint += gQuest.GetQuestRewardLevelUpPoint(lpObj);
+
+			//grpoint += lpObj->FruitAddPoint;
+
+			//point += grpoint;
+		//}
+
+		//lpObj->LevelUpPoint = point;
+
+		//lpObj->Strength = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Strength;
+
+		//lpObj->Dexterity = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Dexterity;
+
+		//lpObj->Vitality = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Vitality;
+
+		//lpObj->Energy = gDefaultClassInfo.m_DefaultClassInfo[lpObj->Class].Energy;
+	//}
+
+	//gObjectManager.CharacterCalcAttribute(lpObj->Index);
+
+	//GCNewCharacterInfoSend(lpObj);
+
+	//GDCharacterInfoSaveSend(lpObj->Index);
+
+	//GDResetInfoSaveSend(lpObj->Index, lpMsg->ResetDay, lpMsg->ResetWek, lpMsg->ResetMon);
+
+	//GCLevelUpSend(lpObj);
+
+	//gNotice.GCNoticeSend(lpObj->Index, 1, gMessage.GetTextMessage(81, lpObj->Lang), lpObj->Reset);
+
+	//if (gServerInfo.m_CommandResetMove[lpObj->AccountLevel] != 0)
+	//{
+		//if (gServerInfo.m_CommandResetMove[lpObj->AccountLevel] == 2)
+		//{
+			//lpObj->CloseCount = 1;
+
+			//lpObj->CloseType = 1;
+		//}
+		//else
+		//{
+			//switch (lpObj->Class)
+			//{
+			//case CLASS_DW:
+			//{
+				//gObjMoveGate(lpObj->Index, 17);
+
+				//break;
+			//}
+
+			//case CLASS_DK:
+			//{
+				//gObjMoveGate(lpObj->Index, 17);
+
+				//break;
+			//}
+
+			//case CLASS_FE:
+			//{
+				//gObjMoveGate(lpObj->Index, 27);
+
+				//break;
+			//}
+
+			//case CLASS_MG:
 			{
-				case CLASS_DW:
-				{
-					gObjMoveGate(lpObj->Index, 17);
+				//gObjMoveGate(lpObj->Index, 17);
 
-					break;
-				}
-
-				case CLASS_DK:
-				{
-					gObjMoveGate(lpObj->Index, 17);
-
-					break;
-				}
-
-				case CLASS_FE:
-				{
-					gObjMoveGate(lpObj->Index, 27);
-
-					break;
-				}
-
-				case CLASS_MG:
-				{
-					gObjMoveGate(lpObj->Index, 17);
-
-					break;
-				}
-			}
+				//break;
+			//}
+			//}
 		}
 	}
 
-	lpObj->AutoAddPointStats[0] = lpObj->AutoResetStats[0];
+	//lpObj->AutoAddPointStats[0] = lpObj->AutoResetStats[0];
 
-	lpObj->AutoAddPointStats[1] = lpObj->AutoResetStats[1];
+	//lpObj->AutoAddPointStats[1] = lpObj->AutoResetStats[1];
 
-	lpObj->AutoAddPointStats[2] = lpObj->AutoResetStats[2];
+	//lpObj->AutoAddPointStats[2] = lpObj->AutoResetStats[2];
 
-	lpObj->AutoAddPointStats[3] = lpObj->AutoResetStats[3];
+	//lpObj->AutoAddPointStats[3] = lpObj->AutoResetStats[3];
 
-	lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[0] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
+	//lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[0] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
 
-	lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[1] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
+	//lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[1] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
 
-	lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[2] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
+	//lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[2] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
 
-	lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[3] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
+	//lpObj->AutoAddPointCount = ((lpObj->AutoAddPointStats[3] > 0) ? (lpObj->AutoAddPointCount + 1) : lpObj->AutoAddPointCount);
 
-	this->CommandAddPointAutoProc(lpObj);
+	//this->CommandAddPointAutoProc(lpObj);
 
-	gLog.Output(LOG_COMMAND, "[CommandReset][%s][%s] - (Reset: %d)", lpObj->Account, lpObj->Name, lpObj->Reset);
-}
+	//gLog.Output(LOG_COMMAND, "[CommandReset][%s][%s] - (Reset: %d)", lpObj->Account, lpObj->Name, lpObj->Reset);
+//}
 
 void CCommandManager::CommandGrandReset(LPOBJ lpObj, char* arg)
 {
@@ -1474,33 +1547,33 @@ void CCommandManager::DGCommandGrandResetRecv(SDHP_COMMAND_RESET_RECV* lpMsg)
 		{
 			switch (lpObj->Class)
 			{
-				case CLASS_DW:
-				{
-					gObjMoveGate(lpObj->Index, 17);
+			case CLASS_DW:
+			{
+				gObjMoveGate(lpObj->Index, 17);
 
-					break;
-				}
+				break;
+			}
 
-				case CLASS_DK:
-				{
-					gObjMoveGate(lpObj->Index, 17);
+			case CLASS_DK:
+			{
+				gObjMoveGate(lpObj->Index, 17);
 
-					break;
-				}
+				break;
+			}
 
-				case CLASS_FE:
-				{
-					gObjMoveGate(lpObj->Index, 27);
+			case CLASS_FE:
+			{
+				gObjMoveGate(lpObj->Index, 27);
 
-					break;
-				}
+				break;
+			}
 
-				case CLASS_MG:
-				{
-					gObjMoveGate(lpObj->Index, 17);
+			case CLASS_MG:
+			{
+				gObjMoveGate(lpObj->Index, 17);
 
-					break;
-				}
+				break;
+			}
 			}
 		}
 	}

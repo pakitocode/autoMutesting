@@ -1,0 +1,36 @@
+13:32:19 [SocketManager] Server started at port [55901]
+13:34:22 [SocketManager] Server started at port [55901]
+13:38:09 [SocketManager] Server started at port [55901]
+13:42:37 [SocketManager] Server started at port [55901]
+13:43:02 [ObjectManager][9000] AddClient (192.168.2.65)
+13:43:15 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:43:20 [ObjectManager][9000] AddCharacterInfo (pakito)
+14:31:37 [SocketManager] Server started at port [55901]
+14:32:25 [SocketManager] Server started at port [55901]
+14:33:34 [SocketManager] Server started at port [55901]
+14:34:13 [SocketManager] Server started at port [55901]
+14:34:43 [SocketManager] Server started at port [55901]
+14:37:12 [SocketManager] Server started at port [55901]
+14:37:25 [ObjectManager][9000] AddClient (192.168.2.65)
+14:37:33 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+14:37:35 [ObjectManager][9000] AddCharacterInfo (pakito)
+15:22:54 [ObjectManager][9000] DelCharacterInfo (pakito)
+15:23:33 [ObjectManager][9000] AddCharacterInfo (pakito)
+16:58:50 [ObjectManager][9000] DelCharacterInfo (pakito)
+16:58:50 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+16:58:50 [ObjectManager][9000] DelClient (192.168.2.65)
+16:58:52 [ObjectManager][9001] AddClient (192.168.2.65)
+16:59:56 [ObjectManager][9001] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+17:21:14 [ObjectManager][9001] AddCharacterInfo (pakito)
+19:20:10 [ObjectManager][9001] DelCharacterInfo (pakito)
+19:20:10 [ObjectManager][9001] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:20:10 [ObjectManager][9001] DelClient (192.168.2.65)
+19:22:34 [ObjectManager][9000] AddClient (192.168.2.65)
+19:22:44 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:22:44 [ObjectManager][9000] AddCharacterInfo (pakito)
+20:02:36 [ObjectManager][9000] DelCharacterInfo (pakito)
+20:02:38 [ObjectManager][9000] AddCharacterInfo (pakito)
+21:15:23 [ObjectManager][9000] DelCharacterInfo (pakito)
+21:15:23 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+21:15:23 [ObjectManager][9000] DelClient (192.168.2.65)
+21:15:23 [SocketManager] WSASend() failed with error: 10038

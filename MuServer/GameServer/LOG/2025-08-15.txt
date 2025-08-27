@@ -1,0 +1,82 @@
+15:14:24 [ServerInfo] ChaosMix loaded successfully
+15:14:24 [ServerInfo] Character loaded successfully
+15:14:24 [ServerInfo] Command loaded successfully
+15:14:24 [ServerInfo] Common loaded successfully
+15:14:24 [ServerInfo] Custom loaded successfully
+15:14:24 [ServerInfo] Event loaded successfully
+15:14:24 [ServerInfo] EventItemBag loaded successfully
+15:14:24 [ServerInfo] Hack loaded successfully
+15:14:24 [ServerInfo] Item loaded successfully
+15:14:25 [ServerInfo] Monster loaded successfully
+15:14:25 [ServerInfo] Move loaded successfully
+15:14:25 [ServerInfo] Quest loaded successfully
+15:14:25 [ServerInfo] Shop loaded successfully
+15:14:25 [ServerInfo] Skill loaded successfully
+15:14:25 [ServerInfo] Util loaded successfully
+15:14:26 [Blood Castle] (1) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (1) SetState EMPTY
+15:14:26 [Blood Castle] (2) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (2) SetState EMPTY
+15:14:26 [Blood Castle] (3) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (3) SetState EMPTY
+15:14:26 [Blood Castle] (4) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (4) SetState EMPTY
+15:14:26 [Blood Castle] (5) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (5) SetState EMPTY
+15:14:26 [Blood Castle] (6) Sync Start Time. [45] min remain
+15:14:26 [Blood Castle] (6) SetState EMPTY
+15:14:26 [Devil Square] (1) Sync Start Time. [75] min remain
+15:14:26 [Devil Square] (1) SetState EMPTY
+15:14:26 [Devil Square] (2) Sync Start Time. [75] min remain
+15:14:26 [Devil Square] (2) SetState EMPTY
+15:14:26 [Devil Square] (3) Sync Start Time. [75] min remain
+15:14:26 [Devil Square] (3) SetState EMPTY
+15:14:26 [Devil Square] (4) Sync Start Time. [75] min remain
+15:14:26 [Devil Square] (4) SetState EMPTY
+15:14:26 [Bingo] SetState BLANK
+15:14:26 [Bingo] SetState EMPTY
+15:14:26 [JoinServerConnection] Connected
+15:14:26 [DataServerConnection] Connected
+15:14:30 [JoinServerConnection] Disconnected
+15:14:32 [DataServerConnection] Disconnected
+15:19:55 [ServerInfo] ChaosMix loaded successfully
+15:19:55 [ServerInfo] Character loaded successfully
+15:19:55 [ServerInfo] Command loaded successfully
+15:19:55 [ServerInfo] Common loaded successfully
+15:19:55 [ServerInfo] Custom loaded successfully
+15:19:55 [ServerInfo] Event loaded successfully
+15:19:55 [ServerInfo] EventItemBag loaded successfully
+15:19:55 [ServerInfo] Hack loaded successfully
+15:19:55 [ServerInfo] Item loaded successfully
+15:19:55 [ServerInfo] Monster loaded successfully
+15:19:55 [ServerInfo] Move loaded successfully
+15:19:55 [ServerInfo] Quest loaded successfully
+15:19:55 [ServerInfo] Shop loaded successfully
+15:19:55 [ServerInfo] Skill loaded successfully
+15:19:55 [ServerInfo] Util loaded successfully
+15:19:56 [Blood Castle] (1) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (1) SetState EMPTY
+15:19:56 [Blood Castle] (2) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (2) SetState EMPTY
+15:19:56 [Blood Castle] (3) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (3) SetState EMPTY
+15:19:56 [Blood Castle] (4) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (4) SetState EMPTY
+15:19:56 [Blood Castle] (5) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (5) SetState EMPTY
+15:19:56 [Blood Castle] (6) Sync Start Time. [40] min remain
+15:19:56 [Blood Castle] (6) SetState EMPTY
+15:19:56 [Devil Square] (1) Sync Start Time. [70] min remain
+15:19:56 [Devil Square] (1) SetState EMPTY
+15:19:56 [Devil Square] (2) Sync Start Time. [70] min remain
+15:19:56 [Devil Square] (2) SetState EMPTY
+15:19:56 [Devil Square] (3) Sync Start Time. [70] min remain
+15:19:56 [Devil Square] (3) SetState EMPTY
+15:19:56 [Devil Square] (4) Sync Start Time. [70] min remain
+15:19:56 [Devil Square] (4) SetState EMPTY
+15:19:56 [Bingo] SetState BLANK
+15:19:56 [Bingo] SetState EMPTY
+15:19:56 [JoinServerConnection] Connected
+15:19:56 [DataServerConnection] Connected
+15:23:18 [JoinServerConnection] Disconnected
+15:23:20 [DataServerConnection] Disconnected

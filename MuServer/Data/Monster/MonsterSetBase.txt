@@ -12,7 +12,7 @@
 251	0	0	116	141	3	// Hanzo the Blacksmith
 248	0	0	6	145	2	// Wandering Merchant Martin
 250	0	0	183	137	2	// Wandering Merchant Peddler
-236	0	0	130	127	3	// Golden Archer
+//236	0	0	130	127	3	// Golden Archer
 240	0	0	146	110	3	// Safety Guardian
 240	0	0	147	145	1	// Safety Guardian
 249	0	10	131	88	1	// Berdysh Guard
@@ -32,7 +32,7 @@ end
 246	2	0	186	47	3	// Weapons Merchant Zienna
 235	2	0	183	32	3	// Sebina the Priest
 241	2	0	214	47	2	// Captain Lorence
-236	2	0	226	66	1	// Golden Archer
+//236	2	0	226	66	1	// Golden Archer
 233	2	0	208	30	1	// Messenger of Archangel
 240	2	0	218	63	2	// Safety Guardian
 end
@@ -45,7 +45,7 @@ end
 242	3	0	173	125	1	// Elf Lala
 243	3	0	195	124	2	// Eo the Craftsman
 238	3	0	180	103	1	// Chaos Goblin
-236	3	0	169	109	3	// Golden Archer
+//236	3	0	169	109	3	// Golden Archer
 237	3	0	171	105	3	// Charon
 240	3	0	172	96	3	// Safety Guardian
 end
@@ -372,30 +372,30 @@ end
 // Dungeon 3
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-15	1	10	20	89	30	99	-1	4	// Skeleton Archer
-16	1	10	20	89	30	99	-1	4	// Chief Skeleton Warrior
-17	1	10	20	89	30	99	-1	4	// Cyclops
-15	1	10	13	69	25	81	-1	4	// Skeleton Archer
-16	1	10	13	69	25	81	-1	4	// Chief Skeleton Warrior
-17	1	10	13	69	25	81	-1	4	// Cyclops
-15	1	10	1	50	13	62	-1	4	// Skeleton Archer
-16	1	10	1	50	13	62	-1	4	// Chief Skeleton Warrior
-17	1	10	1	50	13	62	-1	4	// Cyclops
-15	1	10	20	50	32	62	-1	4	// Skeleton Archer
-16	1	10	20	50	32	62	-1	4	// Chief Skeleton Warrior
-17	1	10	20	50	32	62	-1	4	// Cyclops
-15	1	10	40	50	46	62	-1	4	// Skeleton Archer
-16	1	10	40	50	46	62	-1	4	// Chief Skeleton Warrior
-17	1	10	40	50	46	62	-1	4	// Cyclops
-15	1	10	40	80	46	92	-1	4	// Skeleton Archer
-16	1	10	40	80	46	92	-1	4	// Chief Skeleton Warrior
-17	1	10	40	80	46	92	-1	4	// Cyclops
-15	1	10	40	115	46	128	-1	4	// Skeleton Archer
-16	1	10	40	115	46	128	-1	4	// Chief Skeleton Warrior
-17	1	10	40	115	46	128	-1	4	// Cyclops
-15	1	10	1	118	10	128	-1	4	// Skeleton Archer
-16	1	10	1	118	10	128	-1	4	// Chief Skeleton Warrior
-17	1	10	1	118	10	128	-1	4	// Cyclops
+15	1	10	20	89	30	99	-1	6	// Skeleton Archer
+16	1	10	20	89	30	99	-1	6	// Chief Skeleton Warrior
+17	1	10	20	89	30	99	-1	6	// Cyclops
+15	1	10	13	69	25	81	-1	6	// Skeleton Archer
+16	1	10	13	69	25	81	-1	6	// Chief Skeleton Warrior
+17	1	10	13	69	25	81	-1	6	// Cyclops
+15	1	10	1	50	13	62	-1	6	// Skeleton Archer
+16	1	10	1	50	13	62	-1	6	// Chief Skeleton Warrior
+17	1	10	1	50	13	62	-1	6	// Cyclops
+15	1	10	20	50	32	62	-1	6	// Skeleton Archer
+16	1	10	20	50	32	62	-1	6	// Chief Skeleton Warrior
+17	1	10	20	50	32	62	-1	6	// Cyclops
+15	1	10	40	50	46	62	-1	6	// Skeleton Archer
+16	1	10	40	50	46	62	-1	6	// Chief Skeleton Warrior
+17	1	10	40	50	46	62	-1	6	// Cyclops
+15	1	10	40	80	46	92	-1	6	// Skeleton Archer
+16	1	10	40	80	46	92	-1	6	// Chief Skeleton Warrior
+17	1	10	40	80	46	92	-1	6	// Cyclops
+15	1	10	40	115	46	128	-1	6	// Skeleton Archer
+16	1	10	40	115	46	128	-1	6	// Chief Skeleton Warrior
+17	1	10	40	115	46	128	-1	6	// Cyclops
+15	1	10	1	118	10	128	-1	6	// Skeleton Archer
+16	1	10	1	118	10	128	-1	6	// Chief Skeleton Warrior
+17	1	10	1	118	10	128	-1	6	// Cyclops
 end
 
 //=========================================================================================================================================
@@ -403,21 +403,22 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-24	2	2	220	82	225	87	-1	3	// Worm
-21	2	2	220	82	225	87	-1	2	// Assassin
-24	2	2	160	35	165	40	-1	3	// Worm
-21	2	2	160	35	165	40	-1	2	// Assassin
-20	2	10	193	232	203	244	-1	5	// Elite Yeti
+24	2	4	220	82	225	87	-1	9	// Worm
+21	2	4	220	82	225	87	-1	9	// Assassin
+24	2	4	160	35	165	40	-1	9	// Worm
+21	2	4	160	35	165	40	-1	9	// Assassin
+20	2	8	193	232	203	244	-1	12	// Elite Yeti
 
-24	2	30	170	80	245	200	-1	10	// Worm
-23	2	30	170	80	245	200	-1	10	// Hommerd
-22	2	30	50	6	166	244	-1	10	// Ice Monster
-23	2	30	50	6	166	244	-1	10	// Hommerd
-19	2	30	50	6	166	244	-1	10	// Yeti
-21	2	30	50	6	166	244	-1	10	// Assassin
-20	2	30	50	6	166	244	-1	10	// Elite Yeti
-20	2	30	5	50	50	155	-1	10	// Elite Yeti
-20	2	30	6	184	80	244	-1	10	// Elite Yeti	
+24	2	8	170	80	245	200	-1	10	// Worm
+23	2	8	170	80	245	200	-1	10	// Hommerd
+22	2	8	50	6	166	244	-1	10	// Ice Monster
+23	2	8	50	6	166	244	-1	10	// Hommerd
+19	2	8	50	6	166	244	-1	20	// Yeti
+21	2	8	50	6	166	244	-1	20	// Assassin
+20	2	8	50	6	166	244	-1	12	// Elite Yeti
+20	2	8	5	50	50	155	-1	12	// Elite Yeti
+20	2	8	6	184	80	244	-1	20	// Elite Yeti	
+20	2	8	8	222	25	238	-1	20	// Elite Yeti
 end
 
 //=========================================================================================================================================
@@ -425,9 +426,9 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-26	3	2	148	116	152	120	-1	4	// Goblin
-30	3	2	205	138	210	143	-1	4	// Forest Monster
-27	3	2	157	73	162	78	-1	4	// Chain Scorpion
+26	3	4	148	116	152	120	-1	8	// Goblin
+30	3	4	205	138	210	143	-1	8	// Forest Monster
+27	3	4	157	73	162	78	-1	8	// Chain Scorpion
 
 26	3	30	109	46	154	181	-1	10	// Goblin
 26	3	30	136	156	247	204	-1	10	// Goblin
@@ -456,96 +457,96 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-36	4	10	199	39	206	54	-1	4	// Shadow
-39	4	10	199	39	206	54	-1	3	// Poison Shadow
-36	4	10	192	100	200	108	-1	5	// Shadow
-39	4	10	192	100	200	108	-1	7	// Poison Shadow
-36	4	10	162	33	166	123	-1	5	// Shadow
-39	4	10	162	33	166	123	-1	7	// Poison Shadow
-36	4	10	240	11	247	120	-1	5	// Shadow
-39	4	10	240	11	247	120	-1	7	// Poison Shadow
+36	4	10	199	39	206	54	-1	8	// Shadow
+39	4	10	199	39	206	54	-1	6	// Poison Shadow
+36	4	10	192	100	200	108	-1	10	// Shadow
+39	4	10	192	100	200	108	-1	14	// Poison Shadow
+36	4	10	162	33	166	123	-1	10	// Shadow
+39	4	10	162	33	166	123	-1	14	// Poison Shadow
+36	4	10	240	11	247	120	-1	10	// Shadow
+39	4	10	240	11	247	120	-1	14	// Poison Shadow
 //=========================================================================================================================================
 // LostTower 2
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-34	4	10	217	242	224	250	-1	3	// Cursed Wizard
-39	4	10	217	242	224	250	-1	3	// Poison Shadow
-34	4	10	206	204	218	218	-1	3	// Cursed Wizard
-39	4	10	206	204	218	218	-1	3	// Poison Shadow
-34	4	10	232	206	241	224	-1	3	// Cursed Wizard
-39	4	10	232	206	241	224	-1	3	// Poison Shadow
+34	4	10	217	242	224	250	-1	9	// Cursed Wizard
+39	4	10	217	242	224	250	-1	9	// Poison Shadow
+34	4	10	206	204	218	218	-1	9	// Cursed Wizard
+39	4	10	206	204	218	218	-1	9	// Poison Shadow
+34	4	10	232	206	241	224	-1	9	// Cursed Wizard
+39	4	10	232	206	241	224	-1	9	// Poison Shadow
 //=========================================================================================================================================
 // LostTower 3
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-41	4	10	97	166	106	171	-1	3	// Death Cow
-34	4	10	97	166	106	171	-1	3	// Cursed Wizard
-41	4	10	82	196	85	206	-1	3	// Death Cow
-34	4	10	82	196	85	206	-1	3	// Cursed Wizard
-41	4	10	98	182	104	188	-1	3	// Death Cow
-34	4	10	98	182	104	188	-1	3	// Cursed Wizard
-41	4	10	110	200	116	206	-1	3	// Death Cow
-34	4	10	110	200	116	206	-1	3	// Cursed Wizard
-41	4	10	129	199	134	204	-1	3	// Death Cow
-34	4	10	129	199	134	204	-1	3	// Cursed Wizard
-41	4	10	120	165	125	170	-1	3	// Death Cow
-34	4	10	120	165	125	170	-1	3	// Cursed Wizard
+41	4	10	97	166	106	171	-1	9	// Death Cow
+34	4	10	97	166	106	171	-1	9	// Cursed Wizard
+41	4	10	82	196	85	206	-1	9	// Death Cow
+34	4	10	82	196	85	206	-1	9	// Cursed Wizard
+41	4	10	98	182	104	188	-1	9	// Death Cow
+34	4	10	98	182	104	188	-1	9	// Cursed Wizard
+41	4	10	110	200	116	206	-1	9	// Death Cow
+34	4	10	110	200	116	206	-1	9	// Cursed Wizard
+41	4	10	129	199	134	204	-1	9	// Death Cow
+34	4	10	129	199	134	204	-1	9	// Cursed Wizard
+41	4	10	120	165	125	170	-1	9	// Death Cow
+34	4	10	120	165	125	170	-1	9	// Cursed Wizard
 //=========================================================================================================================================
 // LostTower 4
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-37	4	10	106	106	110	112	-1	3	// Devil
-41	4	10	106	106	110	112	-1	3	// Death Cow
-37	4	10	115	106	119	112	-1	3	// Devil
-41	4	10	115	106	119	112	-1	3	// Death Cow
-37	4	10	83	130	88	135	-1	3	// Devil
-41	4	10	83	130	88	135	-1	3	// Death Cow
-37	4	10	107	130	112	135	-1	3	// Devil
-41	4	10	107	130	112	135	-1	3	// Death Cow
+37	4	10	106	106	110	112	-1	9	// Devil
+41	4	10	106	106	110	112	-1	9	// Death Cow
+37	4	10	115	106	119	112	-1	9	// Devil
+41	4	10	115	106	119	112	-1	9	// Death Cow
+37	4	10	83	130	88	135	-1	9	// Devil
+41	4	10	83	130	88	135	-1	9	// Death Cow
+37	4	10	107	130	112	135	-1	9	// Devil
+41	4	10	107	130	112	135	-1	9	// Death Cow
 //=========================================================================================================================================
 // LostTower 5
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-37	4	10	127	39	132	44	-1	2	// Devil
-41	4	10	127	39	132	44	-1	2	// Death Cow
-40	4	10	127	39	132	44	-1	2	// Death Knight
-37	4	10	109	22	115	28	-1	2	// Devil
-41	4	10	109	22	115	28	-1	2	// Death Cow
-40	4	10	109	22	115	28	-1	2	// Death Knight
-37	4	10	81	14	86	19	-1	2	// Devil
-41	4	10	81	14	86	19	-1	2	// Death Cow
-40	4	10	81	14	86	19	-1	2	// Death Knight
-37	4	10	84	49	91	56	-1	3	// Devil
-41	4	10	84	49	91	56	-1	3	// Death Cow
-40	4	10	84	49	91	56	-1	2	// Death Knight
+37	4	10	127	39	132	44	-1	8	// Devil
+41	4	10	127	39	132	44	-1	8	// Death Cow
+40	4	10	127	39	132	44	-1	8	// Death Knight
+37	4	10	109	22	115	28	-1	8	// Devil
+41	4	10	109	22	115	28	-1	8	// Death Cow
+40	4	10	109	22	115	28	-1	8	// Death Knight
+37	4	10	81	14	86	19	-1	8	// Devil
+41	4	10	81	14	86	19	-1	8	// Death Cow
+40	4	10	81	14	86	19	-1	8	// Death Knight
+37	4	10	84	49	91	56	-1	8	// Devil
+41	4	10	84	49	91	56	-1	8	// Death Cow
+40	4	10	84	49	91	56	-1	8	// Death Knight
 //=========================================================================================================================================
 // LostTower 6
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-37	4	10	52	23	57	28	-1	3	// Devil
-40	4	10	52	23	57	28	-1	3	// Death Knight
-37	4	10	52	5	57	10	-1	3	// Devil
-40	4	10	52	5	57	10	-1	3	// Death Knight
-37	4	10	27	37	32	42	-1	3	// Devil
-40	4	10	27	37	32	42	-1	3	// Death Knight
-37	4	10	11	47	16	52	-1	3	// Devil
-40	4	10	11	47	16	52	-1	3	// Death Knight
-37	4	10	20	9	27	12	-1	3	// Devil
-40	4	10	20	9	27	12	-1	3	// Death Knight
+37	4	10	52	23	57	28	-1	9	// Devil
+40	4	10	52	23	57	28	-1	9	// Death Knight
+37	4	10	52	5	57	10	-1	9	// Devil
+40	4	10	52	5	57	10	-1	9	// Death Knight
+37	4	10	27	37	32	42	-1	9	// Devil
+40	4	10	27	37	32	42	-1	9	// Death Knight
+37	4	10	11	47	16	52	-1	9	// Devil
+40	4	10	11	47	16	52	-1	9	// Death Knight
+37	4	10	20	9	27	12	-1	9	// Devil
+40	4	10	20	9	27	12	-1	9	// Death Knight
 //=========================================================================================================================================
 // LostTower 7
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-37	4	10	52	87	56	94	-1	6	// Devil
-40	4	10	12	99	18	105	-1	4	// Death Knight
-37	4	10	12	99	18	105	-1	3	// Devil
-40	4	10	52	111	56	118	-1	6	// Death Knight
-40	4	10	10	126	19	134	-1	3	// Death Knight
-37	4	10	10	126	19	134	-1	4	// Devil
-35	4	10	21	185	25	198	-1	7	// Death Gorgon
-35	4	10	35	185	39	198	-1	7	// Death Gorgon
-35	4	10	21	226	25	239	-1	7	// Death Gorgon
-35	4	10	35	226	39	239	-1	7	// Death Gorgon
+37	4	10	52	87	56	94	-1	15	// Devil
+40	4	10	12	99	18	105	-1	10	// Death Knight
+37	4	10	12	99	18	105	-1	9	// Devil
+40	4	10	52	111	56	118	-1	12	// Death Knight
+40	4	10	10	126	19	134	-1	9	// Death Knight
+37	4	10	10	126	19	134	-1	10	// Devil
+35	4	10	21	185	25	198	-1	18	// Death Gorgon
+35	4	10	35	185	39	198	-1	18	// Death Gorgon
+35	4	10	21	226	25	239	-1	18	// Death Gorgon
+35	4	10	35	226	39	239	-1	18	// Death Gorgon
 end
 
 //=========================================================================================================================================
@@ -553,26 +554,26 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-200	6	0	62	160	62	160	-1	1	// Soccer Ball
+200	6	6	62	160	62	160	-1	1	// Soccer Ball
 
-84	6	2	44	80	50	86	-1	3	// Chief Skeleton Warrior
-127	6	2	44	80	50	86	-1	2	// Dark Skull Soldier
-72	6	2	66	72	71	77	-1	5	// Phantom Knight
-36	6	2	47	57	47	57	-1	5	// Shadow
-58	6	2	42	34	51	43	-1	5	// Tantalos
-92	6	2	25	34	34	43	-1	5	// Dark Skull Soldier
-74	6	2	25	52	34	61	-1	5	// Alpha Crust
-93	6	2	30	74	30	74	-1	5	// Giant Ogre
-63	6	2	25	87	34	97	-1	5	// Death Beam Knight
-129	6	2	12	74	12	74	-1	5	// Red Skeleton Knight
-129	6	2	7	52	15	61	-1	5	// Red Skeleton Knight
-60	6	2	11	38	11	38	-1	5	// Bloody wolf
-57	6	2	8	90	15	95	-1	6	// Iron Wheel
-125	6	2	47	10	50	06	-1	5	// Chief Skeleton Warrior
-126	6	2	83	13	86	10	-1	5	// Chief Skeleton Archer
-127	6	60	79	23	99	115	-1	22	// Dark Skull Soldier
-125	6	4	29	110	32	110	-1	5	// Chief Skeleton Warrior
-126	6	4	12	111	14	108	-1	5	// Chief Skeleton Archer
+84	6	6	44	80	50	86	-1	8	// Chief Skeleton Warrior
+127	6	6	44	80	50	86	-1	8	// Dark Skull Soldier
+72	6	6	66	72	71	77	-1	8	// Phantom Knight
+36	6	6	47	57	47	57	-1	8	// Shadow
+58	6	6	42	34	51	43	-1	8	// Tantalos
+92	6	6	25	34	34	43	-1	8	// Dark Skull Soldier
+74	6	6	25	52	34	61	-1	8	// Alpha Crust
+93	6	6	30	74	30	74	-1	8	// Giant Ogre
+63	6	6	25	87	34	97	-1	8	// Death Beam Knight
+129	6	6	12	74	12	74	-1	8	// Red Skeleton Knight
+129	6	6	7	52	15	61	-1	8	// Red Skeleton Knight
+60	6	6	11	38	11	38	-1	8	// Bloody wolf
+57	6	6	8	90	15	95	-1	8	// Iron Wheel
+125	6	6	47	10	50	06	-1	8	// Chief Skeleton Warrior
+126	6	6	83	13	86	10	-1	8	// Chief Skeleton Archer
+127	6	30	79	23	99	115	-1	44	// Dark Skull Soldier
+125	6	6	29	110	32	110	-1	8	// Chief Skeleton Warrior
+126	6	6	12	111	14	108	-1	8	// Chief Skeleton Archer
 end
 
 //=========================================================================================================================================
@@ -580,35 +581,35 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-45	7	2	18	40	22	44	-1	3	// Bahamut
-46	7	2	18	40	22	44	-1	2	// Vepar
-45	7	2	60	9	65	14	-1	2	// Bahamut
-46	7	2	60	9	65	14	-1	3	// Vepar
-45	7	10	15	90	25	125	-1	4	// Bahamut
-46	7	10	42	84	72	95	-1	4	// Vepar
-47	7	10	100	14	125	25	-1	4	// Valkyrie
-45	7	10	180	10	200	30	-1	4	// Bahamut
-45	7	10	12	127	16	131	-1	4	// Bahamut
+45	7	6	18	40	22	44	-1	9	// Bahamut
+46	7	6	18	40	22	44	-1	8	// Vepar
+45	7	6	60	9	65	14	-1	8	// Bahamut
+46	7	6	60	9	65	14	-1	9	// Vepar
+45	7	10	15	90	25	125	-1	12	// Bahamut
+46	7	10	42	84	72	95	-1	12	// Vepar
+47	7	10	100	14	125	25	-1	12	// Valkyrie
+45	7	10	180	10	200	30	-1	12	// Bahamut
+45	7	10	12	127	16	131	-1	12	// Bahamut
 //=========================================================================================================================================
 // Atlans 2
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-51	7	10	214	10	230	22	-1	4	// Great Bahamut
-51	7	10	217	66	227	76	-1	4	// Great Bahamut
-48	7	10	128	58	180	66	-1	4	// Lizard King
-52	7	10	133	126	145	130	-1	4	// Silver Valkyrie
-52	7	10	219	189	226	195	-1	3	// Silver Valkyrie
-50	7	10	219	189	226	195	-1	3	// Sea Worm
-51	7	10	240	5	244	9	-1	5	// Great Bahamut
+51	7	10	214	10	230	22	-1	12	// Great Bahamut
+51	7	10	217	66	227	76	-1	12	// Great Bahamut
+48	7	10	128	58	180	66	-1	12	// Lizard King
+52	7	10	133	126	145	130	-1	12	// Silver Valkyrie
+52	7	10	219	189	226	195	-1	9	// Silver Valkyrie
+50	7	10	219	189	226	195	-1	9	// Sea Worm
+51	7	10	240	5	244	9	-1	15	// Great Bahamut
 //=========================================================================================================================================
 // Atlans 3
 //=========================================================================================================================================
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-48	7	10	30	160	40	170	-1	4	// Lizard King
-52	7	10	158	138	180	150	-1	4	// Silver Valkyrie
-49	7	10	158	138	180	150	-1	4	// Hydra
-52	7	10	28	212	42	226	-1	4	// Silver Valkyrie
-49	7	10	28	212	42	226	-1	4	// Hydra
+48	7	10	30	160	40	170	-1	12	// Lizard King
+52	7	10	158	138	180	150	-1	12	// Silver Valkyrie
+49	7	10	158	138	180	150	-1	12	// Hydra
+52	7	10	28	212	42	226	-1	12	// Silver Valkyrie
+49	7	10	28	212	42	226	-1	12	// Hydra
 end
 
 //=========================================================================================================================================
@@ -616,17 +617,28 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-57	8	2	200	105	210	115	-1	2	// Iron Wheel
-58	8	2	200	105	210	115	-1	3	// Tantalos
-57	8	2	142	52	147	57	-1	2	// Iron Wheel
-58	8	2	142	52	152	62	-1	3	// Tantalos
-59	8	10	151	146	159	153	-1	3	// Zaikan
-60	8	10	65	90	75	100	-1	4	// Blood wolf
-61	8	10	25	118	35	128	-1	3	// Beam Knight
-62	8	10	90	145	100	155	-1	4	// Mutant
-63	8	10	150	205	160	215	-1	3	// Death Beam Knight
-61	8	10	105	210	115	215	-1	4	// Beam Knight
-63	8	10	10	232	20	242	-1	4	// Death Beam Knight
+57	8	2	200	105	210	115	-1	10	// Iron Wheel
+58	8	2	200	105	210	115	-1	12	// Tantalos
+57	8	2	142	52	147	57	-1	10	// Iron Wheel
+58	8	2	142	52	152	62	-1	9	// Tantalos
+58	8	4	174	194	184	212	-1	16	// Tantalos
+58	8	4	81	175	81	175	-1	16	// Tantalos
+59	8	6	151	146	159	153	-1	9	// Zaikan
+60	8	6	65	90	75	100	-1	12	// Blood wolf
+61	8	6	25	118	35	128	-1	9	// Beam Knight
+62	8	8	90	145	100	155	-1	14	// Mutant
+62	8	8	95	45	109	35	-1	14	// Mutant
+63	8	6	150	205	160	215	-1	18	// Death Beam Knight
+58	8	6	150	205	160	215	-1	9	// Death Beam Knight
+61	8	8	105	210	115	215	-1	14	// Beam Knight
+61	8	8	135	28	145	18	-1	12	// Beam Knight
+61	8	6	39	225	51	243	-1	24	// Beam Knight
+63	8	8	95	76	125	96	-1	25	// Death Beam Knight
+61	8	8	152	110	170	125	-1	12	// Beam Knight
+63	8	8	10	232	20	242	-1	24	// Death Beam Knight
+60	8	10	20	65	45	98	-1	24	// Blood wolf
+57	8	6	27	155	49	175	-1	20	// Iron Wheel
+63	8	8	57	125	77	150	-1	24	// Death Beam Knight
 end
 
 //=========================================================================================================================================
@@ -634,14 +646,17 @@ end
 //=========================================================================================================================================
 1
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir 	Quant	Name
-69	10	10	30	23	65	45	-1	6	// Alquamos
-70	10	10	30	23	65	45	-1	7	// Queen Rainier
-71	10	10	87	28	97	67	-1	6	// Mega Crust
-72	10	10	60	66	80	88	-1	7	// Phantom Knight
-73	10	10	28	95	46	117	-1	6	// Drakan
-75	10	10	37	140	62	171	-1	7	// Great Drakan
-74	10	10	40	197	54	219	-1	5	// Alpha Crust
-77	10	10	35	226	45	236	-1	3	// Phoenix of Darkness
+69	10	10	30	23	65	45	-1	12	// Alquamos
+69	10	10	10	14	22	34	-1	12	// Alquamos
+70	10	10	30	23	65	45	-1	14	// Queen Rainier
+71	10	10	87	28	97	67	-1	12	// Mega Crust
+72	10	10	60	66	80	88	-1	14	// Phantom Knight
+72	10	10	30	67	55	78	-1	14	// Phantom Knight
+73	10	10	28	95	46	117	-1	12	// Drakan
+75	10	10	37	140	62	171	-1	14	// Great Drakan
+75	10	10	44	175	60	193	-1	20	// Great Drakan
+74	10	10	40	197	54	219	-1	15	// Alpha Crust
+77	10	10	35	226	45	236	-1	10	// Phoenix of Darkness
 end
 
 //======================================//
@@ -653,10 +668,20 @@ end
 //=========================================================================================================================================
 3
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Value	Name
-55	0	30	125	190	140	203	-1	1	0	// Death King
-56	0	30	125	190	140	203	-1	10	0	// Death Bone
-55	3	30	95	70	205	86	-1	1	0	// Death King
-56	3	30	195	70	205	86	-1	10	0	// Death Bone
+55	0	30	93	176	180	230	-1	2	0	// Death King
+56	0	30	93	176	180	230	-1	5	0	// Death Bone
+55	0	30	182	43	238	196	-1	1	0	// Death King
+56	0	30	182	43	238	196	-1	5	0	// Death Bone
+55	0	30	16	13	155	56	-1	1	0	// Death King
+56	0	30	16	13	155	56	-1	5	0	// Death Bone
+55	0	30	29	88	88	189	-1	1	0	// Death King
+56	0	30	29	88	88	189	-1	5	0	// Death Bone
+55	3	30	12	14	238	84	-1	2	0	// Death King
+56	3	30	12	14	238	84	-1	5	0	// Death Bone
+55	3	30	12	72	127	228	-1	2	0	// Death King
+56	3	30	12	72	127	228	-1	5	0	// Death Bone
+55	3	30	178	149	239	238	-1	1	0	// Death King
+56	3	30	178	149	239	238	-1	5	0	// Death Bone
 end
 
 //=========================================================================================================================================
@@ -664,8 +689,15 @@ end
 //=========================================================================================================================================
 3
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Value	Name
-42	0	30	10	10	240	240	-1	1	0	// Red Dragon
-42	2	30	10	10	240	240	-1	1	0	// Red Dragon
+44	0	30	93	176	180	230	-1	2	0	// Red Dragon
+44	0	30	182	43	238	196	-1	1	0	// Red Dragon
+44	0	30	16	13	155	56	-1	1	0	// Red Dragon
+44	0	30	29	88	88	189	-1	1	0	// Red Dragon
+44	2	30	19	88	136	82	-1	1	0	// Red Dragon
+44	2	30	111	148	155	235	-1	1	0	// Red Dragon
+44	2	30	200	158	230	193	-1	1	0	// Red Dragon
+44	2	30	11	50	75	81	-1	1	0	// Red Dragon
+44	2	30	9	148	68	240	-1	1	0	// Red Dragon
 end
 
 //=========================================================================================================================================
@@ -673,24 +705,54 @@ end
 //=========================================================================================================================================
 3
 //Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Value	Name
-43	0	30	10	10	240	240	-1	15	0	// Golden Budge Dragon
-53	2	30	10	10	240	240	-1	15	0	// Golden Titan
-54	2	30	10	10	240	240	-1	15	0	// Golden Soldier
-78	3	30	10	10	240	240	-1	15	0	// Golden Goblin
-79	0	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	1	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	2	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	3	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	4	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	7	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	8	30	10	10	240	240	-1	1	0	// Golden Dragon
-79	10	30	10	10	240	240	-1	1	0	// Golden Dragon
-80	7	30	10	10	240	240	-1	15	0	// Golden Lizard King
-81	7	30	10	10	240	240	-1	15	0	// Golden Vepar
-82	8	30	10	10	240	240	-1	15	0	// Golden Tantalos
-83	8	30	10	10	240	240	-1	15	0	// Golden Wheel
+43	0	30	93	176	180	230	-1	3	0	// Golden Budge Dragon
+43	0	30	182	43	238	196	-1	3	0	// Golden Budge Dragon
+43	0	30	16	13	155	56	-1	3	0	// Golden Budge Dragon
+43	0	30	29	88	88	189	-1	3	0	// Golden Budge Dragon
+79	0	30	93	176	180	230	-1	1	0	// Golden Dragon
+79	0	30	182	43	238	196	-1	1	0	// Golden Dragon
+79	0	30	16	13	155	56	-1	1	0	// Golden Dragon
+79	3	30	12	14	238	84	-1	1	0	// Golden Dragon
+79	3	30	12	72	127	228	-1	1	0	// Golden Dragon
+79	3	30	178	149	239	238	-1	1	0	// Golden Dragon
+79	2	30	111	148	155	235	-1	1	0	// Golden Dragon
+79	2	30	200	158	230	193	-1	1	0	// Golden Dragon
+79	2	30	9	148	68	240	-1	1	0	// Golden Dragon
+53	2	30	19	88	136	82	-1	1	0	// Golden Titan
+53	2	30	111	148	155	235	-1	1	0	// Golden Titan
+53	2	30	200	158	230	193	-1	1	0	// Golden Titan
+53	2	30	11	50	75	81	-1	1	0	// Golden Titan
+53	2	30	9	148	68	240	-1	1	0	// Golden Titan
+54	2	30	19	88	136	82	-1	3	0	// Golden Soldier
+54	2	30	111	148	155	235	-1	3	0	// Golden Soldier
+54	2	30	200	158	230	193	-1	3	0	// Golden Soldier
+54	2	30	11	50	75	81	-1	3	0	// Golden Soldier
+54	2	30	9	148	68	240	-1	3	0	// Golden Soldier
+78	3	30	12	14	238	84	-1	2	0	// Golden Goblin
+78	3	30	12	72	127	228	-1	2	0	// Golden Goblin
+78	3	30	178	149	239	238	-1	1	0	// Golden Goblin
+80	7	40	108	174	122	185	-1	1	0	// Golden Lizard King
+81	7	30	108	174	122	185	-1	3	0	// Golden Vepar
+80	7	40	219	92	231	157	-1	1	0	// Golden Lizard King
+81	7	30	219	92	231	157	-1	3	0	// Golden Vepar
+80	7	30	35	48	107	115	-1	1	0	// Golden Lizard King
+81	7	30	35	48	107	115	-1	3	0	// Golden Vepar
+82	8	40	10	10	240	240	-1	1	0	// Golden Tantalos
+82	8	40	10	10	240	240	-1	1	0	// Golden Tantalos
+82	8	40	10	10	240	240	-1	1	0	// Golden Tantalos
+83	8	30	10	10	240	240	-1	3	0	// Golden Wheel
+83	8	30	10	10	240	240	-1	3	0	// Golden Wheel
+83	8	30	10	10	240	240	-1	3	0	// Golden Wheel
 end
 
+
+//=========================================================================================================================================
+// Big Boss Invasion
+//=========================================================================================================================================
+3
+//Mob	Map	Radio	CordX	CordY	CordX2	CordY2	Dir	Quant	Value	Name
+42	6	4	64	44	64	44	-1	1	0	// Big Dragon
+end
 //======================================//
 //		EVENTS			//
 //======================================//
@@ -1746,4 +1808,169 @@ end
 63	9	30	82	95	-1	// Death Beam Knight
 63	9	30	74	84	-1	// Death Beam Knight
 63	9	30	73	100	-1	// Death Beam Knight
+71	9	30	82	102	-1	// Mega Crust
+71	9	30	82	84	-1	// Mega Crust
+71	9	30	66	97	-1	// Mega Crust
+71	9	30	63	96	-1	// Mega Crust
+71	9	30	77	80	-1	// Mega Crust
+71	9	30	74	98	-1	// Mega Crust
+71	9	30	80	100	-1	// Mega Crust
+71	9	30	68	99	-1	// Mega Crust
+71	9	30	68	100	-1	// Mega Crust
+71	9	30	58	103	-1	// Mega Crust
+71	9	30	75	77	-1	// Mega Crust
+71	9	30	70	79	-1	// Mega Crust
+71	9	30	65	92	-1	// Mega Crust
+71	9	30	55	77	-1	// Mega Crust
+71	9	30	72	101	-1	// Mega Crust
+72	9	30	77	82	-1	// Phantom Knight
+72	9	30	80	90	-1	// Phantom Knight
+72	9	30	80	95	-1	// Phantom Knight
+72	9	30	73	76	-1	// Phantom Knight
+72	9	30	73	93	-1	// Phantom Knight
+72	9	30	71	99	-1	// Phantom Knight
+72	9	30	68	102	-1	// Phantom Knight
+72	9	30	62	103	-1	// Phantom Knight
+72	9	30	73	84	-1	// Phantom Knight
+72	9	30	82	90	-1	// Phantom Knight
+72	9	30	61	86	-1	// Phantom Knight
+72	9	30	78	91	-1	// Phantom Knight
+72	9	30	61	89	-1	// Phantom Knight
+72	9	30	55	101	-1	// Phantom Knight
+73	9	30	64	90	-1	// Drakan
+73	9	30	71	84	-1	// Drakan
+73	9	30	71	87	-1	// Drakan
+73	9	30	65	88	-1	// Drakan
+73	9	30	67	96	-1	// Drakan
+73	9	30	58	85	-1	// Drakan
+73	9	30	75	76	-1	// Drakan
+73	9	30	76	99	-1	// Drakan
+73	9	30	66	80	-1	// Drakan
+73	9	30	70	84	-1	// Drakan
+75	9	30	55	76	-1	// Great Drakan
+75	9	30	57	94	-1	// Great Drakan
+75	9	30	75	88	-1	// Great Drakan
+75	9	30	58	84	-1	// Great Drakan
+75	9	30	71	84	-1	// Great Drakan
+75	9	30	64	92	-1	// Great Drakan
+75	9	30	78	83	-1	// Great Drakan
+75	9	30	58	86	-1	// Great Drakan
+75	9	30	74	96	-1	// Great Drakan
+75	9	30	64	80	-1	// Great Drakan
+77	9	30	66	90	-1	// Phoenix of Darkness
+77	9	30	58	101	-1	// Phoenix of Darkness
+77	9	30	66	78	-1	// Phoenix of Darkness
+77	9	30	66	99	-1	// Phoenix of Darkness
+77	9	30	67	94	-1	// Phoenix of Darkness
+77	9	30	56	80	-1	// Phoenix of Darkness
+77	9	30	60	88	-1	// Phoenix of Darkness
+77	9	30	82	95	-1	// Phoenix of Darkness
+77	9	30	74	84	-1	// Phoenix of Darkness
+77	9	30	73	100	-1	// Phoenix of Darkness
+end
+//=========================================================================================================================================
+// Devil Square 5
+//=========================================================================================================================================
+4
+//Mob	MapNum	Range	PosX	PosY	Direct	Name
+69	9	30	69	86	-1	// Alquamos
+69	9	30	58	76	-1	// Alquamos
+69	9	30	69	96	-1	// Alquamos
+69	9	30	65	81	-1	// Alquamos
+69	9	30	60	77	-1	// Alquamos
+69	9	30	80	81	-1	// Alquamos
+69	9	30	62	90	-1	// Alquamos
+69	9	30	73	92	-1	// Alquamos
+69	9	30	68	103	-1	// Alquamos
+69	9	30	80	96	-1	// Alquamos
+69	9	30	61	83	-1	// Alquamos
+69	9	30	78	92	-1	// Alquamos
+69	9	30	82	91	-1	// Alquamos
+69	9	30	68	89	-1	// Alquamos
+69	9	30	62	97	-1	// Alquamos
+69	9	30	82	95	-1	// Alquamos
+69	9	30	64	103	-1	// Alquamos
+69	9	30	56	80	-1	// Alquamos
+69	9	30	63	84	-1	// Alquamos
+69	9	30	55	94	-1	// Alquamos
+70	9	30	79	90	-1	// Queen Rainier
+70	9	30	63	99	-1	// Queen Rainier
+70	9	30	81	88	-1	// Queen Rainier
+70	9	30	67	81	-1	// Queen Rainier
+70	9	30	75	98	-1	// Queen Rainier
+70	9	30	78	96	-1	// Queen Rainier
+70	9	30	77	103	-1	// Queen Rainier
+70	9	30	61	79	-1	// Queen Rainier
+70	9	30	75	91	-1	// Queen Rainier
+70	9	30	69	88	-1	// Queen Rainier
+70	9	30	76	97	-1	// Queen Rainier
+70	9	30	62	91	-1	// Queen Rainier
+70	9	30	62	78	-1	// Queen Rainier
+70	9	30	68	89	-1	// Queen Rainier
+70	9	30	55	78	-1	// Queen Rainier
+70	9	30	73	94	-1	// Queen Rainier
+70	9	30	75	102	-1	// Queen Rainier
+70	9	30	79	85	-1	// Queen Rainier
+70	9	30	79	79	-1	// Queen Rainier
+70	9	30	79	94	-1	// Queen Rainier
+71	9	30	82	102	-1	// Mega Crust
+71	9	30	82	84	-1	// Mega Crust
+71	9	30	66	97	-1	// Mega Crust
+71	9	30	63	96	-1	// Mega Crust
+71	9	30	77	80	-1	// Mega Crust
+71	9	30	74	98	-1	// Mega Crust
+71	9	30	80	100	-1	// Mega Crust
+71	9	30	68	99	-1	// Mega Crust
+71	9	30	68	100	-1	// Mega Crust
+71	9	30	58	103	-1	// Mega Crust
+71	9	30	75	77	-1	// Mega Crust
+71	9	30	70	79	-1	// Mega Crust
+71	9	30	65	92	-1	// Mega Crust
+71	9	30	55	77	-1	// Mega Crust
+71	9	30	72	101	-1	// Mega Crust
+72	9	30	76	103	-1	// Phantom Knight
+72	9	30	77	82	-1	// Phantom Knight
+72	9	30	80	90	-1	// Phantom Knight
+72	9	30	80	95	-1	// Phantom Knight
+72	9	30	73	76	-1	// Phantom Knight
+72	9	30	73	93	-1	// Phantom Knight
+72	9	30	71	99	-1	// Phantom Knight
+72	9	30	68	102	-1	// Phantom Knight
+72	9	30	62	103	-1	// Phantom Knight
+72	9	30	73	84	-1	// Phantom Knight
+72	9	30	82	90	-1	// Phantom Knight
+72	9	30	61	86	-1	// Phantom Knight
+72	9	30	78	91	-1	// Phantom Knight
+72	9	30	61	89	-1	// Phantom Knight
+72	9	30	55	101	-1	// Phantom Knight
+73	9	30	64	90	-1	// Drakan
+73	9	30	71	84	-1	// Drakan
+73	9	30	71	87	-1	// Drakan
+73	9	30	65	88	-1	// Drakan
+73	9	30	67	96	-1	// Drakan
+73	9	30	58	85	-1	// Drakan
+73	9	30	75	76	-1	// Drakan
+73	9	30	76	99	-1	// Drakan
+73	9	30	66	80	-1	// Drakan
+73	9	30	70	84	-1	// Drakan
+75	9	30	55	76	-1	// Great Drakan
+75	9	30	57	94	-1	// Great Drakan
+75	9	30	75	88	-1	// Great Drakan
+75	9	30	58	84	-1	// Great Drakan
+75	9	30	71	84	-1	// Great Drakan
+75	9	30	64	92	-1	// Great Drakan
+75	9	30	78	83	-1	// Great Drakan
+75	9	30	58	86	-1	// Great Drakan
+75	9	30	74	96	-1	// Great Drakan
+75	9	30	64	80	-1	// Great Drakan
+77	9	30	66	90	-1	// Phoenix of Darkness
+77	9	30	58	101	-1	// Phoenix of Darkness
+77	9	30	66	78	-1	// Phoenix of Darkness
+77	9	30	66	99	-1	// Phoenix of Darkness
+77	9	30	67	94	-1	// Phoenix of Darkness
+77	9	30	56	80	-1	// Phoenix of Darkness
+77	9	30	60	88	-1	// Phoenix of Darkness
+77	9	30	82	95	-1	// Phoenix of Darkness
+77	9	30	74	84	-1	// Phoenix of Darkness
+77	9	30	73	100	-1	// Phoenix of Darkness
 end

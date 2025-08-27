@@ -508,61 +508,61 @@ void CItem::Convert(int index, BYTE SkillOption, BYTE LuckOption, BYTE AddOption
 
 		switch (this->m_Index)
 		{
-			case GET_ITEM(12, 0): // Wings of Elf
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 0): // Wings of Elf
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 1): // Wings of Angel
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 1): // Wings of Angel
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 2): // Wings of Satan
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 2): // Wings of Satan
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 3): // Wings of Spirit
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 3): // Wings of Spirit
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 4): // Wings of Soul
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 4): // Wings of Soul
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 5): // Wings of Devil
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 5): // Wings of Devil
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			case GET_ITEM(12, 6): // Wings of Darkness
-			{
-				this->m_RequireStrength += (this->m_AddOption * 4);
+		case GET_ITEM(12, 6): // Wings of Darkness
+		{
+			this->m_RequireStrength += (this->m_AddOption * 4);
 
-				break;
-			}
+			break;
+		}
 
-			default:
-			{
-				this->m_RequireStrength += ((gCustomWing.CheckCustomWingByItem(this->m_Index)) ? (this->m_AddOption * 4) : 0);
+		default:
+		{
+			this->m_RequireStrength += ((gCustomWing.CheckCustomWingByItem(this->m_Index)) ? (this->m_AddOption * 4) : 0);
 
-				break;
-			}
+			break;
+		}
 		}
 	}
 	else
@@ -571,7 +571,7 @@ void CItem::Convert(int index, BYTE SkillOption, BYTE LuckOption, BYTE AddOption
 	}
 
 	if (this->m_Index >= GET_ITEM(12, 0) && this->m_Index <= GET_ITEM(12, 6) // Wings
-	    || gCustomWing.CheckCustomWingByItem(this->m_Index)) // Custom Wings
+		|| gCustomWing.CheckCustomWingByItem(this->m_Index)) // Custom Wings
 	{
 		ToInsertOptions.insert(ToInsertOptions.end(), ToInsertLuckOption.begin(), ToInsertLuckOption.end());
 	}
@@ -724,58 +724,58 @@ void CItem::Value()
 		{
 			switch (this->m_Level)
 			{
-				case 5:
-				{
-					ItemLevel += 4;
+			case 5:
+			{
+				ItemLevel += 4;
 
-					break;
-				}
+				break;
+			}
 
-				case 6:
-				{
-					ItemLevel += 10;
+			case 6:
+			{
+				ItemLevel += 10;
 
-					break;
-				}
+				break;
+			}
 
-				case 7:
-				{
-					ItemLevel += 25;
+			case 7:
+			{
+				ItemLevel += 25;
 
-					break;
-				}
+				break;
+			}
 
-				case 8:
-				{
-					ItemLevel += 45;
+			case 8:
+			{
+				ItemLevel += 45;
 
-					break;
-				}
+				break;
+			}
 
-				case 9:
-				{
-					ItemLevel += 65;
+			case 9:
+			{
+				ItemLevel += 65;
 
-					break;
-				}
+				break;
+			}
 
-				case 10:
-				{
-					ItemLevel += 95;
+			case 10:
+			{
+				ItemLevel += 95;
 
-					break;
-				}
+				break;
+			}
 
-				case 11:
-				{
-					ItemLevel += 135;
+			case 11:
+			{
+				ItemLevel += 135;
 
-					break;
-				}
+				break;
+			}
 			}
 
 			if ((this->m_Index >= GET_ITEM(12, 0) && this->m_Index <= GET_ITEM(12, 6)) // Wings
-			    || gCustomWing.CheckCustomWingByItem(this->m_Index)) // Custom Wings
+				|| gCustomWing.CheckCustomWingByItem(this->m_Index)) // Custom Wings
 			{
 				price = ((((ItemLevel + 40) * ItemLevel) * ItemLevel) * 11) + 40000000;
 			}
@@ -971,53 +971,53 @@ bool CItem::WeaponDurabilityDown(int aIndex, int defense, int type)
 
 	switch (type)
 	{
-		case 0:
-		{
-			damage = this->m_BaseDamageMin + (this->m_BaseDamageMin / 2);
+	case 0:
+	{
+		damage = this->m_BaseDamageMin + (this->m_BaseDamageMin / 2);
 
-			damage = damage + (this->m_AddOption * 4);
+		damage = damage + (this->m_AddOption * 4);
 
-			MaxDurSmall = (564 * gServerInfo.m_WeaponDurabilityRate) / 100;
+		MaxDurSmall = (564 * gServerInfo.m_WeaponDurabilityRate) / 100;
 
-			break;
-		}
+		break;
+	}
 
-		case 1:
-		{
-			damage = this->m_BaseDamageMin + (this->m_BaseDamageMin / 2);
+	case 1:
+	{
+		damage = this->m_BaseDamageMin + (this->m_BaseDamageMin / 2);
 
-			damage = damage + (this->m_AddOption * 4);
+		damage = damage + (this->m_AddOption * 4);
 
-			MaxDurSmall = (780 * gServerInfo.m_WeaponDurabilityRate) / 100;
+		MaxDurSmall = (780 * gServerInfo.m_WeaponDurabilityRate) / 100;
 
-			break;
-		}
+		break;
+	}
 
-		case 2:
-		{
-			damage = (this->m_MagicDamageRate / 2) + (this->m_Level * 2);
+	case 2:
+	{
+		damage = (this->m_MagicDamageRate / 2) + (this->m_Level * 2);
 
-			damage = damage + (damage / 3);
+		damage = damage + (damage / 3);
 
-			damage = damage + (this->m_AddOption * 4);
+		damage = damage + (this->m_AddOption * 4);
 
-			MaxDurSmall = (1050 * gServerInfo.m_WeaponDurabilityRate) / 100;
+		MaxDurSmall = (1050 * gServerInfo.m_WeaponDurabilityRate) / 100;
 
-			break;
-		}
+		break;
+	}
 
-		case 3:
-		{
-			damage = (this->m_MagicDamageRate / 2) + (this->m_Level * 2);
+	case 3:
+	{
+		damage = (this->m_MagicDamageRate / 2) + (this->m_Level * 2);
 
-			damage = damage + (damage / 3);
+		damage = damage + (damage / 3);
 
-			damage = damage + (this->m_AddOption * 4);
+		damage = damage + (this->m_AddOption * 4);
 
-			MaxDurSmall = (1050 * gServerInfo.m_WeaponDurabilityRate) / 100;
+		MaxDurSmall = (1050 * gServerInfo.m_WeaponDurabilityRate) / 100;
 
-			break;
-		}
+		break;
+	}
 	}
 
 	this->m_DurabilitySmall += ((damage == 0) ? 0 : (defense / damage));

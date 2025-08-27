@@ -18,6 +18,11 @@
 #include "SocketManager.h"
 #include "SocketManagerUdp.h"
 #include "Util.h"
+#include "CustomAttack.h"
+#include "CustomPick.h"
+
+CCustomAttack gCustomAttack;
+CCustomPick gCustomPick;
 
 HINSTANCE hInst;
 

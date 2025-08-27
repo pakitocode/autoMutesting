@@ -1,0 +1,1910 @@
+10:05:21 [ServerInfo] ChaosMix loaded successfully
+10:05:21 [ServerInfo] Character loaded successfully
+10:05:21 [ServerInfo] Command loaded successfully
+10:05:21 [ServerInfo] Common loaded successfully
+10:05:21 [ServerInfo] Custom loaded successfully
+10:05:21 [ServerInfo] Event loaded successfully
+10:05:21 [ServerInfo] EventItemBag loaded successfully
+10:05:21 [ServerInfo] Hack loaded successfully
+10:05:21 [ServerInfo] Item loaded successfully
+10:05:22 [ServerInfo] Monster loaded successfully
+10:05:22 [ServerInfo] Move loaded successfully
+10:05:22 [ServerInfo] Quest loaded successfully
+10:05:22 [ServerInfo] Shop loaded successfully
+10:05:22 [ServerInfo] Skill loaded successfully
+10:05:22 [ServerInfo] Util loaded successfully
+10:05:22 [Blood Castle] (1) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (1) SetState EMPTY
+10:05:22 [Blood Castle] (2) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (2) SetState EMPTY
+10:05:22 [Blood Castle] (3) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (3) SetState EMPTY
+10:05:22 [Blood Castle] (4) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (4) SetState EMPTY
+10:05:22 [Blood Castle] (5) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (5) SetState EMPTY
+10:05:22 [Blood Castle] (6) Sync Start Time. [174] min remain
+10:05:22 [Blood Castle] (6) SetState EMPTY
+10:05:22 [Devil Square] (1) Sync Start Time. [24] min remain
+10:05:22 [Devil Square] (1) SetState EMPTY
+10:05:22 [Devil Square] (2) Sync Start Time. [24] min remain
+10:05:22 [Devil Square] (2) SetState EMPTY
+10:05:22 [Devil Square] (3) Sync Start Time. [24] min remain
+10:05:22 [Devil Square] (3) SetState EMPTY
+10:05:22 [Devil Square] (4) Sync Start Time. [24] min remain
+10:05:22 [Devil Square] (4) SetState EMPTY
+10:05:22 [Bingo] SetState BLANK
+10:05:22 [Bingo] SetState EMPTY
+10:05:22 [JoinServerConnection] Connected
+10:05:22 [DataServerConnection] Connected
+10:34:54 [ServerInfo] ChaosMix loaded successfully
+10:34:54 [ServerInfo] Character loaded successfully
+10:34:54 [ServerInfo] Command loaded successfully
+10:34:54 [ServerInfo] Common loaded successfully
+10:34:54 [ServerInfo] Custom loaded successfully
+10:34:54 [ServerInfo] Event loaded successfully
+10:34:54 [ServerInfo] EventItemBag loaded successfully
+10:34:54 [ServerInfo] Hack loaded successfully
+10:34:54 [ServerInfo] Item loaded successfully
+10:34:55 [ServerInfo] Monster loaded successfully
+10:34:55 [ServerInfo] Move loaded successfully
+10:34:55 [ServerInfo] Quest loaded successfully
+10:34:55 [ServerInfo] Shop loaded successfully
+10:34:55 [ServerInfo] Skill loaded successfully
+10:34:55 [ServerInfo] Util loaded successfully
+10:34:55 [Blood Castle] (1) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (1) SetState EMPTY
+10:34:55 [Blood Castle] (2) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (2) SetState EMPTY
+10:34:55 [Blood Castle] (3) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (3) SetState EMPTY
+10:34:55 [Blood Castle] (4) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (4) SetState EMPTY
+10:34:55 [Blood Castle] (5) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (5) SetState EMPTY
+10:34:55 [Blood Castle] (6) Sync Start Time. [145] min remain
+10:34:55 [Blood Castle] (6) SetState EMPTY
+10:34:55 [Devil Square] (1) Sync Start Time. [175] min remain
+10:34:55 [Devil Square] (1) SetState EMPTY
+10:34:55 [Devil Square] (2) Sync Start Time. [175] min remain
+10:34:55 [Devil Square] (2) SetState EMPTY
+10:34:55 [Devil Square] (3) Sync Start Time. [175] min remain
+10:34:55 [Devil Square] (3) SetState EMPTY
+10:34:55 [Devil Square] (4) Sync Start Time. [175] min remain
+10:34:55 [Devil Square] (4) SetState EMPTY
+10:34:55 [Bingo] SetState BLANK
+10:34:55 [Bingo] SetState EMPTY
+10:34:55 [JoinServerConnection] Connected
+10:34:55 [DataServerConnection] Connected
+13:54:07 [ServerInfo] ChaosMix loaded successfully
+13:54:07 [ServerInfo] Character loaded successfully
+13:54:07 [ServerInfo] Command loaded successfully
+13:54:07 [ServerInfo] Common loaded successfully
+13:54:07 [ServerInfo] Custom loaded successfully
+13:54:07 [ServerInfo] Event loaded successfully
+13:54:07 [ServerInfo] EventItemBag loaded successfully
+13:54:07 [ServerInfo] Hack loaded successfully
+13:54:07 [ServerInfo] Item loaded successfully
+13:54:08 [ServerInfo] Monster loaded successfully
+13:54:08 [ServerInfo] Move loaded successfully
+13:54:08 [ServerInfo] Quest loaded successfully
+13:54:08 [ServerInfo] Shop loaded successfully
+13:54:08 [ServerInfo] Skill loaded successfully
+13:54:08 [ServerInfo] Util loaded successfully
+13:54:08 [Blood Castle] (1) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (1) SetState EMPTY
+13:54:08 [Blood Castle] (2) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (2) SetState EMPTY
+13:54:08 [Blood Castle] (3) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (3) SetState EMPTY
+13:54:08 [Blood Castle] (4) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (4) SetState EMPTY
+13:54:08 [Blood Castle] (5) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (5) SetState EMPTY
+13:54:08 [Blood Castle] (6) Sync Start Time. [65] min remain
+13:54:08 [Blood Castle] (6) SetState EMPTY
+13:54:08 [Devil Square] (1) Sync Start Time. [35] min remain
+13:54:08 [Devil Square] (1) SetState EMPTY
+13:54:08 [Devil Square] (2) Sync Start Time. [35] min remain
+13:54:08 [Devil Square] (2) SetState EMPTY
+13:54:08 [Devil Square] (3) Sync Start Time. [35] min remain
+13:54:08 [Devil Square] (3) SetState EMPTY
+13:54:08 [Devil Square] (4) Sync Start Time. [35] min remain
+13:54:08 [Devil Square] (4) SetState EMPTY
+13:54:08 [Bingo] SetState BLANK
+13:54:08 [Bingo] SetState EMPTY
+13:54:08 [JoinServerConnection] Connected
+13:54:08 [DataServerConnection] Connected
+14:19:29 [ServerInfo] ChaosMix loaded successfully
+14:19:29 [ServerInfo] Character loaded successfully
+14:19:29 [ServerInfo] Command loaded successfully
+14:19:29 [ServerInfo] Common loaded successfully
+14:19:29 [ServerInfo] Custom loaded successfully
+14:19:29 [ServerInfo] Event loaded successfully
+14:19:29 [ServerInfo] EventItemBag loaded successfully
+14:19:29 [ServerInfo] Hack loaded successfully
+14:19:29 [ServerInfo] Item loaded successfully
+14:19:29 [ServerInfo] Monster loaded successfully
+14:19:29 [ServerInfo] Move loaded successfully
+14:19:29 [ServerInfo] Quest loaded successfully
+14:19:29 [ServerInfo] Shop loaded successfully
+14:19:29 [ServerInfo] Skill loaded successfully
+14:19:29 [ServerInfo] Util loaded successfully
+14:19:29 [Blood Castle] (1) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (1) SetState EMPTY
+14:19:29 [Blood Castle] (2) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (2) SetState EMPTY
+14:19:29 [Blood Castle] (3) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (3) SetState EMPTY
+14:19:29 [Blood Castle] (4) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (4) SetState EMPTY
+14:19:29 [Blood Castle] (5) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (5) SetState EMPTY
+14:19:29 [Blood Castle] (6) Sync Start Time. [40] min remain
+14:19:29 [Blood Castle] (6) SetState EMPTY
+14:19:29 [Devil Square] (1) Sync Start Time. [10] min remain
+14:19:29 [Devil Square] (1) SetState EMPTY
+14:19:29 [Devil Square] (2) Sync Start Time. [10] min remain
+14:19:29 [Devil Square] (2) SetState EMPTY
+14:19:29 [Devil Square] (3) Sync Start Time. [10] min remain
+14:19:29 [Devil Square] (3) SetState EMPTY
+14:19:29 [Devil Square] (4) Sync Start Time. [10] min remain
+14:19:29 [Devil Square] (4) SetState EMPTY
+14:19:29 [Bingo] SetState BLANK
+14:19:29 [Bingo] SetState EMPTY
+14:19:29 [JoinServerConnection] Connected
+14:19:29 [DataServerConnection] Connected
+15:14:24 [ServerInfo] ChaosMix loaded successfully
+15:14:24 [ServerInfo] Character loaded successfully
+15:14:24 [ServerInfo] Command loaded successfully
+15:14:24 [ServerInfo] Common loaded successfully
+15:14:24 [ServerInfo] Custom loaded successfully
+15:14:24 [ServerInfo] Event loaded successfully
+15:14:24 [ServerInfo] EventItemBag loaded successfully
+15:14:24 [ServerInfo] Hack loaded successfully
+15:14:24 [ServerInfo] Item loaded successfully
+15:14:24 [ServerInfo] Monster loaded successfully
+15:14:24 [ServerInfo] Move loaded successfully
+15:14:24 [ServerInfo] Quest loaded successfully
+15:14:24 [ServerInfo] Shop loaded successfully
+15:14:24 [ServerInfo] Skill loaded successfully
+15:14:24 [ServerInfo] Util loaded successfully
+15:14:24 [Blood Castle] (1) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (1) SetState EMPTY
+15:14:24 [Blood Castle] (2) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (2) SetState EMPTY
+15:14:24 [Blood Castle] (3) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (3) SetState EMPTY
+15:14:24 [Blood Castle] (4) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (4) SetState EMPTY
+15:14:24 [Blood Castle] (5) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (5) SetState EMPTY
+15:14:24 [Blood Castle] (6) Sync Start Time. [45] min remain
+15:14:24 [Blood Castle] (6) SetState EMPTY
+15:14:24 [Devil Square] (1) Sync Start Time. [75] min remain
+15:14:24 [Devil Square] (1) SetState EMPTY
+15:14:24 [Devil Square] (2) Sync Start Time. [75] min remain
+15:14:24 [Devil Square] (2) SetState EMPTY
+15:14:24 [Devil Square] (3) Sync Start Time. [75] min remain
+15:14:24 [Devil Square] (3) SetState EMPTY
+15:14:24 [Devil Square] (4) Sync Start Time. [75] min remain
+15:14:24 [Devil Square] (4) SetState EMPTY
+15:14:24 [Bingo] SetState BLANK
+15:14:24 [Bingo] SetState EMPTY
+15:14:24 [JoinServerConnection] Connected
+15:14:24 [DataServerConnection] Connected
+16:08:04 [ServerInfo] ChaosMix loaded successfully
+16:08:04 [ServerInfo] Character loaded successfully
+16:08:04 [ServerInfo] Command loaded successfully
+16:08:04 [ServerInfo] Common loaded successfully
+16:08:04 [ServerInfo] Custom loaded successfully
+16:08:04 [ServerInfo] Event loaded successfully
+16:08:04 [ServerInfo] EventItemBag loaded successfully
+16:08:04 [ServerInfo] Hack loaded successfully
+16:08:04 [ServerInfo] Item loaded successfully
+16:08:04 [ServerInfo] Monster loaded successfully
+16:08:04 [ServerInfo] Move loaded successfully
+16:08:04 [ServerInfo] Quest loaded successfully
+16:08:05 [ServerInfo] Shop loaded successfully
+16:08:05 [ServerInfo] Skill loaded successfully
+16:08:05 [ServerInfo] Util loaded successfully
+16:08:05 [ResetSystem] Bat dau nap file config reset...
+16:08:05 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+16:08:05 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL0.
+16:08:05 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+16:08:05 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL1.
+16:08:05 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+16:08:05 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL2.
+16:08:05 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+16:08:05 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL3.
+16:08:05 [ResetSystem] Da nap xong toan bo file config reset.
+16:08:05 [Blood Castle] (1) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (1) SetState EMPTY
+16:08:05 [Blood Castle] (2) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (2) SetState EMPTY
+16:08:05 [Blood Castle] (3) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (3) SetState EMPTY
+16:08:05 [Blood Castle] (4) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (4) SetState EMPTY
+16:08:05 [Blood Castle] (5) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (5) SetState EMPTY
+16:08:05 [Blood Castle] (6) Sync Start Time. [171] min remain
+16:08:05 [Blood Castle] (6) SetState EMPTY
+16:08:05 [Devil Square] (1) Sync Start Time. [21] min remain
+16:08:05 [Devil Square] (1) SetState EMPTY
+16:08:05 [Devil Square] (2) Sync Start Time. [21] min remain
+16:08:05 [Devil Square] (2) SetState EMPTY
+16:08:05 [Devil Square] (3) Sync Start Time. [21] min remain
+16:08:05 [Devil Square] (3) SetState EMPTY
+16:08:05 [Devil Square] (4) Sync Start Time. [21] min remain
+16:08:05 [Devil Square] (4) SetState EMPTY
+16:08:05 [Bingo] SetState BLANK
+16:08:05 [Bingo] SetState EMPTY
+16:08:05 [JoinServerConnection] Connected
+16:08:05 [DataServerConnection] Connected
+16:34:19 [ServerInfo] ChaosMix loaded successfully
+16:34:19 [ServerInfo] Character loaded successfully
+16:34:19 [ServerInfo] Command loaded successfully
+16:34:19 [ServerInfo] Common loaded successfully
+16:34:19 [ServerInfo] Custom loaded successfully
+16:34:19 [ServerInfo] Event loaded successfully
+16:34:19 [ServerInfo] EventItemBag loaded successfully
+16:34:19 [ServerInfo] Hack loaded successfully
+16:34:19 [ServerInfo] Item loaded successfully
+16:34:19 [ServerInfo] Monster loaded successfully
+16:34:19 [ServerInfo] Move loaded successfully
+16:34:19 [ServerInfo] Quest loaded successfully
+16:34:20 [ServerInfo] Shop loaded successfully
+16:34:20 [ServerInfo] Skill loaded successfully
+16:34:20 [ServerInfo] Util loaded successfully
+16:34:20 [ResetSystem] Bat dau nap file config reset...
+16:34:20 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+16:34:20 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL0.
+16:34:20 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+16:34:20 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL1.
+16:34:20 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+16:34:20 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL2.
+16:34:20 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+16:34:20 [ResetSystem] -> !!! THAT BAI !!! Khong tim thay hoac khong the mo file cho AL3.
+16:34:20 [ResetSystem] Da nap xong toan bo file config reset.
+16:34:20 [Blood Castle] (1) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (1) SetState EMPTY
+16:34:20 [Blood Castle] (2) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (2) SetState EMPTY
+16:34:20 [Blood Castle] (3) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (3) SetState EMPTY
+16:34:20 [Blood Castle] (4) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (4) SetState EMPTY
+16:34:20 [Blood Castle] (5) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (5) SetState EMPTY
+16:34:20 [Blood Castle] (6) Sync Start Time. [145] min remain
+16:34:20 [Blood Castle] (6) SetState EMPTY
+16:34:20 [Devil Square] (1) Sync Start Time. [175] min remain
+16:34:20 [Devil Square] (1) SetState EMPTY
+16:34:20 [Devil Square] (2) Sync Start Time. [175] min remain
+16:34:20 [Devil Square] (2) SetState EMPTY
+16:34:20 [Devil Square] (3) Sync Start Time. [175] min remain
+16:34:20 [Devil Square] (3) SetState EMPTY
+16:34:20 [Devil Square] (4) Sync Start Time. [175] min remain
+16:34:20 [Devil Square] (4) SetState EMPTY
+16:34:20 [Bingo] SetState BLANK
+16:34:20 [Bingo] SetState EMPTY
+16:34:20 [JoinServerConnection] Connected
+16:34:20 [DataServerConnection] Connected
+16:55:19 [ServerInfo] ChaosMix loaded successfully
+16:55:19 [ServerInfo] Character loaded successfully
+16:55:19 [ServerInfo] Command loaded successfully
+16:55:19 [ServerInfo] Common loaded successfully
+16:55:19 [ServerInfo] Custom loaded successfully
+16:55:19 [ServerInfo] Event loaded successfully
+16:55:19 [ServerInfo] EventItemBag loaded successfully
+16:55:19 [ServerInfo] Hack loaded successfully
+16:55:19 [ServerInfo] Item loaded successfully
+16:55:19 [ServerInfo] Monster loaded successfully
+16:55:19 [ServerInfo] Move loaded successfully
+16:55:19 [ServerInfo] Quest loaded successfully
+16:55:19 [ServerInfo] Shop loaded successfully
+16:55:19 [ServerInfo] Skill loaded successfully
+16:55:19 [ServerInfo] Util loaded successfully
+16:56:18 [JoinServerConnection] Disconnected
+16:56:20 [DataServerConnection] Disconnected
+17:00:17 [ServerInfo] ChaosMix loaded successfully
+17:00:17 [ServerInfo] Character loaded successfully
+17:00:17 [ServerInfo] Command loaded successfully
+17:00:17 [ServerInfo] Common loaded successfully
+17:00:17 [ServerInfo] Custom loaded successfully
+17:00:17 [ServerInfo] Event loaded successfully
+17:00:17 [ServerInfo] EventItemBag loaded successfully
+17:00:17 [ServerInfo] Hack loaded successfully
+17:00:17 [ServerInfo] Item loaded successfully
+17:00:17 [ServerInfo] Monster loaded successfully
+17:00:17 [ServerInfo] Move loaded successfully
+17:00:17 [ServerInfo] Quest loaded successfully
+17:00:17 [ServerInfo] Shop loaded successfully
+17:00:17 [ServerInfo] Skill loaded successfully
+17:00:17 [ServerInfo] Util loaded successfully
+17:00:17 [ResetSystem] Bat dau nap file config reset...
+17:00:17 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+17:00:17 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+17:00:17 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+17:00:17 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+17:00:17 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+17:00:17 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+17:00:17 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+17:00:17 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+17:00:17 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+17:00:17 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+17:00:17 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+17:00:17 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+17:00:17 [ResetSystem] Da nap xong toan bo file config reset.
+17:00:17 [Blood Castle] (1) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (1) SetState EMPTY
+17:00:17 [Blood Castle] (2) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (2) SetState EMPTY
+17:00:17 [Blood Castle] (3) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (3) SetState EMPTY
+17:00:17 [Blood Castle] (4) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (4) SetState EMPTY
+17:00:17 [Blood Castle] (5) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (5) SetState EMPTY
+17:00:17 [Blood Castle] (6) Sync Start Time. [119] min remain
+17:00:17 [Blood Castle] (6) SetState EMPTY
+17:00:17 [Devil Square] (1) Sync Start Time. [149] min remain
+17:00:17 [Devil Square] (1) SetState EMPTY
+17:00:17 [Devil Square] (2) Sync Start Time. [149] min remain
+17:00:17 [Devil Square] (2) SetState EMPTY
+17:00:17 [Devil Square] (3) Sync Start Time. [149] min remain
+17:00:17 [Devil Square] (3) SetState EMPTY
+17:00:17 [Devil Square] (4) Sync Start Time. [149] min remain
+17:00:17 [Devil Square] (4) SetState EMPTY
+17:00:17 [Bingo] SetState BLANK
+17:00:17 [Bingo] SetState EMPTY
+17:00:17 [JoinServerConnection] Connected
+17:00:17 [DataServerConnection] Connected
+17:01:51 [ServerInfo] ChaosMix loaded successfully
+17:01:51 [ServerInfo] Character loaded successfully
+17:01:51 [ServerInfo] Command loaded successfully
+17:01:51 [ServerInfo] Common loaded successfully
+17:01:51 [ServerInfo] Custom loaded successfully
+17:01:51 [ServerInfo] Event loaded successfully
+17:01:51 [ServerInfo] EventItemBag loaded successfully
+17:01:51 [ServerInfo] Hack loaded successfully
+17:01:51 [ServerInfo] Item loaded successfully
+17:01:51 [ServerInfo] Monster loaded successfully
+17:01:51 [ServerInfo] Move loaded successfully
+17:01:51 [ServerInfo] Quest loaded successfully
+17:01:51 [ServerInfo] Shop loaded successfully
+17:01:51 [ServerInfo] Skill loaded successfully
+17:01:51 [ServerInfo] Util loaded successfully
+17:08:30 [JoinServerConnection] Disconnected
+17:08:32 [DataServerConnection] Disconnected
+18:19:56 [ServerInfo] ChaosMix loaded successfully
+18:19:56 [ServerInfo] Character loaded successfully
+18:19:56 [ServerInfo] Command loaded successfully
+18:19:56 [ServerInfo] Common loaded successfully
+18:19:56 [ServerInfo] Custom loaded successfully
+18:19:56 [ServerInfo] Event loaded successfully
+18:19:56 [ServerInfo] EventItemBag loaded successfully
+18:19:56 [ServerInfo] Hack loaded successfully
+18:19:56 [ServerInfo] Item loaded successfully
+18:19:56 [ServerInfo] Monster loaded successfully
+18:19:56 [ServerInfo] Move loaded successfully
+18:19:56 [ServerInfo] Quest loaded successfully
+18:19:57 [ServerInfo] Shop loaded successfully
+18:19:57 [ServerInfo] Skill loaded successfully
+18:19:57 [ServerInfo] Util loaded successfully
+18:19:57 [ResetSystem] Bat dau nap file config reset...
+18:19:57 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+18:19:57 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:19:57 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+18:19:57 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+18:19:57 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:19:57 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+18:19:57 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+18:19:57 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:19:57 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+18:19:57 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+18:19:57 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:19:57 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+18:19:57 [ResetSystem] Da nap xong toan bo file config reset.
+18:19:57 [Blood Castle] (1) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (1) SetState EMPTY
+18:19:57 [Blood Castle] (2) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (2) SetState EMPTY
+18:19:57 [Blood Castle] (3) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (3) SetState EMPTY
+18:19:57 [Blood Castle] (4) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (4) SetState EMPTY
+18:19:57 [Blood Castle] (5) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (5) SetState EMPTY
+18:19:57 [Blood Castle] (6) Sync Start Time. [40] min remain
+18:19:57 [Blood Castle] (6) SetState EMPTY
+18:19:57 [Devil Square] (1) Sync Start Time. [70] min remain
+18:19:57 [Devil Square] (1) SetState EMPTY
+18:19:57 [Devil Square] (2) Sync Start Time. [70] min remain
+18:19:57 [Devil Square] (2) SetState EMPTY
+18:19:57 [Devil Square] (3) Sync Start Time. [70] min remain
+18:19:57 [Devil Square] (3) SetState EMPTY
+18:19:57 [Devil Square] (4) Sync Start Time. [70] min remain
+18:19:57 [Devil Square] (4) SetState EMPTY
+18:19:57 [Bingo] SetState BLANK
+18:19:57 [Bingo] SetState EMPTY
+18:19:57 [JoinServerConnection] Connected
+18:19:57 [DataServerConnection] Connected
+18:20:21 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=1000000
+18:27:12 [JoinServerConnection] Disconnected
+18:27:14 [DataServerConnection] Disconnected
+18:29:21 [ServerInfo] ChaosMix loaded successfully
+18:29:21 [ServerInfo] Character loaded successfully
+18:29:21 [ServerInfo] Command loaded successfully
+18:29:21 [ServerInfo] Common loaded successfully
+18:29:21 [ServerInfo] Custom loaded successfully
+18:29:21 [ServerInfo] Event loaded successfully
+18:29:21 [ServerInfo] EventItemBag loaded successfully
+18:29:21 [ServerInfo] Hack loaded successfully
+18:29:21 [ServerInfo] Item loaded successfully
+18:29:21 [ServerInfo] Monster loaded successfully
+18:29:21 [ServerInfo] Move loaded successfully
+18:29:21 [ServerInfo] Quest loaded successfully
+18:29:21 [ServerInfo] Shop loaded successfully
+18:29:21 [ServerInfo] Skill loaded successfully
+18:29:21 [ServerInfo] Util loaded successfully
+18:29:21 [ResetSystem] Bat dau nap file config reset...
+18:29:21 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+18:29:21 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:29:21 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+18:29:21 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+18:29:21 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:29:21 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+18:29:21 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+18:29:21 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:29:21 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+18:29:21 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+18:29:21 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:29:21 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+18:29:21 [ResetSystem] Da nap xong toan bo file config reset.
+18:29:22 [Blood Castle] (1) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (1) SetState EMPTY
+18:29:22 [Blood Castle] (2) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (2) SetState EMPTY
+18:29:22 [Blood Castle] (3) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (3) SetState EMPTY
+18:29:22 [Blood Castle] (4) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (4) SetState EMPTY
+18:29:22 [Blood Castle] (5) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (5) SetState EMPTY
+18:29:22 [Blood Castle] (6) Sync Start Time. [30] min remain
+18:29:22 [Blood Castle] (6) SetState EMPTY
+18:29:22 [Devil Square] (1) Sync Start Time. [60] min remain
+18:29:22 [Devil Square] (1) SetState EMPTY
+18:29:22 [Devil Square] (2) Sync Start Time. [60] min remain
+18:29:22 [Devil Square] (2) SetState EMPTY
+18:29:22 [Devil Square] (3) Sync Start Time. [60] min remain
+18:29:22 [Devil Square] (3) SetState EMPTY
+18:29:22 [Devil Square] (4) Sync Start Time. [60] min remain
+18:29:22 [Devil Square] (4) SetState EMPTY
+18:29:22 [Bingo] SetState BLANK
+18:29:22 [Bingo] SetState EMPTY
+18:29:22 [JoinServerConnection] Connected
+18:29:22 [DataServerConnection] Connected
+18:29:45 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+18:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 169, Y: 185
+18:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 97, Y: 192
+18:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 206, Y: 61
+18:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 116, Y: 21
+18:30:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 42, Y: 91
+18:30:34 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+18:47:31 [JoinServerConnection] Disconnected
+18:47:33 [DataServerConnection] Disconnected
+18:47:34 [JoinServerConnection] Connect Failed
+18:49:44 [ServerInfo] ChaosMix loaded successfully
+18:49:44 [ServerInfo] Character loaded successfully
+18:49:44 [ServerInfo] Command loaded successfully
+18:49:44 [ServerInfo] Common loaded successfully
+18:49:44 [ServerInfo] Custom loaded successfully
+18:49:44 [ServerInfo] Event loaded successfully
+18:49:44 [ServerInfo] EventItemBag loaded successfully
+18:49:44 [ServerInfo] Hack loaded successfully
+18:49:44 [ServerInfo] Item loaded successfully
+18:49:44 [ServerInfo] Monster loaded successfully
+18:49:44 [ServerInfo] Move loaded successfully
+18:49:44 [ServerInfo] Quest loaded successfully
+18:49:44 [ServerInfo] Shop loaded successfully
+18:49:44 [ServerInfo] Skill loaded successfully
+18:49:44 [ServerInfo] Util loaded successfully
+18:49:44 [ResetSystem] Bat dau nap file config reset...
+18:49:44 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+18:49:44 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:49:44 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+18:49:44 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+18:49:44 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:49:44 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+18:49:44 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+18:49:44 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:49:44 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+18:49:44 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+18:49:44 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:49:44 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+18:49:44 [ResetSystem] Da nap xong toan bo file config reset.
+18:49:45 [Blood Castle] (1) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (1) SetState EMPTY
+18:49:45 [Blood Castle] (2) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (2) SetState EMPTY
+18:49:45 [Blood Castle] (3) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (3) SetState EMPTY
+18:49:45 [Blood Castle] (4) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (4) SetState EMPTY
+18:49:45 [Blood Castle] (5) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (5) SetState EMPTY
+18:49:45 [Blood Castle] (6) Sync Start Time. [10] min remain
+18:49:45 [Blood Castle] (6) SetState EMPTY
+18:49:45 [Devil Square] (1) Sync Start Time. [40] min remain
+18:49:45 [Devil Square] (1) SetState EMPTY
+18:49:45 [Devil Square] (2) Sync Start Time. [40] min remain
+18:49:45 [Devil Square] (2) SetState EMPTY
+18:49:45 [Devil Square] (3) Sync Start Time. [40] min remain
+18:49:45 [Devil Square] (3) SetState EMPTY
+18:49:45 [Devil Square] (4) Sync Start Time. [40] min remain
+18:49:45 [Devil Square] (4) SetState EMPTY
+18:49:45 [Bingo] SetState BLANK
+18:49:45 [Bingo] SetState EMPTY
+18:49:45 [JoinServerConnection] Connected
+18:49:45 [DataServerConnection] Connected
+18:50:03 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+18:56:08 [JoinServerConnection] Disconnected
+18:56:10 [DataServerConnection] Disconnected
+18:59:25 [ServerInfo] ChaosMix loaded successfully
+18:59:25 [ServerInfo] Character loaded successfully
+18:59:25 [ServerInfo] Command loaded successfully
+18:59:25 [ServerInfo] Common loaded successfully
+18:59:25 [ServerInfo] Custom loaded successfully
+18:59:25 [ServerInfo] Event loaded successfully
+18:59:25 [ServerInfo] EventItemBag loaded successfully
+18:59:25 [ServerInfo] Hack loaded successfully
+18:59:25 [ServerInfo] Item loaded successfully
+18:59:25 [ServerInfo] Monster loaded successfully
+18:59:25 [ServerInfo] Move loaded successfully
+18:59:25 [ServerInfo] Quest loaded successfully
+18:59:25 [ServerInfo] Shop loaded successfully
+18:59:25 [ServerInfo] Skill loaded successfully
+18:59:25 [ServerInfo] Util loaded successfully
+18:59:25 [ResetSystem] Bat dau nap file config reset...
+18:59:25 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+18:59:25 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:59:25 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+18:59:25 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+18:59:25 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:59:25 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+18:59:25 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+18:59:25 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:59:25 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+18:59:25 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+18:59:25 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+18:59:25 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+18:59:25 [ResetSystem] Da nap xong toan bo file config reset.
+18:59:26 [Blood Castle] (1) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (1) SetState EMPTY
+18:59:26 [Blood Castle] (2) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (2) SetState EMPTY
+18:59:26 [Blood Castle] (3) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (3) SetState EMPTY
+18:59:26 [Blood Castle] (4) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (4) SetState EMPTY
+18:59:26 [Blood Castle] (5) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (5) SetState EMPTY
+18:59:26 [Blood Castle] (6) Sync Start Time. [0] min remain
+18:59:26 [Blood Castle] (6) SetState EMPTY
+18:59:26 [Devil Square] (1) Sync Start Time. [30] min remain
+18:59:26 [Devil Square] (1) SetState EMPTY
+18:59:26 [Devil Square] (2) Sync Start Time. [30] min remain
+18:59:26 [Devil Square] (2) SetState EMPTY
+18:59:26 [Devil Square] (3) Sync Start Time. [30] min remain
+18:59:26 [Devil Square] (3) SetState EMPTY
+18:59:26 [Devil Square] (4) Sync Start Time. [30] min remain
+18:59:26 [Devil Square] (4) SetState EMPTY
+18:59:26 [Bingo] SetState BLANK
+18:59:26 [Bingo] SetState EMPTY
+18:59:26 [JoinServerConnection] Connected
+18:59:26 [DataServerConnection] Connected
+18:59:44 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+19:00:00 [Blood Castle] (1) SetState STAND
+19:00:00 [Blood Castle] (2) SetState STAND
+19:00:00 [Blood Castle] (3) SetState STAND
+19:00:00 [Blood Castle] (4) SetState STAND
+19:00:00 [Blood Castle] (5) SetState STAND
+19:00:00 [Blood Castle] (6) SetState STAND
+19:00:01 [Blood Castle] (1) Not enough users
+19:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (1) SetState EMPTY
+19:00:01 [Blood Castle] (2) Not enough users
+19:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (2) SetState EMPTY
+19:00:01 [Blood Castle] (3) Not enough users
+19:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (3) SetState EMPTY
+19:00:01 [Blood Castle] (4) Not enough users
+19:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (4) SetState EMPTY
+19:00:01 [Blood Castle] (5) Not enough users
+19:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (5) SetState EMPTY
+19:00:01 [Blood Castle] (6) Not enough users
+19:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+19:00:01 [Blood Castle] (6) SetState EMPTY
+19:02:01 [JoinServerConnection] Disconnected
+19:02:03 [DataServerConnection] Disconnected
+19:20:04 [ServerInfo] ChaosMix loaded successfully
+19:20:04 [ServerInfo] Character loaded successfully
+19:20:04 [ServerInfo] Command loaded successfully
+19:20:04 [ServerInfo] Common loaded successfully
+19:20:04 [ServerInfo] Custom loaded successfully
+19:20:04 [ServerInfo] Event loaded successfully
+19:20:04 [ServerInfo] EventItemBag loaded successfully
+19:20:04 [ServerInfo] Hack loaded successfully
+19:20:04 [ServerInfo] Item loaded successfully
+19:20:04 [ServerInfo] Monster loaded successfully
+19:20:04 [ServerInfo] Move loaded successfully
+19:20:04 [ServerInfo] Quest loaded successfully
+19:20:04 [ServerInfo] Shop loaded successfully
+19:20:04 [ServerInfo] Skill loaded successfully
+19:20:04 [ServerInfo] Util loaded successfully
+19:20:04 [ResetSystem] Bat dau nap file config reset...
+19:20:04 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+19:20:04 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:20:04 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+19:20:04 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+19:20:04 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:20:04 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+19:20:04 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+19:20:04 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:20:04 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+19:20:04 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+19:20:04 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:20:04 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+19:20:04 [ResetSystem] Da nap xong toan bo file config reset.
+19:20:04 [Blood Castle] (1) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (1) SetState EMPTY
+19:20:04 [Blood Castle] (2) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (2) SetState EMPTY
+19:20:04 [Blood Castle] (3) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (3) SetState EMPTY
+19:20:04 [Blood Castle] (4) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (4) SetState EMPTY
+19:20:04 [Blood Castle] (5) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (5) SetState EMPTY
+19:20:04 [Blood Castle] (6) Sync Start Time. [159] min remain
+19:20:04 [Blood Castle] (6) SetState EMPTY
+19:20:04 [Devil Square] (1) Sync Start Time. [9] min remain
+19:20:04 [Devil Square] (1) SetState EMPTY
+19:20:04 [Devil Square] (2) Sync Start Time. [9] min remain
+19:20:04 [Devil Square] (2) SetState EMPTY
+19:20:04 [Devil Square] (3) Sync Start Time. [9] min remain
+19:20:04 [Devil Square] (3) SetState EMPTY
+19:20:04 [Devil Square] (4) Sync Start Time. [9] min remain
+19:20:04 [Devil Square] (4) SetState EMPTY
+19:20:04 [Bingo] SetState BLANK
+19:20:04 [Bingo] SetState EMPTY
+19:20:04 [JoinServerConnection] Connected
+19:20:04 [DataServerConnection] Connected
+19:30:00 [Devil Square] (1) SetState STAND
+19:30:00 [Devil Square] (2) SetState STAND
+19:30:00 [Devil Square] (3) SetState STAND
+19:30:00 [Devil Square] (4) SetState STAND
+19:30:01 [Devil Square] (1) Not enough users
+19:30:01 [Devil Square] (1) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (1) SetState EMPTY
+19:30:01 [Devil Square] (2) Not enough users
+19:30:01 [Devil Square] (2) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (2) SetState EMPTY
+19:30:01 [Devil Square] (3) Not enough users
+19:30:01 [Devil Square] (3) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (3) SetState EMPTY
+19:30:01 [Devil Square] (4) Not enough users
+19:30:01 [Devil Square] (4) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (4) SetState EMPTY
+19:31:29 [JoinServerConnection] Disconnected
+19:31:31 [DataServerConnection] Disconnected
+19:33:54 [ServerInfo] ChaosMix loaded successfully
+19:33:54 [ServerInfo] Character loaded successfully
+19:33:54 [ServerInfo] Command loaded successfully
+19:33:54 [ServerInfo] Common loaded successfully
+19:33:54 [ServerInfo] Custom loaded successfully
+19:33:54 [ServerInfo] Event loaded successfully
+19:33:54 [ServerInfo] EventItemBag loaded successfully
+19:33:54 [ServerInfo] Hack loaded successfully
+19:33:54 [ServerInfo] Item loaded successfully
+19:33:54 [ServerInfo] Monster loaded successfully
+19:33:54 [ServerInfo] Move loaded successfully
+19:33:54 [ServerInfo] Quest loaded successfully
+19:33:54 [ServerInfo] Shop loaded successfully
+19:33:54 [ServerInfo] Skill loaded successfully
+19:33:54 [ServerInfo] Util loaded successfully
+19:33:54 [ResetSystem] Bat dau nap file config reset...
+19:33:54 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+19:33:54 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:33:54 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+19:33:54 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+19:33:54 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:33:54 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+19:33:54 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+19:33:54 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:33:54 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+19:33:54 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+19:33:54 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+19:33:54 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+19:33:54 [ResetSystem] Da nap xong toan bo file config reset.
+19:33:55 [Blood Castle] (1) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (1) SetState EMPTY
+19:33:55 [Blood Castle] (2) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (2) SetState EMPTY
+19:33:55 [Blood Castle] (3) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (3) SetState EMPTY
+19:33:55 [Blood Castle] (4) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (4) SetState EMPTY
+19:33:55 [Blood Castle] (5) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (5) SetState EMPTY
+19:33:55 [Blood Castle] (6) Sync Start Time. [146] min remain
+19:33:55 [Blood Castle] (6) SetState EMPTY
+19:33:55 [Devil Square] (1) Sync Start Time. [176] min remain
+19:33:55 [Devil Square] (1) SetState EMPTY
+19:33:55 [Devil Square] (2) Sync Start Time. [176] min remain
+19:33:55 [Devil Square] (2) SetState EMPTY
+19:33:55 [Devil Square] (3) Sync Start Time. [176] min remain
+19:33:55 [Devil Square] (3) SetState EMPTY
+19:33:55 [Devil Square] (4) Sync Start Time. [176] min remain
+19:33:55 [Devil Square] (4) SetState EMPTY
+19:33:55 [Bingo] SetState BLANK
+19:33:55 [Bingo] SetState EMPTY
+19:33:55 [JoinServerConnection] Connected
+19:33:55 [DataServerConnection] Connected
+19:34:13 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+19:34:13 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 397, Level: -1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+19:34:13 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 459, Level: -1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+19:34:13 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+19:59:07 [JoinServerConnection] Disconnected
+19:59:09 [DataServerConnection] Disconnected
+20:00:35 [ServerInfo] ChaosMix loaded successfully
+20:00:35 [ServerInfo] Character loaded successfully
+20:00:35 [ServerInfo] Command loaded successfully
+20:00:35 [ServerInfo] Common loaded successfully
+20:00:35 [ServerInfo] Custom loaded successfully
+20:00:35 [ServerInfo] Event loaded successfully
+20:00:35 [ServerInfo] EventItemBag loaded successfully
+20:00:35 [ServerInfo] Hack loaded successfully
+20:00:35 [ServerInfo] Item loaded successfully
+20:00:35 [ServerInfo] Monster loaded successfully
+20:00:35 [ServerInfo] Move loaded successfully
+20:00:35 [ServerInfo] Quest loaded successfully
+20:00:36 [ServerInfo] Shop loaded successfully
+20:00:36 [ServerInfo] Skill loaded successfully
+20:00:36 [ServerInfo] Util loaded successfully
+20:00:36 [ResetSystem] Bat dau nap file config reset...
+20:00:36 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+20:00:36 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:00:36 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+20:00:36 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+20:00:36 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:00:36 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+20:00:36 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+20:00:36 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:00:36 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+20:00:36 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+20:00:36 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:00:36 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+20:00:36 [ResetSystem] Da nap xong toan bo file config reset.
+20:00:36 [Blood Castle] (1) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (1) SetState EMPTY
+20:00:36 [Blood Castle] (2) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (2) SetState EMPTY
+20:00:36 [Blood Castle] (3) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (3) SetState EMPTY
+20:00:36 [Blood Castle] (4) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (4) SetState EMPTY
+20:00:36 [Blood Castle] (5) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (5) SetState EMPTY
+20:00:36 [Blood Castle] (6) Sync Start Time. [119] min remain
+20:00:36 [Blood Castle] (6) SetState EMPTY
+20:00:36 [Devil Square] (1) Sync Start Time. [149] min remain
+20:00:36 [Devil Square] (1) SetState EMPTY
+20:00:36 [Devil Square] (2) Sync Start Time. [149] min remain
+20:00:36 [Devil Square] (2) SetState EMPTY
+20:00:36 [Devil Square] (3) Sync Start Time. [149] min remain
+20:00:36 [Devil Square] (3) SetState EMPTY
+20:00:36 [Devil Square] (4) Sync Start Time. [149] min remain
+20:00:36 [Devil Square] (4) SetState EMPTY
+20:00:36 [Bingo] SetState BLANK
+20:00:36 [Bingo] SetState EMPTY
+20:00:36 [JoinServerConnection] Connected
+20:00:36 [DataServerConnection] Connected
+20:00:54 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+20:00:54 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: -1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+20:00:54 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 461, Level: -1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+20:00:54 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+20:10:03 [JoinServerConnection] Disconnected
+20:10:05 [DataServerConnection] Disconnected
+20:12:21 [ServerInfo] ChaosMix loaded successfully
+20:12:21 [ServerInfo] Character loaded successfully
+20:12:21 [ServerInfo] Command loaded successfully
+20:12:21 [ServerInfo] Common loaded successfully
+20:12:21 [ServerInfo] Custom loaded successfully
+20:12:21 [ServerInfo] Event loaded successfully
+20:12:21 [ServerInfo] EventItemBag loaded successfully
+20:12:21 [ServerInfo] Hack loaded successfully
+20:12:21 [ServerInfo] Item loaded successfully
+20:12:22 [ServerInfo] Monster loaded successfully
+20:12:22 [ServerInfo] Move loaded successfully
+20:12:22 [ServerInfo] Quest loaded successfully
+20:12:22 [ServerInfo] Shop loaded successfully
+20:12:22 [ServerInfo] Skill loaded successfully
+20:12:22 [ServerInfo] Util loaded successfully
+20:12:22 [ResetSystem] Bat dau nap file config reset...
+20:12:22 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+20:12:22 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:12:22 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+20:12:22 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+20:12:22 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:12:22 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+20:12:22 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+20:12:22 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:12:22 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+20:12:22 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+20:12:22 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:12:22 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+20:12:22 [ResetSystem] Da nap xong toan bo file config reset.
+20:12:22 [Blood Castle] (1) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (1) SetState EMPTY
+20:12:22 [Blood Castle] (2) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (2) SetState EMPTY
+20:12:22 [Blood Castle] (3) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (3) SetState EMPTY
+20:12:22 [Blood Castle] (4) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (4) SetState EMPTY
+20:12:22 [Blood Castle] (5) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (5) SetState EMPTY
+20:12:22 [Blood Castle] (6) Sync Start Time. [107] min remain
+20:12:22 [Blood Castle] (6) SetState EMPTY
+20:12:22 [Devil Square] (1) Sync Start Time. [137] min remain
+20:12:22 [Devil Square] (1) SetState EMPTY
+20:12:22 [Devil Square] (2) Sync Start Time. [137] min remain
+20:12:22 [Devil Square] (2) SetState EMPTY
+20:12:22 [Devil Square] (3) Sync Start Time. [137] min remain
+20:12:22 [Devil Square] (3) SetState EMPTY
+20:12:22 [Devil Square] (4) Sync Start Time. [137] min remain
+20:12:22 [Devil Square] (4) SetState EMPTY
+20:12:22 [Bingo] SetState BLANK
+20:12:22 [Bingo] SetState EMPTY
+20:12:22 [JoinServerConnection] Connected
+20:12:22 [DataServerConnection] Connected
+20:12:45 [DEBUG_RESET_CHECK] Nhan vat: Level=301, Reset=1. Yeu cau: ReqLevel=0
+20:12:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: -1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+20:12:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 461, Level: -1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+20:12:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+20:23:00 [JoinServerConnection] Disconnected
+20:23:02 [DataServerConnection] Disconnected
+20:41:37 [ServerInfo] ChaosMix loaded successfully
+20:41:37 [ServerInfo] Character loaded successfully
+20:41:37 [ServerInfo] Command loaded successfully
+20:41:37 [ServerInfo] Common loaded successfully
+20:41:37 [ServerInfo] Custom loaded successfully
+20:41:37 [ServerInfo] Event loaded successfully
+20:41:37 [ServerInfo] EventItemBag loaded successfully
+20:41:37 [ServerInfo] Hack loaded successfully
+20:41:37 [ServerInfo] Item loaded successfully
+20:41:37 [ServerInfo] Monster loaded successfully
+20:41:37 [ServerInfo] Move loaded successfully
+20:41:37 [ServerInfo] Quest loaded successfully
+20:41:37 [ServerInfo] Shop loaded successfully
+20:41:37 [ServerInfo] Skill loaded successfully
+20:41:37 [ServerInfo] Util loaded successfully
+20:41:37 [ResetSystem] Bat dau nap file config reset...
+20:41:37 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+20:41:37 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:41:37 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+20:41:37 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+20:41:37 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:41:37 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+20:41:37 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+20:41:37 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:41:37 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+20:41:37 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+20:41:37 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+20:41:37 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+20:41:37 [ResetSystem] Da nap xong toan bo file config reset.
+20:41:38 [Blood Castle] (1) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (1) SetState EMPTY
+20:41:38 [Blood Castle] (2) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (2) SetState EMPTY
+20:41:38 [Blood Castle] (3) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (3) SetState EMPTY
+20:41:38 [Blood Castle] (4) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (4) SetState EMPTY
+20:41:38 [Blood Castle] (5) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (5) SetState EMPTY
+20:41:38 [Blood Castle] (6) Sync Start Time. [78] min remain
+20:41:38 [Blood Castle] (6) SetState EMPTY
+20:41:38 [Devil Square] (1) Sync Start Time. [108] min remain
+20:41:38 [Devil Square] (1) SetState EMPTY
+20:41:38 [Devil Square] (2) Sync Start Time. [108] min remain
+20:41:38 [Devil Square] (2) SetState EMPTY
+20:41:38 [Devil Square] (3) Sync Start Time. [108] min remain
+20:41:38 [Devil Square] (3) SetState EMPTY
+20:41:38 [Devil Square] (4) Sync Start Time. [108] min remain
+20:41:38 [Devil Square] (4) SetState EMPTY
+20:41:38 [Bingo] SetState BLANK
+20:41:38 [Bingo] SetState EMPTY
+20:41:38 [JoinServerConnection] Connected
+20:41:38 [DataServerConnection] Connected
+21:09:59 [JoinServerConnection] Disconnected
+21:10:01 [DataServerConnection] Disconnected
+21:11:13 [ServerInfo] ChaosMix loaded successfully
+21:11:13 [ServerInfo] Character loaded successfully
+21:11:13 [ServerInfo] Command loaded successfully
+21:11:13 [ServerInfo] Common loaded successfully
+21:11:13 [ServerInfo] Custom loaded successfully
+21:11:13 [ServerInfo] Event loaded successfully
+21:11:13 [ServerInfo] EventItemBag loaded successfully
+21:11:13 [ServerInfo] Hack loaded successfully
+21:11:13 [ServerInfo] Item loaded successfully
+21:11:13 [ServerInfo] Monster loaded successfully
+21:11:13 [ServerInfo] Move loaded successfully
+21:11:13 [ServerInfo] Quest loaded successfully
+21:11:13 [ServerInfo] Shop loaded successfully
+21:11:13 [ServerInfo] Skill loaded successfully
+21:11:13 [ServerInfo] Util loaded successfully
+21:11:13 [ResetSystem] Bat dau nap file config reset...
+21:11:13 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+21:11:13 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:11:13 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL0.
+21:11:13 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+21:11:13 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:11:13 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL1.
+21:11:13 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+21:11:13 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:11:13 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL2.
+21:11:13 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+21:11:13 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:11:13 [ResetSystem] -> !!! LOI !!! Gap su co khi doc noi dung file cho AL3.
+21:11:13 [ResetSystem] Da nap xong toan bo file config reset.
+21:11:13 [Blood Castle] (1) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (1) SetState EMPTY
+21:11:13 [Blood Castle] (2) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (2) SetState EMPTY
+21:11:13 [Blood Castle] (3) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (3) SetState EMPTY
+21:11:13 [Blood Castle] (4) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (4) SetState EMPTY
+21:11:13 [Blood Castle] (5) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (5) SetState EMPTY
+21:11:13 [Blood Castle] (6) Sync Start Time. [48] min remain
+21:11:13 [Blood Castle] (6) SetState EMPTY
+21:11:13 [Devil Square] (1) Sync Start Time. [78] min remain
+21:11:13 [Devil Square] (1) SetState EMPTY
+21:11:13 [Devil Square] (2) Sync Start Time. [78] min remain
+21:11:13 [Devil Square] (2) SetState EMPTY
+21:11:13 [Devil Square] (3) Sync Start Time. [78] min remain
+21:11:13 [Devil Square] (3) SetState EMPTY
+21:11:13 [Devil Square] (4) Sync Start Time. [78] min remain
+21:11:13 [Devil Square] (4) SetState EMPTY
+21:11:13 [Bingo] SetState BLANK
+21:11:13 [Bingo] SetState EMPTY
+21:11:13 [JoinServerConnection] Connected
+21:11:13 [DataServerConnection] Connected
+21:13:34 [ServerInfo] ChaosMix loaded successfully
+21:13:34 [ServerInfo] Character loaded successfully
+21:13:34 [ServerInfo] Command loaded successfully
+21:13:34 [ServerInfo] Common loaded successfully
+21:13:34 [ServerInfo] Custom loaded successfully
+21:13:34 [ServerInfo] Event loaded successfully
+21:13:34 [ServerInfo] EventItemBag loaded successfully
+21:13:34 [ServerInfo] Hack loaded successfully
+21:13:34 [ServerInfo] Item loaded successfully
+21:13:34 [ServerInfo] Monster loaded successfully
+21:13:34 [ServerInfo] Move loaded successfully
+21:13:34 [ServerInfo] Quest loaded successfully
+21:13:34 [ServerInfo] Shop loaded successfully
+21:13:34 [ServerInfo] Skill loaded successfully
+21:13:34 [ServerInfo] Util loaded successfully
+21:18:28 [JoinServerConnection] Disconnected
+21:18:30 [DataServerConnection] Disconnected
+21:20:32 [ServerInfo] ChaosMix loaded successfully
+21:20:32 [ServerInfo] Character loaded successfully
+21:20:32 [ServerInfo] Command loaded successfully
+21:20:32 [ServerInfo] Common loaded successfully
+21:20:32 [ServerInfo] Custom loaded successfully
+21:20:32 [ServerInfo] Event loaded successfully
+21:20:32 [ServerInfo] EventItemBag loaded successfully
+21:20:32 [ServerInfo] Hack loaded successfully
+21:20:32 [ServerInfo] Item loaded successfully
+21:20:32 [ServerInfo] Monster loaded successfully
+21:20:32 [ServerInfo] Move loaded successfully
+21:20:32 [ServerInfo] Quest loaded successfully
+21:20:32 [ServerInfo] Shop loaded successfully
+21:20:32 [ServerInfo] Skill loaded successfully
+21:20:32 [ServerInfo] Util loaded successfully
+21:20:32 [ResetSystem] Bat dau nap file config reset...
+21:20:32 [ResetSystem] Dang thu mo file cho AL0 tai: ..\Data\Reset.txt
+21:20:32 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:20:32 [ResetSystem] -> LOI TAI DONG 5, COT 8 (ReqChaos)
+21:20:32 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 4 dong.
+21:20:32 [ResetSystem] Dang thu mo file cho AL1 tai: ..\Data\Reset_AL1.txt
+21:20:32 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:20:32 [ResetSystem] -> LOI TAI DONG 5, COT 8 (ReqChaos)
+21:20:32 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 4 dong.
+21:20:32 [ResetSystem] Dang thu mo file cho AL2 tai: ..\Data\Reset_AL2.txt
+21:20:32 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:20:32 [ResetSystem] -> LOI TAI DONG 5, COT 8 (ReqChaos)
+21:20:32 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 4 dong.
+21:20:32 [ResetSystem] Dang thu mo file cho AL3 tai: ..\Data\Reset_AL3.txt
+21:20:32 [ResetSystem] -> Mo file thanh cong, dang doc du lieu...
+21:20:32 [ResetSystem] -> LOI TAI DONG 5, COT 8 (ReqChaos)
+21:20:32 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 4 dong.
+21:20:32 [ResetSystem] Da nap xong toan bo file config reset.
+21:20:33 [Blood Castle] (1) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (1) SetState EMPTY
+21:20:33 [Blood Castle] (2) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (2) SetState EMPTY
+21:20:33 [Blood Castle] (3) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (3) SetState EMPTY
+21:20:33 [Blood Castle] (4) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (4) SetState EMPTY
+21:20:33 [Blood Castle] (5) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (5) SetState EMPTY
+21:20:33 [Blood Castle] (6) Sync Start Time. [39] min remain
+21:20:33 [Blood Castle] (6) SetState EMPTY
+21:20:33 [Devil Square] (1) Sync Start Time. [69] min remain
+21:20:33 [Devil Square] (1) SetState EMPTY
+21:20:33 [Devil Square] (2) Sync Start Time. [69] min remain
+21:20:33 [Devil Square] (2) SetState EMPTY
+21:20:33 [Devil Square] (3) Sync Start Time. [69] min remain
+21:20:33 [Devil Square] (3) SetState EMPTY
+21:20:33 [Devil Square] (4) Sync Start Time. [69] min remain
+21:20:33 [Devil Square] (4) SetState EMPTY
+21:20:33 [Bingo] SetState BLANK
+21:20:33 [Bingo] SetState EMPTY
+21:20:33 [JoinServerConnection] Connected
+21:20:33 [DataServerConnection] Connected
+21:25:29 [JoinServerConnection] Disconnected
+21:25:31 [DataServerConnection] Disconnected
+21:27:25 [ServerInfo] ChaosMix loaded successfully
+21:27:25 [ServerInfo] Character loaded successfully
+21:27:25 [ServerInfo] Command loaded successfully
+21:27:25 [ServerInfo] Common loaded successfully
+21:27:25 [ServerInfo] Custom loaded successfully
+21:27:25 [ServerInfo] Event loaded successfully
+21:27:25 [ServerInfo] EventItemBag loaded successfully
+21:27:25 [ServerInfo] Hack loaded successfully
+21:27:25 [ServerInfo] Item loaded successfully
+21:27:25 [ServerInfo] Monster loaded successfully
+21:27:25 [ServerInfo] Move loaded successfully
+21:27:25 [ServerInfo] Quest loaded successfully
+21:27:26 [ServerInfo] Shop loaded successfully
+21:27:26 [ServerInfo] Skill loaded successfully
+21:27:26 [ServerInfo] Util loaded successfully
+21:27:26 [ResetSystem] Bat dau nap file config reset...
+21:27:26 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+21:27:26 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+21:27:26 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+21:27:26 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+21:27:26 [ResetSystem] Da nap xong toan bo file config reset.
+21:27:26 [Blood Castle] (1) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (1) SetState EMPTY
+21:27:26 [Blood Castle] (2) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (2) SetState EMPTY
+21:27:26 [Blood Castle] (3) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (3) SetState EMPTY
+21:27:26 [Blood Castle] (4) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (4) SetState EMPTY
+21:27:26 [Blood Castle] (5) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (5) SetState EMPTY
+21:27:26 [Blood Castle] (6) Sync Start Time. [32] min remain
+21:27:26 [Blood Castle] (6) SetState EMPTY
+21:27:26 [Devil Square] (1) Sync Start Time. [62] min remain
+21:27:26 [Devil Square] (1) SetState EMPTY
+21:27:26 [Devil Square] (2) Sync Start Time. [62] min remain
+21:27:26 [Devil Square] (2) SetState EMPTY
+21:27:26 [Devil Square] (3) Sync Start Time. [62] min remain
+21:27:26 [Devil Square] (3) SetState EMPTY
+21:27:26 [Devil Square] (4) Sync Start Time. [62] min remain
+21:27:26 [Devil Square] (4) SetState EMPTY
+21:27:26 [Bingo] SetState BLANK
+21:27:26 [Bingo] SetState EMPTY
+21:27:26 [JoinServerConnection] Connected
+21:27:26 [DataServerConnection] Connected
+21:27:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 399, Level: -1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:27:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 461, Level: -1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:27:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 462, Level: -1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:27:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 24
+21:27:45 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 430, Level: -1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:27:45 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:43:35 [ServerInfo] ChaosMix loaded successfully
+21:43:35 [ServerInfo] Character loaded successfully
+21:43:35 [ServerInfo] Command loaded successfully
+21:43:35 [ServerInfo] Common loaded successfully
+21:43:35 [ServerInfo] Custom loaded successfully
+21:43:35 [ServerInfo] Event loaded successfully
+21:43:35 [ServerInfo] EventItemBag loaded successfully
+21:43:35 [ServerInfo] Hack loaded successfully
+21:43:35 [ServerInfo] Item loaded successfully
+21:43:36 [ServerInfo] Monster loaded successfully
+21:43:36 [ServerInfo] Move loaded successfully
+21:43:36 [ServerInfo] Quest loaded successfully
+21:43:36 [ServerInfo] Shop loaded successfully
+21:43:36 [ServerInfo] Skill loaded successfully
+21:43:36 [ServerInfo] Util loaded successfully
+21:43:36 [ResetSystem] Bat dau nap file config reset...
+21:43:36 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+21:43:36 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+21:43:36 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+21:43:36 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+21:43:36 [ResetSystem] Da nap xong toan bo file config reset.
+21:43:36 [Blood Castle] (1) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (1) SetState EMPTY
+21:43:36 [Blood Castle] (2) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (2) SetState EMPTY
+21:43:36 [Blood Castle] (3) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (3) SetState EMPTY
+21:43:36 [Blood Castle] (4) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (4) SetState EMPTY
+21:43:36 [Blood Castle] (5) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (5) SetState EMPTY
+21:43:36 [Blood Castle] (6) Sync Start Time. [16] min remain
+21:43:36 [Blood Castle] (6) SetState EMPTY
+21:43:36 [Devil Square] (1) Sync Start Time. [46] min remain
+21:43:36 [Devil Square] (1) SetState EMPTY
+21:43:36 [Devil Square] (2) Sync Start Time. [46] min remain
+21:43:36 [Devil Square] (2) SetState EMPTY
+21:43:36 [Devil Square] (3) Sync Start Time. [46] min remain
+21:43:36 [Devil Square] (3) SetState EMPTY
+21:43:36 [Devil Square] (4) Sync Start Time. [46] min remain
+21:43:36 [Devil Square] (4) SetState EMPTY
+21:43:36 [Bingo] SetState BLANK
+21:43:36 [Bingo] SetState EMPTY
+21:43:36 [JoinServerConnection] Connected
+21:43:36 [DataServerConnection] Connected
+21:43:55 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:43:55 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:43:55 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:43:55 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7190, Level: -1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:43:55 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:54:29 [JoinServerConnection] Disconnected
+21:54:31 [DataServerConnection] Disconnected
+21:56:44 [ServerInfo] ChaosMix loaded successfully
+21:56:44 [ServerInfo] Character loaded successfully
+21:56:44 [ServerInfo] Command loaded successfully
+21:56:44 [ServerInfo] Common loaded successfully
+21:56:44 [ServerInfo] Custom loaded successfully
+21:56:44 [ServerInfo] Event loaded successfully
+21:56:44 [ServerInfo] EventItemBag loaded successfully
+21:56:44 [ServerInfo] Hack loaded successfully
+21:56:44 [ServerInfo] Item loaded successfully
+21:56:44 [ServerInfo] Monster loaded successfully
+21:56:44 [ServerInfo] Move loaded successfully
+21:56:44 [ServerInfo] Quest loaded successfully
+21:56:44 [ServerInfo] Shop loaded successfully
+21:56:44 [ServerInfo] Skill loaded successfully
+21:56:44 [ServerInfo] Util loaded successfully
+21:56:44 [ResetSystem] Bat dau nap file config reset...
+21:56:44 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+21:56:44 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+21:56:44 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+21:56:44 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+21:56:44 [ResetSystem] Da nap xong toan bo file config reset.
+21:56:45 [Blood Castle] (1) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (1) SetState EMPTY
+21:56:45 [Blood Castle] (2) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (2) SetState EMPTY
+21:56:45 [Blood Castle] (3) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (3) SetState EMPTY
+21:56:45 [Blood Castle] (4) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (4) SetState EMPTY
+21:56:45 [Blood Castle] (5) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (5) SetState EMPTY
+21:56:45 [Blood Castle] (6) Sync Start Time. [3] min remain
+21:56:45 [Blood Castle] (6) SetState EMPTY
+21:56:45 [Devil Square] (1) Sync Start Time. [33] min remain
+21:56:45 [Devil Square] (1) SetState EMPTY
+21:56:45 [Devil Square] (2) Sync Start Time. [33] min remain
+21:56:45 [Devil Square] (2) SetState EMPTY
+21:56:45 [Devil Square] (3) Sync Start Time. [33] min remain
+21:56:45 [Devil Square] (3) SetState EMPTY
+21:56:45 [Devil Square] (4) Sync Start Time. [33] min remain
+21:56:45 [Devil Square] (4) SetState EMPTY
+21:56:45 [Bingo] SetState BLANK
+21:56:45 [Bingo] SetState EMPTY
+21:56:45 [JoinServerConnection] Connected
+21:56:45 [DataServerConnection] Connected
+21:57:04 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:57:04 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:57:04 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+21:57:04 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 24
+21:57:04 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 32, Level: 0, Dur: 18
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+21:57:04 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+22:16:38 [ServerInfo] ChaosMix loaded successfully
+22:16:38 [ServerInfo] Character loaded successfully
+22:16:38 [ServerInfo] Command loaded successfully
+22:16:38 [ServerInfo] Common loaded successfully
+22:16:38 [ServerInfo] Custom loaded successfully
+22:16:38 [ServerInfo] Event loaded successfully
+22:16:38 [ServerInfo] EventItemBag loaded successfully
+22:16:38 [ServerInfo] Hack loaded successfully
+22:16:38 [ServerInfo] Item loaded successfully
+22:16:38 [ServerInfo] Monster loaded successfully
+22:16:38 [ServerInfo] Move loaded successfully
+22:16:38 [ServerInfo] Quest loaded successfully
+22:16:38 [ServerInfo] Shop loaded successfully
+22:16:38 [ServerInfo] Skill loaded successfully
+22:16:38 [ServerInfo] Util loaded successfully
+22:16:38 [ResetSystem] Bat dau nap file config reset...
+22:16:38 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+22:16:38 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+22:16:38 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+22:16:38 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+22:16:38 [ResetSystem] Da nap xong toan bo file config reset.
+22:16:38 [Blood Castle] (1) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (1) SetState EMPTY
+22:16:38 [Blood Castle] (2) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (2) SetState EMPTY
+22:16:38 [Blood Castle] (3) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (3) SetState EMPTY
+22:16:38 [Blood Castle] (4) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (4) SetState EMPTY
+22:16:38 [Blood Castle] (5) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (5) SetState EMPTY
+22:16:38 [Blood Castle] (6) Sync Start Time. [523] min remain
+22:16:38 [Blood Castle] (6) SetState EMPTY
+22:16:38 [Devil Square] (1) Sync Start Time. [13] min remain
+22:16:38 [Devil Square] (1) SetState EMPTY
+22:16:38 [Devil Square] (2) Sync Start Time. [13] min remain
+22:16:38 [Devil Square] (2) SetState EMPTY
+22:16:38 [Devil Square] (3) Sync Start Time. [13] min remain
+22:16:38 [Devil Square] (3) SetState EMPTY
+22:16:38 [Devil Square] (4) Sync Start Time. [13] min remain
+22:16:38 [Devil Square] (4) SetState EMPTY
+22:16:38 [Bingo] SetState BLANK
+22:16:38 [Bingo] SetState EMPTY
+22:16:38 [JoinServerConnection] Connected
+22:16:38 [DataServerConnection] Connected
+22:17:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6159, Level: -1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+22:17:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7181, Level: -1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+22:17:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 7182, Level: -1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0
+22:17:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 470, Level: -1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 24
+22:17:28 [DEBUG_ITEM_COUNT] Bat dau dem item cho [testDW]. Tim ID: 6670, Level: -1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 13, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 15, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 16, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 17, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 18, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 19, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 20, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 21, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 22, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 23, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 24, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 25, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 26, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 27, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 28, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 29, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 30, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 31, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 32, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 33, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 34, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] >> Slot 35, co item ID: 470, Level: 0, Dur: 1
+22:17:28 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 0

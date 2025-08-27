@@ -4,12 +4,12 @@
 
 0
 //EventName		DropZen	ItemDropRate	ItemDropCount	ItemDropType	Fireworks	
-"EventName"		1000	100		1		1		0
+//"EventName"		0	100		1		0		1
 end
 
 1
 //Item	MinLvl	MaxLvl	Skill	Luck	Opt	Exce	Comment
-//00,000	0	0	0	0	0	0	//Comment
+//14,013	0	0	0	0	0	0	//Bless
 end
 
 //======================================
@@ -17,19 +17,86 @@ end
 //======================================
 
 2
-//Index	DropRate
+//Index	DropRate 
 0	10000
 end
 
 3
 //Index	Section	SectionRate	MoneyAmount	OptionValue	DW	DK	FE	MG
-//0	4	10000		0		0		1	1	1	1
+0	4	10000		0		0		1	1	1	1
 end
 
 // ItemGrade works when ExcellentRate = 0
 // LevelRate, SkillRate, LuckRate, OptionRate and ExcellentRate
 // Uses ItemOptionRate Indexes
 4
-//ItemIndex	ItemLevel	ItemGrade	LevelRate	SkillRate	LuckRate	OptionRate	ExcellentRate	Comment
-//00,000		0		0		*		*		*		*		*		//
+//ItemIndex	ItemLevel		ItemGrade	LevelRate		SkillRate		LuckRate		OptionRate	ExcellentRate	Comment
+00,004		*		*		1		1		1		1		1		//Legendary Sword
+00,005		*		*		1		1		1		1		1		//Legendary Sword
+00,006		*		*		1		1		1		1		1		//Legendary Sword
+00,007		*		*		1		1		1		1		1		//Legendary Sword
+00,008		*		*		1		1		1		1		1		//Legendary Sword
+00,009		*		*		1		1		1		1		1		//Legendary Sword
+00,010		*		*		1		1		1		1		1		//Legendary Sword
+00,011		*		*		1		1		1		1		1		//Legendary Sword
+01,004		*		*		1		1		1		1		1		//Crescent Axe
+01,005		*		*		1		1		1		1		1		//Crescent Axe
+01,006		*		*		1		1		1		1		1		//Crescent Axe
+01,007		*		*		1		1		1		1		1		//Crescent Axe
+01,008		*		*		1		1		1		1		1		//Crescent Axe
+02,003		*		*		1		1		1		1		1		//Great Hammer
+02,004		*		*		1		1		1		1		1		//Crystal Morning Star
+02,005		*		*		1		1		1		1		1		//Crystal Sword
+02,007		*		*		1		1		1		1		1		//Elemental Mace
+02,008		*		*		1		1		1		1		1		//Mace of the King
+03,004		*		*		1		1		1		1		1		//Bill of Balrog
+03,005		*		*		1		1		1		1		1		//Bill of Balrog
+03,006		*		*		1		1		1		1		1		//Bill of Balrog
+03,007		*		*		1		1		1		1		1		//Bill of Balrog
+03,008		*		*		1		1		1		1		1		//Bill of Balrog
+03,009		*		*		1		1		1		1		1		//Bill of Balrog
+04,004		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,005		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,008		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,009		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,010		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,011		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,012		*		*		1		1		1		1		1		//Bluewing Crossbow
+04,013		*		*		1		1		1		1		1		//Bluewing Crossbow
+05,003		*		*		1		1		1		1		1		//Thunder Staff
+05,004		*		*		1		1		1		1		1		//Gorgon Staff
+05,005		*		*		1		1		1		1		1		//Legendary Staff
+06,005		*		*		1		1		1		1		1		//Serpent Shield
+06,006		*		*		1		1		1		1		1		//Serpent Shield
+06,007		*		*		1		1		1		1		1		//Serpent Shield
+06,008		*		*		1		1		1		1		1		//Serpent Shield
+06,009		*		*		1		1		1		1		1		//Serpent Shield
+06,010		*		*		1		1		1		1		1		//Serpent Shield
+06,011		*		*		1		1		1		1		1		//Serpent Shield
+07,004		*		*		1		1		1		1		1		//Bone Helm
+08,004		*		*		1		1		1		1		1		//Bone Armor
+09,004		*		*		1		1		1		1		1		//Bone Pants
+10,004		*		*		1		1		1		1		1		//Bone Gloves
+11,004		*		*		1		1		1		1		1		//Bone Boots
+07,006		*		*		1		1		1		1		1		//Scale Helm
+08,006		*		*		1		1		1		1		1		//Scale Armor
+09,006		*		*		1		1		1		1		1		//Scale Pants
+10,006		*		*		1		1		1		1		1		//Scale Gloves
+11,006		*		*		1		1		1		1		1		//Scale Boots
+07,007		*		*		1		1		1		1		1		//Sphinx Helm
+08,007		*		*		1		1		1		1		1		//Sphinx Armor
+09,007		*		*		1		1		1		1		1		//Sphinx Pants
+10,007		*		*		1		1		1		1		1		//Sphinx Gloves
+11,007		*		*		1		1		1		1		1		//Sphinx Boots
+07,008		*		*		1		1		1		1		1		//Brass Helm
+08,008		*		*		1		1		1		1		1		//Brass Armor
+09,008		*		*		1		1		1		1		1		//Brass Pants
+10,008		*		*		1		1		1		1		1		//Brass Gloves
+11,008		*		*		1		1		1		1		1		//Brass Boots
+07,012		*		*		1		1		1		1		1		//Wind Helm
+08,012		*		*		1		1		1		1		1		//Wind Armor
+09,012		*		*		1		1		1		1		1		//Wind Pants
+10,012		*		*		1		1		1		1		1		//Wind Gloves
+11,012		*		*		1		1		1		1		1		//Wind Boots
+
 end

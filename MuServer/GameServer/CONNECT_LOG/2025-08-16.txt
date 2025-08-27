@@ -1,0 +1,30 @@
+13:43:49 [SocketManager] Server started at port [55901]
+13:44:13 [ObjectManager][9000] AddClient (192.168.2.65)
+13:44:19 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:44:23 [ObjectManager][9000] AddCharacterInfo (testDW)
+13:46:12 [ObjectManager][9000] DelCharacterInfo (testDW)
+13:46:12 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:46:12 [ObjectManager][9000] DelClient (192.168.2.65)
+13:46:19 [ObjectManager][9001] AddClient (192.168.2.65)
+13:46:25 [ObjectManager][9001] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+13:46:28 [ObjectManager][9001] AddCharacterInfo (testDW)
+15:13:35 [SocketManager] Server started at port [55901]
+15:14:57 [SocketManager] Server started at port [55901]
+15:15:08 [ObjectManager][9000] AddClient (192.168.2.65)
+15:15:12 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:15:15 [ObjectManager][9000] AddCharacterInfo (testDW)
+19:06:05 [SocketManager] Server started at port [55901]
+19:06:17 [ObjectManager][9000] AddClient (192.168.2.65)
+19:06:22 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:06:24 [ObjectManager][9000] AddCharacterInfo (testDW)
+19:11:00 [SocketManager] Server started at port [55901]
+19:11:08 [ObjectManager][9000] AddClient (192.168.2.65)
+19:11:12 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:11:16 [ObjectManager][9000] AddCharacterInfo (testDW)
+19:12:13 [ObjectManager][9000] DelCharacterInfo (testDW)
+19:12:13 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:12:13 [ObjectManager][9000] DelClient (192.168.2.65)
+19:57:05 [SocketManager] Server started at port [55901]
+19:57:14 [ObjectManager][9000] AddClient (192.168.2.65)
+19:57:19 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+19:57:21 [ObjectManager][9000] AddCharacterInfo (testDW)

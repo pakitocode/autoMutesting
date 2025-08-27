@@ -11,6 +11,8 @@ struct MAP_MANAGER_INFO
 	int DeadGate;
 	int RespawnInPlace;
 	int FlyingDragons;
+	int CustomAttack;
+	int CustomPick;
 	char MapName[32];
 };
 
@@ -43,6 +45,9 @@ public:
 	int GetMapFlyingDragons(int index);
 
 	char* GetMapName(int index);
+	int GetMapCustomAttack(int map);
+	int GetMapCustomPick(int map);
+	
 
 public:
 

@@ -1,0 +1,14 @@
+15:14:24 [SocketManager] Server started at port [55901]
+15:19:55 [SocketManager] Server started at port [55901]
+15:20:30 [ObjectManager][9000] AddClient (192.168.2.65)
+15:20:36 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:20:41 [ObjectManager][9000] AddCharacterInfo (testDW)
+15:22:04 [ObjectManager][9000] DelCharacterInfo (testDW)
+15:22:04 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:22:04 [ObjectManager][9000] DelClient (192.168.2.65)
+15:22:09 [ObjectManager][9001] AddClient (192.168.2.65)
+15:22:14 [ObjectManager][9001] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:22:17 [ObjectManager][9001] AddCharacterInfo (testDW)
+15:23:07 [ObjectManager][9001] DelCharacterInfo (testDW)
+15:23:07 [ObjectManager][9001] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:23:07 [ObjectManager][9001] DelClient (192.168.2.65)

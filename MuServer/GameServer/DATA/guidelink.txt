@@ -1,0 +1,5 @@
+//Index	MinReset		MaxReset		ReqLevel		ReqMoney	KeepStats	Add	Points	BonusCmd
+0	0		10		400		50000000	1		300		50
+1	11		20		400		60000000	1		280		50
+2	21		9999		400		70000000	1		250		50
+end

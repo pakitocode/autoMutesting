@@ -1,0 +1,13 @@
+14:04:06 Could not connect to database
+14:10:12 Could not connect to database
+14:12:19 Could not connect to database
+14:15:36 Could not connect to database
+14:53:19 [SocketManager] Server started at port [55990]
+14:54:20 [ServerManager][0] AddServer (127.0.0.1)
+14:54:20 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+15:00:39 [SocketManager] Server started at port [55990]
+15:00:55 [ServerManager][0] AddServer (127.0.0.1)
+15:00:55 [ServerManager][0] ServerInfo (SV1) (55901) (0)
+17:02:49 [SocketManager] Server started at port [55990]
+17:03:11 [ServerManager][0] AddServer (127.0.0.1)
+17:03:11 [ServerManager][0] ServerInfo (SV1) (55901) (0)

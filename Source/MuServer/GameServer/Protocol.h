@@ -30,6 +30,7 @@ struct PMSG_CHAT_WHISPER_RECV
 	char name[10];
 	char message[60];
 };
+void CGAutoPlayToggleRecv(int aIndex);
 
 struct PMSG_MAIN_CHECK_RECV
 {

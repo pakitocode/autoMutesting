@@ -1,0 +1,2 @@
+17:50:01 [ChaosItemMix][Success][pakito][pakito] - (ChaosSuccessRate: 72, ChaosMoney: 720000)
+18:00:59 [Wing1Mix][Success][pakito][pakito] - (ChaosSuccessRate: 69, ChaosMoney: 690000)

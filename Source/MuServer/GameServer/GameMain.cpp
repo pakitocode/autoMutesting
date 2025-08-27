@@ -11,6 +11,10 @@
 #include "SocketManagerUdp.h"
 #include "User.h"
 #include "Util.h"
+#include "ResetSystem.h"
+#include "CustomAttack.h"
+#include "CustomPick.h"
+
 
 CConnection gJoinServerConnection;
 
@@ -36,6 +40,8 @@ void GameMainInit(HWND hwnd)
 	gGameServerDisconnect = 0;
 
 	gServerInfo.ReadInit();
+	gResetSystem.Load("DATA\\Reset.txt");
+	gCustomPick.Load("..\\Data\\Custom\\CustomPick.txt"); // Ra lệnh cho server đọc file nhặt đồ
 
 	gMonsterManager.SetMonsterData();
 
@@ -137,6 +143,15 @@ void CALLBACK QueueTimerCallback(PVOID lpParameter, BOOLEAN TimerOrWaitFired)
 		case QUEUE_TIMER_MONSTER_MOVE:
 		{
 			gObjectManager.ObjectMoveProc();
+			// >> THÊM KHỐI CODE NÀY VÀO <<
+            // Vòng lặp này sẽ gọi hàm auto attack cho tất cả người chơi đang bật auto
+            for (int n = OBJECT_START_USER; n < MAX_OBJECT; n++)
+            {
+                if (gObjIsConnectedGP(n))
+                {
+                    gCustomAttack.OnAttackMonsterAndMsgProc(&gObj[n]);
+                }
+            }
 
 			break;
 		}
@@ -158,6 +173,7 @@ void CALLBACK QueueTimerCallback(PVOID lpParameter, BOOLEAN TimerOrWaitFired)
 		case QUEUE_TIMER_FIRST:
 		{
 			gObjFirstProc();
+			gObjPickProc();
 
 			break;
 		}

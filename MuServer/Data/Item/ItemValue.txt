@@ -10,7 +10,7 @@
 12,015		*		810000		*		// Jewel of Chaos
 13,003		*		960000		*		// Horn of Dinorant
 13,014		0		180000		*		// Loch's Feather
-13,015		*		33000000	*		// Fruits
+13,015		*		23000000	*		// Fruits
 13,016		1		15000		*		// Scroll of Archangel 1
 13,016		2		21000		*		// Scroll of Archangel 2
 13,016		3		30000		*		// Scroll of Archangel 3
@@ -32,7 +32,7 @@
 14,009		1		1000		*		// Ale
 14,013		*		9000000		*		// Jewel of Bless
 14,014		*		6000000		*		// Jewel of Soul
-14,016		*		45000000	*		// Jewel of Life
+14,016		*		5000000		*		// Jewel of Life
 14,017		1		15000		*		// Devil's Eye 1
 14,017		2		21000		*		// Devil's Eye 2
 14,017		3		30000		*		// Devil's Eye 3
@@ -47,7 +47,7 @@
 14,019		4		180000		*		// Devil's Invitation 4
 14,020		*		900		*		// Remedy of Love
 14,021		0		9000		*		// Rena
-14,022		*		36000000	*		// Jewel of Creation
+14,022		*		20000000	*		// Jewel of Creation
 14,023		*		9000		*		// Scroll of the Emperor
 14,024		*		9000		*		// Broken Sword
 14,025		*		9000		*		// Tear of Elf

@@ -3,6 +3,7 @@
 #include "ReadScript.h"
 #include "ServerInfo.h"
 #include "Util.h"
+#include "Map.h"
 
 CMapManager gMapManager;
 
@@ -72,6 +73,9 @@ void CMapManager::Load(char* path)
 			info.RespawnInPlace = lpReadScript->GetAsNumber();
 
 			info.FlyingDragons = lpReadScript->GetAsNumber();
+			// Thêm 2 dòng này để đọc thêm 2 cột mới
+			info.CustomAttack = lpReadScript->GetAsNumber(); // Sửa lpMemScript -> lpReadScript
+			info.CustomPick = lpReadScript->GetAsNumber(); // Sửa lpMemScript -> lpReadScript
 
 			strcpy_s(info.MapName, lpReadScript->GetAsString());
 
@@ -224,4 +228,28 @@ char* CMapManager::GetMapName(int index)
 	{
 		return it->second.MapName;
 	}
+}
+
+int CMapManager::GetMapCustomAttack(int map)
+{
+    // Kiểm tra xem map có hợp lệ không
+    if (map < 0 || map >= MAX_MAP)
+    {
+        return 0; // Nếu map không hợp lệ, mặc định là không cho phép
+    }
+
+    // Trả về giá trị đã đọc từ file .txt (1 là cho phép, 0 là không)
+    return this->m_MapManagerInfo[map].CustomAttack;
+}
+
+int CMapManager::GetMapCustomPick(int map)
+{
+    // Kiểm tra xem map có hợp lệ không
+    if (map < 0 || map >= MAX_MAP)
+    {
+        return 0; // Nếu map không hợp lệ, mặc định là không cho phép
+    }
+
+    // Trả về giá trị đã đọc từ file .txt (1 là cho phép, 0 là không)
+    return this->m_MapManagerInfo[map].CustomPick;
 }

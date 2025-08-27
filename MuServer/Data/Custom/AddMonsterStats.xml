@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+//===================================================================================
+// Description: Special monster settings
+// ----------------------------------------------------------------------------------
+// Author: FoxWizzy
+// Date: 	19:11 11.09.2017
+//===================================================================================
+// Example: ID = MonsterList.txt (359: Twin Tale)
+// <monster id="359" hp="30.0" damage="50.0" defense="50.2" attackrate="30.6" defenserate="30.0" /> 
+-->
+<monsterstatinfo>
+	<!-- Settings for all monsters class -->
+	<default hp="1.0" damage="1.0" defense="1.0" attackrate="1.0" defenserate="1.0" />
+
+	<!-- Specific monsters settings -->
+	<specific>
+	</specific>
+</monsterstatinfo>

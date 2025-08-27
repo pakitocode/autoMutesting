@@ -1,0 +1,466 @@
+09:09:49 [ServerInfo] ChaosMix loaded successfully
+09:09:49 [ServerInfo] Character loaded successfully
+09:09:49 [ServerInfo] Command loaded successfully
+09:09:49 [ServerInfo] Common loaded successfully
+09:09:49 [ServerInfo] Custom loaded successfully
+09:09:49 [ServerInfo] Event loaded successfully
+09:09:50 [ServerInfo] EventItemBag loaded successfully
+09:09:50 [ServerInfo] Hack loaded successfully
+09:09:50 [ServerInfo] Item loaded successfully
+09:09:50 [ServerInfo] Monster loaded successfully
+09:09:50 [ServerInfo] Move loaded successfully
+09:09:50 [ServerInfo] Quest loaded successfully
+09:09:51 [ServerInfo] Shop loaded successfully
+09:09:51 [ServerInfo] Skill loaded successfully
+09:09:51 [ServerInfo] Util loaded successfully
+09:09:51 [ResetSystem] Bat dau nap file config reset...
+09:09:51 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+09:09:51 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+09:09:51 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+09:09:51 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+09:09:51 [ResetSystem] Da nap xong toan bo file config reset.
+09:09:51 [Blood Castle] (1) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (1) SetState EMPTY
+09:09:51 [Blood Castle] (2) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (2) SetState EMPTY
+09:09:51 [Blood Castle] (3) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (3) SetState EMPTY
+09:09:51 [Blood Castle] (4) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (4) SetState EMPTY
+09:09:51 [Blood Castle] (5) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (5) SetState EMPTY
+09:09:51 [Blood Castle] (6) Sync Start Time. [50] min remain
+09:09:51 [Blood Castle] (6) SetState EMPTY
+09:09:51 [Devil Square] (1) Sync Start Time. [5] min remain
+09:09:51 [Devil Square] (1) SetState EMPTY
+09:09:51 [Devil Square] (2) Sync Start Time. [5] min remain
+09:09:51 [Devil Square] (2) SetState EMPTY
+09:09:51 [Devil Square] (3) Sync Start Time. [5] min remain
+09:09:51 [Devil Square] (3) SetState EMPTY
+09:09:51 [Devil Square] (4) Sync Start Time. [5] min remain
+09:09:51 [Devil Square] (4) SetState EMPTY
+09:09:51 [Bingo] SetState BLANK
+09:09:51 [Bingo] SetState EMPTY
+09:09:51 [JoinServerConnection] Connected
+09:09:51 [DataServerConnection] Connected
+09:11:13 [DEBUG_ITEM_COUNT] Bat dau dem item cho [pakito]. Tim ID: 434, Level: -1
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 31, Level: 11, Dur: 111
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 276, Level: 0, Dur: 82
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 308, Level: 11, Dur: 118
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 321, Level: 0, Dur: 67
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 372, Level: 1, Dur: 83
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 390, Level: 11, Dur: 220
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 8, co item ID: 417, Level: 11, Dur: 78
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 6, Dur: 72
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 434, Level: 6, Dur: 255
+09:11:13 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 467, Level: 4, Dur: 255
+09:11:13 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 1
+09:11:35 [DEBUG_ITEM_COUNT] Bat dau dem item cho [pakito]. Tim ID: 467, Level: -1
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 31, Level: 11, Dur: 111
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 276, Level: 0, Dur: 82
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 308, Level: 11, Dur: 118
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 321, Level: 0, Dur: 67
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 372, Level: 1, Dur: 83
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 390, Level: 11, Dur: 220
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 8, co item ID: 417, Level: 11, Dur: 78
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 6, Dur: 72
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 434, Level: 6, Dur: 255
+09:11:35 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 467, Level: 4, Dur: 255
+09:11:35 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 1
+09:12:18 [ServerInfo] ChaosMix loaded successfully
+09:12:18 [ServerInfo] Character loaded successfully
+09:12:18 [ServerInfo] Command loaded successfully
+09:12:18 [ServerInfo] Common loaded successfully
+09:12:18 [ServerInfo] Custom loaded successfully
+09:12:18 [ServerInfo] Event loaded successfully
+09:12:18 [ServerInfo] EventItemBag loaded successfully
+09:12:18 [ServerInfo] Hack loaded successfully
+09:12:18 [ServerInfo] Item loaded successfully
+09:12:18 [ServerInfo] Monster loaded successfully
+09:12:18 [ServerInfo] Move loaded successfully
+09:12:18 [ServerInfo] Quest loaded successfully
+09:12:18 [ServerInfo] Shop loaded successfully
+09:12:18 [ServerInfo] Skill loaded successfully
+09:12:18 [ServerInfo] Util loaded successfully
+09:12:50 [DEBUG_ITEM_COUNT] Bat dau dem item cho [pakito]. Tim ID: 434, Level: -1
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 31, Level: 11, Dur: 111
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 276, Level: 0, Dur: 82
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 308, Level: 11, Dur: 118
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 321, Level: 0, Dur: 67
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 372, Level: 1, Dur: 83
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 390, Level: 11, Dur: 220
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 8, co item ID: 417, Level: 11, Dur: 78
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 6, Dur: 72
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 434, Level: 6, Dur: 255
+09:12:50 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 467, Level: 4, Dur: 254
+09:12:50 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 1
+09:13:44 [JoinServerConnection] Disconnected
+09:13:46 [DataServerConnection] Disconnected
+09:13:59 [ServerInfo] ChaosMix loaded successfully
+09:13:59 [ServerInfo] Character loaded successfully
+09:13:59 [ServerInfo] Command loaded successfully
+09:13:59 [ServerInfo] Common loaded successfully
+09:13:59 [ServerInfo] Custom loaded successfully
+09:13:59 [ServerInfo] Event loaded successfully
+09:13:59 [ServerInfo] EventItemBag loaded successfully
+09:13:59 [ServerInfo] Hack loaded successfully
+09:13:59 [ServerInfo] Item loaded successfully
+09:13:59 [ServerInfo] Monster loaded successfully
+09:13:59 [ServerInfo] Move loaded successfully
+09:13:59 [ServerInfo] Quest loaded successfully
+09:13:59 [ServerInfo] Shop loaded successfully
+09:13:59 [ServerInfo] Skill loaded successfully
+09:13:59 [ServerInfo] Util loaded successfully
+09:13:59 [ResetSystem] Bat dau nap file config reset...
+09:13:59 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+09:13:59 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+09:13:59 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+09:13:59 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+09:13:59 [ResetSystem] Da nap xong toan bo file config reset.
+09:14:00 [Blood Castle] (1) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (1) SetState EMPTY
+09:14:00 [Blood Castle] (2) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (2) SetState EMPTY
+09:14:00 [Blood Castle] (3) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (3) SetState EMPTY
+09:14:00 [Blood Castle] (4) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (4) SetState EMPTY
+09:14:00 [Blood Castle] (5) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (5) SetState EMPTY
+09:14:00 [Blood Castle] (6) Sync Start Time. [6] min remain
+09:14:00 [Blood Castle] (6) SetState EMPTY
+09:14:00 [Devil Square] (1) Sync Start Time. [1] min remain
+09:14:00 [Devil Square] (1) SetState EMPTY
+09:14:00 [Devil Square] (2) Sync Start Time. [1] min remain
+09:14:00 [Devil Square] (2) SetState EMPTY
+09:14:00 [Devil Square] (3) Sync Start Time. [1] min remain
+09:14:00 [Devil Square] (3) SetState EMPTY
+09:14:00 [Devil Square] (4) Sync Start Time. [1] min remain
+09:14:00 [Devil Square] (4) SetState EMPTY
+09:14:00 [Bingo] SetState BLANK
+09:14:00 [Bingo] SetState EMPTY
+09:14:00 [JoinServerConnection] Connected
+09:14:00 [DataServerConnection] Connected
+09:15:00 [Devil Square] (1) SetState STAND
+09:15:00 [Devil Square] (2) SetState STAND
+09:15:00 [Devil Square] (3) SetState STAND
+09:15:00 [Devil Square] (4) SetState STAND
+09:15:01 [Devil Square] (1) Not enough users
+09:15:01 [Devil Square] (1) Sync Start Time. [74] min remain
+09:15:01 [Devil Square] (1) SetState EMPTY
+09:15:01 [Devil Square] (2) Not enough users
+09:15:01 [Devil Square] (2) Sync Start Time. [74] min remain
+09:15:01 [Devil Square] (2) SetState EMPTY
+09:15:01 [Devil Square] (3) Not enough users
+09:15:01 [Devil Square] (3) Sync Start Time. [74] min remain
+09:15:01 [Devil Square] (3) SetState EMPTY
+09:15:01 [Devil Square] (4) Not enough users
+09:15:01 [Devil Square] (4) Sync Start Time. [74] min remain
+09:15:01 [Devil Square] (4) SetState EMPTY
+09:16:05 [DEBUG_ITEM_COUNT] Bat dau dem item cho [pakito]. Tim ID: 434, Level: -1
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 31, Level: 11, Dur: 111
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 276, Level: 0, Dur: 82
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 308, Level: 11, Dur: 118
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 321, Level: 0, Dur: 67
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 372, Level: 1, Dur: 83
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 390, Level: 11, Dur: 220
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 8, co item ID: 417, Level: 11, Dur: 78
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 6, Dur: 72
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 12, co item ID: 434, Level: 6, Dur: 255
+09:16:05 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 467, Level: 4, Dur: 254
+09:16:05 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 1
+09:19:26 [JoinServerConnection] Disconnected
+09:19:28 [DataServerConnection] Disconnected
+09:20:42 [ServerInfo] ChaosMix loaded successfully
+09:20:42 [ServerInfo] Character loaded successfully
+09:20:42 [ServerInfo] Command loaded successfully
+09:20:42 [ServerInfo] Common loaded successfully
+09:20:42 [ServerInfo] Custom loaded successfully
+09:20:42 [ServerInfo] Event loaded successfully
+09:20:42 [ServerInfo] EventItemBag loaded successfully
+09:20:42 [ServerInfo] Hack loaded successfully
+09:20:42 [ServerInfo] Item loaded successfully
+09:20:42 [ServerInfo] Monster loaded successfully
+09:20:42 [ServerInfo] Move loaded successfully
+09:20:42 [ServerInfo] Quest loaded successfully
+09:20:42 [ServerInfo] Shop loaded successfully
+09:20:42 [ServerInfo] Skill loaded successfully
+09:20:42 [ServerInfo] Util loaded successfully
+09:20:42 [ResetSystem] Bat dau nap file config reset...
+09:20:42 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+09:20:42 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+09:20:42 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+09:20:42 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+09:20:42 [ResetSystem] Da nap xong toan bo file config reset.
+09:20:42 [Blood Castle] (1) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (1) SetState EMPTY
+09:20:42 [Blood Castle] (2) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (2) SetState EMPTY
+09:20:42 [Blood Castle] (3) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (3) SetState EMPTY
+09:20:42 [Blood Castle] (4) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (4) SetState EMPTY
+09:20:42 [Blood Castle] (5) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (5) SetState EMPTY
+09:20:42 [Blood Castle] (6) Sync Start Time. [39] min remain
+09:20:42 [Blood Castle] (6) SetState EMPTY
+09:20:42 [Devil Square] (1) Sync Start Time. [4] min remain
+09:20:42 [Devil Square] (1) SetState EMPTY
+09:20:42 [Devil Square] (2) Sync Start Time. [4] min remain
+09:20:42 [Devil Square] (2) SetState EMPTY
+09:20:42 [Devil Square] (3) Sync Start Time. [4] min remain
+09:20:42 [Devil Square] (3) SetState EMPTY
+09:20:42 [Devil Square] (4) Sync Start Time. [4] min remain
+09:20:42 [Devil Square] (4) SetState EMPTY
+09:20:42 [Bingo] SetState BLANK
+09:20:42 [Bingo] SetState EMPTY
+09:20:42 [JoinServerConnection] Connected
+09:20:42 [DataServerConnection] Connected
+09:21:25 [DEBUG_ITEM_COUNT] Bat dau dem item cho [pakito]. Tim ID: 467, Level: -1
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 0, co item ID: 31, Level: 11, Dur: 111
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 3, co item ID: 276, Level: 0, Dur: 82
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 4, co item ID: 308, Level: 11, Dur: 118
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 5, co item ID: 321, Level: 0, Dur: 67
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 6, co item ID: 372, Level: 1, Dur: 83
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 7, co item ID: 390, Level: 11, Dur: 220
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 8, co item ID: 417, Level: 11, Dur: 78
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 9, co item ID: 428, Level: 6, Dur: 72
+09:21:25 [DEBUG_ITEM_COUNT] >> Slot 14, co item ID: 467, Level: 4, Dur: 254
+09:21:25 [DEBUG_ITEM_COUNT] Dem xong. Tong so luong tim thay: 1
+09:22:12 [JoinServerConnection] Disconnected
+09:22:14 [DataServerConnection] Disconnected
+09:22:15 [JoinServerConnection] Connect Failed
+11:29:17 [ServerInfo] ChaosMix loaded successfully
+11:29:17 [ServerInfo] Character loaded successfully
+11:29:17 [ServerInfo] Command loaded successfully
+11:29:17 [ServerInfo] Common loaded successfully
+11:29:17 [ServerInfo] Custom loaded successfully
+11:29:17 [ServerInfo] Event loaded successfully
+11:29:17 [ServerInfo] EventItemBag loaded successfully
+11:29:17 [ServerInfo] Hack loaded successfully
+11:29:17 [ServerInfo] Item loaded successfully
+11:29:18 [ServerInfo] Monster loaded successfully
+11:29:18 [ServerInfo] Move loaded successfully
+11:29:18 [ServerInfo] Quest loaded successfully
+11:29:18 [ServerInfo] Shop loaded successfully
+11:29:18 [ServerInfo] Skill loaded successfully
+11:29:18 [ServerInfo] Util loaded successfully
+11:29:18 [ResetSystem] Bat dau nap file config reset...
+11:29:18 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+11:29:18 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+11:29:18 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+11:29:18 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+11:29:18 [ResetSystem] Da nap xong toan bo file config reset.
+11:29:18 [Blood Castle] (1) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (1) SetState EMPTY
+11:29:18 [Blood Castle] (2) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (2) SetState EMPTY
+11:29:18 [Blood Castle] (3) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (3) SetState EMPTY
+11:29:18 [Blood Castle] (4) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (4) SetState EMPTY
+11:29:18 [Blood Castle] (5) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (5) SetState EMPTY
+11:29:18 [Blood Castle] (6) Sync Start Time. [90] min remain
+11:29:18 [Blood Castle] (6) SetState EMPTY
+11:29:18 [Devil Square] (1) Sync Start Time. [120] min remain
+11:29:18 [Devil Square] (1) SetState EMPTY
+11:29:18 [Devil Square] (2) Sync Start Time. [120] min remain
+11:29:18 [Devil Square] (2) SetState EMPTY
+11:29:18 [Devil Square] (3) Sync Start Time. [120] min remain
+11:29:18 [Devil Square] (3) SetState EMPTY
+11:29:18 [Devil Square] (4) Sync Start Time. [120] min remain
+11:29:18 [Devil Square] (4) SetState EMPTY
+11:29:18 [Bingo] SetState BLANK
+11:29:18 [Bingo] SetState EMPTY
+11:29:18 [JoinServerConnection] Connected
+11:29:18 [DataServerConnection] Connected
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 2, X: 110, Y: 88
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 2, X: 127, Y: 174
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 2, X: 225, Y: 173
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 2, X: 26, Y: 55
+11:30:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 2, X: 53, Y: 194
+11:30:44 [JoinServerConnection] Disconnected
+11:30:46 [DataServerConnection] Disconnected
+15:31:01 [ServerInfo] ChaosMix loaded successfully
+15:31:01 [ServerInfo] Character loaded successfully
+15:31:01 [ServerInfo] Command loaded successfully
+15:31:01 [ServerInfo] Common loaded successfully
+15:31:01 [ServerInfo] Custom loaded successfully
+15:31:01 [ServerInfo] Event loaded successfully
+15:31:01 [ServerInfo] EventItemBag loaded successfully
+15:31:01 [ServerInfo] Hack loaded successfully
+15:31:01 [ServerInfo] Item loaded successfully
+15:31:01 [ServerInfo] Monster loaded successfully
+15:31:01 [ServerInfo] Move loaded successfully
+15:31:01 [ServerInfo] Quest loaded successfully
+15:31:01 [ServerInfo] Shop loaded successfully
+15:31:01 [ServerInfo] Skill loaded successfully
+15:31:01 [ServerInfo] Util loaded successfully
+15:31:01 [ResetSystem] Bat dau nap file config reset...
+15:31:01 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+15:31:01 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+15:31:01 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+15:31:01 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+15:31:01 [ResetSystem] Da nap xong toan bo file config reset.
+15:31:02 [Blood Castle] (1) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (1) SetState EMPTY
+15:31:02 [Blood Castle] (2) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (2) SetState EMPTY
+15:31:02 [Blood Castle] (3) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (3) SetState EMPTY
+15:31:02 [Blood Castle] (4) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (4) SetState EMPTY
+15:31:02 [Blood Castle] (5) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (5) SetState EMPTY
+15:31:02 [Blood Castle] (6) Sync Start Time. [28] min remain
+15:31:02 [Blood Castle] (6) SetState EMPTY
+15:31:02 [Devil Square] (1) Sync Start Time. [58] min remain
+15:31:02 [Devil Square] (1) SetState EMPTY
+15:31:02 [Devil Square] (2) Sync Start Time. [58] min remain
+15:31:02 [Devil Square] (2) SetState EMPTY
+15:31:02 [Devil Square] (3) Sync Start Time. [58] min remain
+15:31:02 [Devil Square] (3) SetState EMPTY
+15:31:02 [Devil Square] (4) Sync Start Time. [58] min remain
+15:31:02 [Devil Square] (4) SetState EMPTY
+15:31:02 [Bingo] SetState BLANK
+15:31:02 [Bingo] SetState EMPTY
+15:31:02 [JoinServerConnection] Connected
+15:31:02 [DataServerConnection] Connected
+16:00:00 [Blood Castle] (1) SetState STAND
+16:00:00 [Blood Castle] (2) SetState STAND
+16:00:00 [Blood Castle] (3) SetState STAND
+16:00:00 [Blood Castle] (4) SetState STAND
+16:00:00 [Blood Castle] (5) SetState STAND
+16:00:00 [Blood Castle] (6) SetState STAND
+16:00:01 [Blood Castle] (1) Not enough users
+16:00:01 [Blood Castle] (1) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (1) SetState EMPTY
+16:00:01 [Blood Castle] (2) Not enough users
+16:00:01 [Blood Castle] (2) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (2) SetState EMPTY
+16:00:01 [Blood Castle] (3) Not enough users
+16:00:01 [Blood Castle] (3) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (3) SetState EMPTY
+16:00:01 [Blood Castle] (4) Not enough users
+16:00:01 [Blood Castle] (4) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (4) SetState EMPTY
+16:00:01 [Blood Castle] (5) Not enough users
+16:00:01 [Blood Castle] (5) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (5) SetState EMPTY
+16:00:01 [Blood Castle] (6) Not enough users
+16:00:01 [Blood Castle] (6) Sync Start Time. [179] min remain
+16:00:01 [Blood Castle] (6) SetState EMPTY
+16:30:00 [Devil Square] (1) SetState STAND
+16:30:00 [Devil Square] (2) SetState STAND
+16:30:00 [Devil Square] (3) SetState STAND
+16:30:00 [Devil Square] (4) SetState STAND
+16:30:01 [Devil Square] (1) Not enough users
+16:30:01 [Devil Square] (1) Sync Start Time. [179] min remain
+16:30:01 [Devil Square] (1) SetState EMPTY
+16:30:01 [Devil Square] (2) Not enough users
+16:30:01 [Devil Square] (2) Sync Start Time. [179] min remain
+16:30:01 [Devil Square] (2) SetState EMPTY
+16:30:01 [Devil Square] (3) Not enough users
+16:30:01 [Devil Square] (3) Sync Start Time. [179] min remain
+16:30:01 [Devil Square] (3) SetState EMPTY
+16:30:01 [Devil Square] (4) Not enough users
+16:30:01 [Devil Square] (4) Sync Start Time. [179] min remain
+16:30:01 [Devil Square] (4) SetState EMPTY
+17:00:20 [JoinServerConnection] Disconnected
+17:00:22 [DataServerConnection] Disconnected
+20:46:23 [ServerInfo] ChaosMix loaded successfully
+20:46:23 [ServerInfo] Character loaded successfully
+20:46:23 [ServerInfo] Command loaded successfully
+20:46:23 [ServerInfo] Common loaded successfully
+20:46:23 [ServerInfo] Custom loaded successfully
+20:46:23 [ServerInfo] Event loaded successfully
+20:46:24 [ServerInfo] EventItemBag loaded successfully
+20:46:24 [ServerInfo] Hack loaded successfully
+20:46:24 [ServerInfo] Item loaded successfully
+20:46:25 [ServerInfo] Monster loaded successfully
+20:46:25 [ServerInfo] Move loaded successfully
+20:46:25 [ServerInfo] Quest loaded successfully
+20:46:25 [ServerInfo] Shop loaded successfully
+20:46:26 [ServerInfo] Skill loaded successfully
+20:46:26 [ServerInfo] Util loaded successfully
+20:46:26 [ResetSystem] Bat dau nap file config reset...
+20:46:26 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+20:46:26 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+20:46:26 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+20:46:26 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+20:46:26 [ResetSystem] Da nap xong toan bo file config reset.
+20:46:26 [Blood Castle] (1) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (1) SetState EMPTY
+20:46:26 [Blood Castle] (2) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (2) SetState EMPTY
+20:46:26 [Blood Castle] (3) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (3) SetState EMPTY
+20:46:26 [Blood Castle] (4) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (4) SetState EMPTY
+20:46:26 [Blood Castle] (5) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (5) SetState EMPTY
+20:46:26 [Blood Castle] (6) Sync Start Time. [73] min remain
+20:46:26 [Blood Castle] (6) SetState EMPTY
+20:46:26 [Devil Square] (1) Sync Start Time. [103] min remain
+20:46:26 [Devil Square] (1) SetState EMPTY
+20:46:26 [Devil Square] (2) Sync Start Time. [103] min remain
+20:46:26 [Devil Square] (2) SetState EMPTY
+20:46:26 [Devil Square] (3) Sync Start Time. [103] min remain
+20:46:26 [Devil Square] (3) SetState EMPTY
+20:46:26 [Devil Square] (4) Sync Start Time. [103] min remain
+20:46:26 [Devil Square] (4) SetState EMPTY
+20:46:26 [Bingo] SetState BLANK
+20:46:26 [Bingo] SetState EMPTY
+20:46:26 [JoinServerConnection] Connected
+20:46:26 [DataServerConnection] Connected
+20:47:26 [JoinServerConnection] Disconnected
+20:47:28 [DataServerConnection] Disconnected
+20:47:28 [JoinServerConnection] Connect Failed
+21:06:09 [ServerInfo] ChaosMix loaded successfully
+21:06:09 [ServerInfo] Character loaded successfully
+21:06:09 [ServerInfo] Command loaded successfully
+21:06:09 [ServerInfo] Common loaded successfully
+21:06:09 [ServerInfo] Custom loaded successfully
+21:06:09 [ServerInfo] Event loaded successfully
+21:06:09 [ServerInfo] EventItemBag loaded successfully
+21:06:09 [ServerInfo] Hack loaded successfully
+21:06:09 [ServerInfo] Item loaded successfully
+21:06:09 [ServerInfo] Monster loaded successfully
+21:06:09 [ServerInfo] Move loaded successfully
+21:06:09 [ServerInfo] Quest loaded successfully
+21:06:09 [ServerInfo] Shop loaded successfully
+21:06:09 [ServerInfo] Skill loaded successfully
+21:06:09 [ServerInfo] Util loaded successfully
+21:06:09 [ResetSystem] Bat dau nap file config reset...
+21:06:09 [ResetSystem] -> Doc du lieu cho AL0 thanh cong, tim thay 5 dong.
+21:06:09 [ResetSystem] -> Doc du lieu cho AL1 thanh cong, tim thay 5 dong.
+21:06:09 [ResetSystem] -> Doc du lieu cho AL2 thanh cong, tim thay 5 dong.
+21:06:09 [ResetSystem] -> Doc du lieu cho AL3 thanh cong, tim thay 5 dong.
+21:06:09 [ResetSystem] Da nap xong toan bo file config reset.
+21:06:10 [Blood Castle] (1) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (1) SetState EMPTY
+21:06:10 [Blood Castle] (2) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (2) SetState EMPTY
+21:06:10 [Blood Castle] (3) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (3) SetState EMPTY
+21:06:10 [Blood Castle] (4) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (4) SetState EMPTY
+21:06:10 [Blood Castle] (5) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (5) SetState EMPTY
+21:06:10 [Blood Castle] (6) Sync Start Time. [53] min remain
+21:06:10 [Blood Castle] (6) SetState EMPTY
+21:06:10 [Devil Square] (1) Sync Start Time. [83] min remain
+21:06:10 [Devil Square] (1) SetState EMPTY
+21:06:10 [Devil Square] (2) Sync Start Time. [83] min remain
+21:06:10 [Devil Square] (2) SetState EMPTY
+21:06:10 [Devil Square] (3) Sync Start Time. [83] min remain
+21:06:10 [Devil Square] (3) SetState EMPTY
+21:06:10 [Devil Square] (4) Sync Start Time. [83] min remain
+21:06:10 [Devil Square] (4) SetState EMPTY
+21:06:10 [Bingo] SetState BLANK
+21:06:10 [Bingo] SetState EMPTY
+21:06:10 [JoinServerConnection] Connected
+21:06:10 [DataServerConnection] Connected
+21:10:45 [JoinServerConnection] Disconnected
+21:10:47 [DataServerConnection] Disconnected

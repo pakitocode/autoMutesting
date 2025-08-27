@@ -1,0 +1,1542 @@
+12:31:25 [ServerInfo] ChaosMix loaded successfully
+12:31:25 [ServerInfo] Character loaded successfully
+12:31:25 [ServerInfo] Command loaded successfully
+12:31:25 [ServerInfo] Common loaded successfully
+12:31:26 [ServerInfo] Custom loaded successfully
+12:31:26 [ServerInfo] Event loaded successfully
+12:31:26 [ServerInfo] EventItemBag loaded successfully
+12:31:26 [ServerInfo] Hack loaded successfully
+12:31:26 [ServerInfo] Item loaded successfully
+12:31:27 [ServerInfo] Monster loaded successfully
+12:31:27 [ServerInfo] Move loaded successfully
+12:31:27 [ServerInfo] Quest loaded successfully
+12:31:27 [ServerInfo] Shop loaded successfully
+12:31:27 [ServerInfo] Skill loaded successfully
+12:31:27 [ServerInfo] Util loaded successfully
+12:31:27 [Blood Castle] (1) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (1) SetState EMPTY
+12:31:27 [Blood Castle] (2) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (2) SetState EMPTY
+12:31:27 [Blood Castle] (3) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (3) SetState EMPTY
+12:31:27 [Blood Castle] (4) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (4) SetState EMPTY
+12:31:27 [Blood Castle] (5) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (5) SetState EMPTY
+12:31:27 [Blood Castle] (6) Sync Start Time. [28] min remain
+12:31:27 [Blood Castle] (6) SetState EMPTY
+12:31:27 [Devil Square] (1) Sync Start Time. [58] min remain
+12:31:27 [Devil Square] (1) SetState EMPTY
+12:31:27 [Devil Square] (2) Sync Start Time. [58] min remain
+12:31:27 [Devil Square] (2) SetState EMPTY
+12:31:27 [Devil Square] (3) Sync Start Time. [58] min remain
+12:31:27 [Devil Square] (3) SetState EMPTY
+12:31:27 [Devil Square] (4) Sync Start Time. [58] min remain
+12:31:27 [Devil Square] (4) SetState EMPTY
+12:31:27 [Bingo] Sync Start Time. [578] min remain
+12:31:27 [Bingo] SetState EMPTY
+12:31:27 [JoinServerConnection] Connected
+12:31:27 [DataServerConnection] Connected
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 170, Y: 74
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 124, Y: 84
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 119, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 100, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 125, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 83
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 80
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 71
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 204, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 182, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 135, Y: 84
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 99, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 125, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 177, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 74
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 140, Y: 84
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 74
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 154, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 146, Y: 85
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 177, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 137, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 198, Y: 80
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 80
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 78
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 140, Y: 71
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 185, Y: 83
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 83
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 158, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 139, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 147, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 85
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 98, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 170, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 141, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 99, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 78
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 155, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 166, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 177, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 175, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 101, Y: 82
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 71
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 74
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 85
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 162, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 78
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 80
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 163, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 185, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 116, Y: 84
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 159, Y: 85
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 183, Y: 74
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 161, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 191, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 159, Y: 85
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 144, Y: 72
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 101, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 157, Y: 80
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 187, Y: 84
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 77
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 70
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 178, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 140, Y: 73
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 81
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 99, Y: 76
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 83
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 160, Y: 75
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 117, Y: 78
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 163, Y: 79
+12:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 146, Y: 81
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 151, Y: 216
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 193, Y: 74
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 105, Y: 41
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 156, Y: 28
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 149, Y: 186
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 236, Y: 97
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 235, Y: 71
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 41, Y: 40
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 162, Y: 184
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 120, Y: 41
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 218, Y: 10
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 222, Y: 15
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 156, Y: 90
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 195, Y: 235
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 73, Y: 28
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 30, Y: 53
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 54, Y: 38
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 29, Y: 165
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 88, Y: 207
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 81, Y: 205
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 127, Y: 211
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 64, Y: 208
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 200, Y: 132
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 114, Y: 86
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 72, Y: 142
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 136, Y: 64
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 79, Y: 200
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 217, Y: 125
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 45, Y: 92
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 168, Y: 222
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 60, Y: 75
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 16, Y: 58
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 118, Y: 59
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 167, Y: 226
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 221, Y: 85
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 185, Y: 109
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 30, Y: 192
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 208, Y: 173
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 191, Y: 183
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 93, Y: 107
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 83, Y: 213
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 225, Y: 133
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 32, Y: 153
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 56, Y: 74
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 222, Y: 212
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 146, Y: 170
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 199, Y: 20
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 184, Y: 17
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 40, Y: 146
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 97, Y: 214
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 123, Y: 22
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 29, Y: 155
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 186, Y: 26
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 52, Y: 25
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 196, Y: 125
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 48, Y: 216
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 171, Y: 106
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 62, Y: 236
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 34, Y: 45
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 188, Y: 170
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 196, Y: 231
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 193, Y: 101
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 177, Y: 224
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 144, Y: 24
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 110, Y: 170
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 55, Y: 170
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 32, Y: 24
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 115, Y: 37
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 191, Y: 159
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 86, Y: 38
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 103, Y: 29
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 69, Y: 231
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 147, Y: 233
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 119, Y: 171
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 120, Y: 81
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 178, Y: 122
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 212, Y: 161
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 101, Y: 43
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 50, Y: 66
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 88, Y: 94
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 192, Y: 100
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 58, Y: 190
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 112, Y: 204
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 189, Y: 26
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 109, Y: 163
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 60, Y: 60
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 226, Y: 222
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 12, Y: 178
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 54, Y: 47
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 96, Y: 101
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 35, Y: 217
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 62, Y: 176
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 219, Y: 21
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 130, Y: 209
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 80, Y: 134
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 188, Y: 218
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 27, Y: 239
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 68, Y: 239
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 84, Y: 192
+12:45:00 [Invasion Manager] (Red Dragon) Boss Position (Map: 0, X: 173, Y: 44
+12:55:35 [JoinServerConnection] Disconnected
+12:55:37 [DataServerConnection] Disconnected
+13:07:18 [ServerInfo] ChaosMix loaded successfully
+13:07:18 [ServerInfo] Character loaded successfully
+13:07:18 [ServerInfo] Command loaded successfully
+13:07:18 [ServerInfo] Common loaded successfully
+13:07:18 [ServerInfo] Custom loaded successfully
+13:07:18 [ServerInfo] Event loaded successfully
+13:07:18 [ServerInfo] EventItemBag loaded successfully
+13:07:18 [ServerInfo] Hack loaded successfully
+13:07:18 [ServerInfo] Item loaded successfully
+13:07:18 [ServerInfo] Monster loaded successfully
+13:07:18 [ServerInfo] Move loaded successfully
+13:07:18 [ServerInfo] Quest loaded successfully
+13:07:18 [ServerInfo] Shop loaded successfully
+13:07:18 [ServerInfo] Skill loaded successfully
+13:07:18 [ServerInfo] Util loaded successfully
+13:07:18 [Blood Castle] (1) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (1) SetState EMPTY
+13:07:18 [Blood Castle] (2) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (2) SetState EMPTY
+13:07:18 [Blood Castle] (3) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (3) SetState EMPTY
+13:07:18 [Blood Castle] (4) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (4) SetState EMPTY
+13:07:18 [Blood Castle] (5) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (5) SetState EMPTY
+13:07:18 [Blood Castle] (6) Sync Start Time. [112] min remain
+13:07:18 [Blood Castle] (6) SetState EMPTY
+13:07:18 [Devil Square] (1) Sync Start Time. [22] min remain
+13:07:18 [Devil Square] (1) SetState EMPTY
+13:07:18 [Devil Square] (2) Sync Start Time. [22] min remain
+13:07:18 [Devil Square] (2) SetState EMPTY
+13:07:18 [Devil Square] (3) Sync Start Time. [22] min remain
+13:07:18 [Devil Square] (3) SetState EMPTY
+13:07:18 [Devil Square] (4) Sync Start Time. [22] min remain
+13:07:18 [Devil Square] (4) SetState EMPTY
+13:07:18 [Bingo] Sync Start Time. [542] min remain
+13:07:18 [Bingo] SetState EMPTY
+13:07:18 [JoinServerConnection] Connected
+13:07:18 [DataServerConnection] Connected
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 190
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 190
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 197
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 190
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 190
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 194
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 197
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 195
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 191
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 202
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 198
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 197
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 196
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 199
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 192
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 193
+13:15:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 199
+13:16:30 [JoinServerConnection] Disconnected
+13:16:32 [DataServerConnection] Disconnected
+13:21:29 [ServerInfo] ChaosMix loaded successfully
+13:21:29 [ServerInfo] Character loaded successfully
+13:21:29 [ServerInfo] Command loaded successfully
+13:21:29 [ServerInfo] Common loaded successfully
+13:21:29 [ServerInfo] Custom loaded successfully
+13:21:29 [ServerInfo] Event loaded successfully
+13:21:29 [ServerInfo] EventItemBag loaded successfully
+13:21:29 [ServerInfo] Hack loaded successfully
+13:21:29 [ServerInfo] Item loaded successfully
+13:21:29 [ServerInfo] Monster loaded successfully
+13:21:29 [ServerInfo] Move loaded successfully
+13:21:29 [ServerInfo] Quest loaded successfully
+13:21:29 [ServerInfo] Shop loaded successfully
+13:21:29 [ServerInfo] Skill loaded successfully
+13:21:29 [ServerInfo] Util loaded successfully
+13:21:29 [Blood Castle] (1) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (1) SetState EMPTY
+13:21:29 [Blood Castle] (2) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (2) SetState EMPTY
+13:21:29 [Blood Castle] (3) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (3) SetState EMPTY
+13:21:29 [Blood Castle] (4) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (4) SetState EMPTY
+13:21:29 [Blood Castle] (5) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (5) SetState EMPTY
+13:21:29 [Blood Castle] (6) Sync Start Time. [98] min remain
+13:21:29 [Blood Castle] (6) SetState EMPTY
+13:21:29 [Devil Square] (1) Sync Start Time. [8] min remain
+13:21:29 [Devil Square] (1) SetState EMPTY
+13:21:29 [Devil Square] (2) Sync Start Time. [8] min remain
+13:21:29 [Devil Square] (2) SetState EMPTY
+13:21:29 [Devil Square] (3) Sync Start Time. [8] min remain
+13:21:29 [Devil Square] (3) SetState EMPTY
+13:21:29 [Devil Square] (4) Sync Start Time. [8] min remain
+13:21:29 [Devil Square] (4) SetState EMPTY
+13:21:29 [Bingo] Sync Start Time. [528] min remain
+13:21:29 [Bingo] SetState EMPTY
+13:21:29 [JoinServerConnection] Connected
+13:21:29 [DataServerConnection] Connected
+13:30:00 [Devil Square] (1) SetState STAND
+13:30:00 [Devil Square] (2) SetState STAND
+13:30:00 [Devil Square] (3) SetState STAND
+13:30:00 [Devil Square] (4) SetState STAND
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 77
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 72
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 155, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 153, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 125, Y: 79
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 101, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 202, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 157, Y: 72
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 198, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 85
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 155, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 134, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 146, Y: 85
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 83
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 95, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 127, Y: 85
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 108, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 167, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 76
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 197, Y: 83
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 160, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 162, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 129, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 163, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 104, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 190, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 120, Y: 83
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 144, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 125, Y: 79
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 139, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 187, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 170, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 72
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 85
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 162, Y: 77
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 204, Y: 83
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 109, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 76
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 72
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 190, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 135, Y: 78
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 129, Y: 76
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 108, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 158, Y: 83
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 99, Y: 85
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 129, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 137, Y: 72
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 153, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 173, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 79
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 166, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 80
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 95, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 73
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 82
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 81
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 84
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 136, Y: 71
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 142, Y: 76
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 76
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 74
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 190, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 70
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 177, Y: 75
+13:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 72
+13:30:01 [Devil Square] (1) Not enough users
+13:30:01 [Devil Square] (1) Sync Start Time. [79] min remain
+13:30:01 [Devil Square] (1) SetState EMPTY
+13:30:01 [Devil Square] (2) Not enough users
+13:30:01 [Devil Square] (2) Sync Start Time. [79] min remain
+13:30:01 [Devil Square] (2) SetState EMPTY
+13:30:01 [Devil Square] (3) Not enough users
+13:30:01 [Devil Square] (3) Sync Start Time. [79] min remain
+13:30:01 [Devil Square] (3) SetState EMPTY
+13:30:01 [Devil Square] (4) Not enough users
+13:30:01 [Devil Square] (4) Sync Start Time. [79] min remain
+13:30:01 [Devil Square] (4) SetState EMPTY
+13:34:16 [JoinServerConnection] Disconnected
+13:34:18 [DataServerConnection] Disconnected
+13:36:45 [ServerInfo] ChaosMix loaded successfully
+13:36:45 [ServerInfo] Character loaded successfully
+13:36:45 [ServerInfo] Command loaded successfully
+13:36:45 [ServerInfo] Common loaded successfully
+13:36:45 [ServerInfo] Custom loaded successfully
+13:36:45 [ServerInfo] Event loaded successfully
+13:36:45 [ServerInfo] EventItemBag loaded successfully
+13:36:45 [ServerInfo] Hack loaded successfully
+13:36:45 [ServerInfo] Item loaded successfully
+13:36:45 [ServerInfo] Monster loaded successfully
+13:36:45 [ServerInfo] Move loaded successfully
+13:36:45 [ServerInfo] Quest loaded successfully
+13:36:45 [ServerInfo] Shop loaded successfully
+13:36:45 [ServerInfo] Skill loaded successfully
+13:36:45 [ServerInfo] Util loaded successfully
+13:36:45 [Blood Castle] (1) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (1) SetState EMPTY
+13:36:45 [Blood Castle] (2) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (2) SetState EMPTY
+13:36:45 [Blood Castle] (3) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (3) SetState EMPTY
+13:36:45 [Blood Castle] (4) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (4) SetState EMPTY
+13:36:45 [Blood Castle] (5) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (5) SetState EMPTY
+13:36:45 [Blood Castle] (6) Sync Start Time. [83] min remain
+13:36:45 [Blood Castle] (6) SetState EMPTY
+13:36:45 [Devil Square] (1) Sync Start Time. [73] min remain
+13:36:45 [Devil Square] (1) SetState EMPTY
+13:36:45 [Devil Square] (2) Sync Start Time. [73] min remain
+13:36:45 [Devil Square] (2) SetState EMPTY
+13:36:45 [Devil Square] (3) Sync Start Time. [73] min remain
+13:36:45 [Devil Square] (3) SetState EMPTY
+13:36:45 [Devil Square] (4) Sync Start Time. [73] min remain
+13:36:45 [Devil Square] (4) SetState EMPTY
+13:36:45 [Bingo] Sync Start Time. [513] min remain
+13:36:45 [Bingo] SetState EMPTY
+13:36:45 [JoinServerConnection] Connected
+13:36:45 [DataServerConnection] Connected
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 194
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 194
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 190
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 190
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 197
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 194
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 190
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 200
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 200
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 197
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 194
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 194
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 197
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 200
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 193
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 190
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 197
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 191
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 201
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 198
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 195
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 199
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 200
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 190
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 196
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 202
+13:40:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 199
+13:47:13 [JoinServerConnection] Disconnected
+13:47:15 [DataServerConnection] Disconnected
+13:47:26 [ServerInfo] ChaosMix loaded successfully
+13:47:26 [ServerInfo] Character loaded successfully
+13:47:26 [ServerInfo] Command loaded successfully
+13:47:26 [ServerInfo] Common loaded successfully
+13:47:26 [ServerInfo] Custom loaded successfully
+13:47:26 [ServerInfo] Event loaded successfully
+13:47:26 [ServerInfo] EventItemBag loaded successfully
+13:47:26 [ServerInfo] Hack loaded successfully
+13:47:26 [ServerInfo] Item loaded successfully
+13:47:26 [ServerInfo] Monster loaded successfully
+13:47:26 [ServerInfo] Move loaded successfully
+13:47:26 [ServerInfo] Quest loaded successfully
+13:47:26 [ServerInfo] Shop loaded successfully
+13:47:26 [ServerInfo] Skill loaded successfully
+13:47:26 [ServerInfo] Util loaded successfully
+13:47:26 [Blood Castle] (1) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (1) SetState EMPTY
+13:47:26 [Blood Castle] (2) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (2) SetState EMPTY
+13:47:26 [Blood Castle] (3) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (3) SetState EMPTY
+13:47:26 [Blood Castle] (4) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (4) SetState EMPTY
+13:47:26 [Blood Castle] (5) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (5) SetState EMPTY
+13:47:26 [Blood Castle] (6) Sync Start Time. [72] min remain
+13:47:26 [Blood Castle] (6) SetState EMPTY
+13:47:26 [Devil Square] (1) Sync Start Time. [62] min remain
+13:47:26 [Devil Square] (1) SetState EMPTY
+13:47:26 [Devil Square] (2) Sync Start Time. [62] min remain
+13:47:26 [Devil Square] (2) SetState EMPTY
+13:47:26 [Devil Square] (3) Sync Start Time. [62] min remain
+13:47:26 [Devil Square] (3) SetState EMPTY
+13:47:26 [Devil Square] (4) Sync Start Time. [62] min remain
+13:47:26 [Devil Square] (4) SetState EMPTY
+13:47:26 [Bingo] Sync Start Time. [502] min remain
+13:47:26 [Bingo] SetState EMPTY
+13:47:26 [JoinServerConnection] Connected
+13:47:26 [DataServerConnection] Connected
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 119, Y: 81
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 119, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 84
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 75
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 107, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 130, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 161, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 137, Y: 75
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 76
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 190, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 117, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 146, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 108, Y: 73
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 204, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 114, Y: 81
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 146, Y: 71
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 104, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 193, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 127, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 191, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 107, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 104, Y: 78
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 78
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 203, Y: 71
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 132, Y: 84
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 100, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 84
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 170, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 183, Y: 81
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 76
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 147, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 76
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 71
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 76
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 140, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 134, Y: 73
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 139, Y: 84
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 142, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 129, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 134, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 144, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 114, Y: 71
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 201, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 201, Y: 80
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 95, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 167, Y: 77
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 182, Y: 73
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 83
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 70
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 117, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 116, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 203, Y: 81
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 81
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 167, Y: 75
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 76
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 153, Y: 75
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 164, Y: 75
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 137, Y: 85
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 144, Y: 71
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 82
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 72
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 194, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 79
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 130, Y: 74
+13:50:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 74
+14:14:34 [JoinServerConnection] Disconnected
+14:14:36 [DataServerConnection] Disconnected
+19:19:03 [ServerInfo] ChaosMix loaded successfully
+19:19:03 [ServerInfo] Character loaded successfully
+19:19:03 [ServerInfo] Command loaded successfully
+19:19:03 [ServerInfo] Common loaded successfully
+19:19:03 [ServerInfo] Custom loaded successfully
+19:19:03 [ServerInfo] Event loaded successfully
+19:19:03 [ServerInfo] EventItemBag loaded successfully
+19:19:03 [ServerInfo] Hack loaded successfully
+19:19:03 [ServerInfo] Item loaded successfully
+19:19:03 [ServerInfo] Monster loaded successfully
+19:19:03 [ServerInfo] Move loaded successfully
+19:19:03 [ServerInfo] Quest loaded successfully
+19:19:03 [ServerInfo] Shop loaded successfully
+19:19:03 [ServerInfo] Skill loaded successfully
+19:19:03 [ServerInfo] Util loaded successfully
+19:19:03 [Blood Castle] (1) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (1) SetState EMPTY
+19:19:03 [Blood Castle] (2) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (2) SetState EMPTY
+19:19:03 [Blood Castle] (3) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (3) SetState EMPTY
+19:19:03 [Blood Castle] (4) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (4) SetState EMPTY
+19:19:03 [Blood Castle] (5) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (5) SetState EMPTY
+19:19:03 [Blood Castle] (6) Sync Start Time. [160] min remain
+19:19:03 [Blood Castle] (6) SetState EMPTY
+19:19:03 [Devil Square] (1) Sync Start Time. [10] min remain
+19:19:03 [Devil Square] (1) SetState EMPTY
+19:19:03 [Devil Square] (2) Sync Start Time. [10] min remain
+19:19:03 [Devil Square] (2) SetState EMPTY
+19:19:03 [Devil Square] (3) Sync Start Time. [10] min remain
+19:19:03 [Devil Square] (3) SetState EMPTY
+19:19:03 [Devil Square] (4) Sync Start Time. [10] min remain
+19:19:03 [Devil Square] (4) SetState EMPTY
+19:19:03 [Bingo] Sync Start Time. [170] min remain
+19:19:03 [Bingo] SetState EMPTY
+19:19:03 [JoinServerConnection] Connected
+19:19:03 [DataServerConnection] Connected
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 198
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 202
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 202
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 198
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 202
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 190
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 198
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 195
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 198
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 191
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 195
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 190
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 198
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 193
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 195
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 199
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 192
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 196
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 195
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 197
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 194
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 200
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 190
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 201
+19:25:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 202
+19:29:00 [JoinServerConnection] Disconnected
+19:29:02 [DataServerConnection] Disconnected
+19:29:14 [ServerInfo] ChaosMix loaded successfully
+19:29:14 [ServerInfo] Character loaded successfully
+19:29:14 [ServerInfo] Command loaded successfully
+19:29:14 [ServerInfo] Common loaded successfully
+19:29:14 [ServerInfo] Custom loaded successfully
+19:29:14 [ServerInfo] Event loaded successfully
+19:29:14 [ServerInfo] EventItemBag loaded successfully
+19:29:14 [ServerInfo] Hack loaded successfully
+19:29:14 [ServerInfo] Item loaded successfully
+19:29:14 [ServerInfo] Monster loaded successfully
+19:29:14 [ServerInfo] Move loaded successfully
+19:29:14 [ServerInfo] Quest loaded successfully
+19:29:14 [ServerInfo] Shop loaded successfully
+19:29:14 [ServerInfo] Skill loaded successfully
+19:29:14 [ServerInfo] Util loaded successfully
+19:29:14 [Blood Castle] (1) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (1) SetState EMPTY
+19:29:14 [Blood Castle] (2) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (2) SetState EMPTY
+19:29:14 [Blood Castle] (3) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (3) SetState EMPTY
+19:29:14 [Blood Castle] (4) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (4) SetState EMPTY
+19:29:14 [Blood Castle] (5) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (5) SetState EMPTY
+19:29:14 [Blood Castle] (6) Sync Start Time. [150] min remain
+19:29:14 [Blood Castle] (6) SetState EMPTY
+19:29:14 [Devil Square] (1) Sync Start Time. [0] min remain
+19:29:14 [Devil Square] (1) SetState EMPTY
+19:29:14 [Devil Square] (2) Sync Start Time. [0] min remain
+19:29:14 [Devil Square] (2) SetState EMPTY
+19:29:14 [Devil Square] (3) Sync Start Time. [0] min remain
+19:29:14 [Devil Square] (3) SetState EMPTY
+19:29:14 [Devil Square] (4) Sync Start Time. [0] min remain
+19:29:14 [Devil Square] (4) SetState EMPTY
+19:29:14 [Bingo] Sync Start Time. [160] min remain
+19:29:14 [Bingo] SetState EMPTY
+19:29:14 [JoinServerConnection] Connected
+19:29:14 [DataServerConnection] Connected
+19:30:00 [Devil Square] (1) SetState STAND
+19:30:00 [Devil Square] (2) SetState STAND
+19:30:00 [Devil Square] (3) SetState STAND
+19:30:00 [Devil Square] (4) SetState STAND
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 126, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 138, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 109, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 197, Y: 71
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 136, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 192, Y: 73
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 156, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 158, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 83
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 194, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 203, Y: 75
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 197, Y: 79
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 166, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 95, Y: 73
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 101, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 120, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 179, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 116, Y: 79
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 130, Y: 70
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 71
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 85
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 169, Y: 70
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 165, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 71
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 190, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 179, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 127, Y: 85
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 197, Y: 85
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 142, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 138, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 153, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 98, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 161, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 194, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 157, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 166, Y: 71
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 79
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 136, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 132, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 191, Y: 79
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 109, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 132, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 163, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 193, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 162, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 83
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 84
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 159, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 85
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 154, Y: 70
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 76
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 73
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 159, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 110, Y: 72
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 143, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 194, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 78
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 79
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 164, Y: 81
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 182, Y: 82
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 116, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 80
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 70
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 178, Y: 73
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 149, Y: 83
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 171, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 160, Y: 77
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 202, Y: 75
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 71
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 173, Y: 74
+19:30:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 107, Y: 76
+19:30:01 [Devil Square] (1) Not enough users
+19:30:01 [Devil Square] (1) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (1) SetState EMPTY
+19:30:01 [Devil Square] (2) Not enough users
+19:30:01 [Devil Square] (2) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (2) SetState EMPTY
+19:30:01 [Devil Square] (3) Not enough users
+19:30:01 [Devil Square] (3) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (3) SetState EMPTY
+19:30:01 [Devil Square] (4) Not enough users
+19:30:01 [Devil Square] (4) Sync Start Time. [179] min remain
+19:30:01 [Devil Square] (4) SetState EMPTY
+19:31:27 [JoinServerConnection] Disconnected
+19:31:29 [DataServerConnection] Disconnected
+19:33:16 [ServerInfo] ChaosMix loaded successfully
+19:33:16 [ServerInfo] Character loaded successfully
+19:33:16 [ServerInfo] Command loaded successfully
+19:33:16 [ServerInfo] Common loaded successfully
+19:33:16 [ServerInfo] Custom loaded successfully
+19:33:16 [ServerInfo] Event loaded successfully
+19:33:16 [ServerInfo] EventItemBag loaded successfully
+19:33:16 [ServerInfo] Hack loaded successfully
+19:33:16 [ServerInfo] Item loaded successfully
+19:33:16 [ServerInfo] Monster loaded successfully
+19:33:16 [ServerInfo] Move loaded successfully
+19:33:16 [ServerInfo] Quest loaded successfully
+19:33:16 [ServerInfo] Shop loaded successfully
+19:33:16 [ServerInfo] Skill loaded successfully
+19:33:16 [ServerInfo] Util loaded successfully
+19:33:16 [Blood Castle] (1) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (1) SetState EMPTY
+19:33:16 [Blood Castle] (2) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (2) SetState EMPTY
+19:33:16 [Blood Castle] (3) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (3) SetState EMPTY
+19:33:16 [Blood Castle] (4) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (4) SetState EMPTY
+19:33:16 [Blood Castle] (5) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (5) SetState EMPTY
+19:33:16 [Blood Castle] (6) Sync Start Time. [146] min remain
+19:33:16 [Blood Castle] (6) SetState EMPTY
+19:33:16 [Devil Square] (1) Sync Start Time. [176] min remain
+19:33:16 [Devil Square] (1) SetState EMPTY
+19:33:16 [Devil Square] (2) Sync Start Time. [176] min remain
+19:33:16 [Devil Square] (2) SetState EMPTY
+19:33:16 [Devil Square] (3) Sync Start Time. [176] min remain
+19:33:16 [Devil Square] (3) SetState EMPTY
+19:33:16 [Devil Square] (4) Sync Start Time. [176] min remain
+19:33:16 [Devil Square] (4) SetState EMPTY
+19:33:16 [Bingo] Sync Start Time. [156] min remain
+19:33:16 [Bingo] SetState EMPTY
+19:33:16 [JoinServerConnection] Connected
+19:33:16 [DataServerConnection] Connected
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 194
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 198
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 194
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 194
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 201
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 201
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 194
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 198
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 191
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 193
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 194
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 195
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 197
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 200
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 202
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 198
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 190
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 196
+19:35:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 193
+19:37:41 [JoinServerConnection] Disconnected
+19:37:43 [DataServerConnection] Disconnected
+19:38:03 [ServerInfo] ChaosMix loaded successfully
+19:38:03 [ServerInfo] Character loaded successfully
+19:38:03 [ServerInfo] Command loaded successfully
+19:38:03 [ServerInfo] Common loaded successfully
+19:38:03 [ServerInfo] Custom loaded successfully
+19:38:03 [ServerInfo] Event loaded successfully
+19:38:03 [ServerInfo] EventItemBag loaded successfully
+19:38:03 [ServerInfo] Hack loaded successfully
+19:38:03 [ServerInfo] Item loaded successfully
+19:38:03 [ServerInfo] Monster loaded successfully
+19:38:03 [ServerInfo] Move loaded successfully
+19:38:03 [ServerInfo] Quest loaded successfully
+19:38:03 [ServerInfo] Shop loaded successfully
+19:38:03 [ServerInfo] Skill loaded successfully
+19:38:03 [ServerInfo] Util loaded successfully
+19:38:03 [Blood Castle] (1) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (1) SetState EMPTY
+19:38:03 [Blood Castle] (2) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (2) SetState EMPTY
+19:38:03 [Blood Castle] (3) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (3) SetState EMPTY
+19:38:03 [Blood Castle] (4) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (4) SetState EMPTY
+19:38:03 [Blood Castle] (5) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (5) SetState EMPTY
+19:38:03 [Blood Castle] (6) Sync Start Time. [141] min remain
+19:38:03 [Blood Castle] (6) SetState EMPTY
+19:38:03 [Devil Square] (1) Sync Start Time. [171] min remain
+19:38:03 [Devil Square] (1) SetState EMPTY
+19:38:03 [Devil Square] (2) Sync Start Time. [171] min remain
+19:38:03 [Devil Square] (2) SetState EMPTY
+19:38:03 [Devil Square] (3) Sync Start Time. [171] min remain
+19:38:03 [Devil Square] (3) SetState EMPTY
+19:38:03 [Devil Square] (4) Sync Start Time. [171] min remain
+19:38:03 [Devil Square] (4) SetState EMPTY
+19:38:03 [Bingo] Sync Start Time. [151] min remain
+19:38:03 [Bingo] SetState EMPTY
+19:38:03 [JoinServerConnection] Connected
+19:38:03 [DataServerConnection] Connected
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 154, Y: 83
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 150, Y: 78
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 179, Y: 70
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 189, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 75
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 201, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 109, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 122, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 133, Y: 77
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 75
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 144, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 77
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 97, Y: 78
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 196, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 187, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 114, Y: 73
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 152, Y: 73
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 121, Y: 80
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 134, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 178, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 187, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 119, Y: 80
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 163, Y: 83
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 173, Y: 73
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 181, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 112, Y: 74
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 111, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 77
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 75
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 168, Y: 70
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 138, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 184, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 124, Y: 74
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 199, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 130, Y: 70
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 75
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 191, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 159, Y: 80
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 114, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 145, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 105, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 201, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 118, Y: 83
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 75
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 135, Y: 78
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 153, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 99, Y: 77
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 195, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 197, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 188, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 137, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 200, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 175, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 176, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 82
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 106, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 158, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 177, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 82
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 147, Y: 74
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 148, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 95, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 116, Y: 74
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 131, Y: 78
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 129, Y: 70
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 125, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 103, Y: 79
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 128, Y: 85
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 120, Y: 77
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 71
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 166, Y: 74
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 201, Y: 70
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 113, Y: 72
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 186, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 96, Y: 84
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 102, Y: 81
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 115, Y: 83
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 180, Y: 76
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 123, Y: 82
+19:40:00 [Invasion Manager] (Death King) Boss Position (Map: 3, X: 151, Y: 78
+19:42:14 [JoinServerConnection] Disconnected
+19:42:16 [DataServerConnection] Disconnected
+19:42:38 [ServerInfo] ChaosMix loaded successfully
+19:42:38 [ServerInfo] Character loaded successfully
+19:42:38 [ServerInfo] Command loaded successfully
+19:42:38 [ServerInfo] Common loaded successfully
+19:42:38 [ServerInfo] Custom loaded successfully
+19:42:38 [ServerInfo] Event loaded successfully
+19:42:38 [ServerInfo] EventItemBag loaded successfully
+19:42:38 [ServerInfo] Hack loaded successfully
+19:42:38 [ServerInfo] Item loaded successfully
+19:42:38 [ServerInfo] Monster loaded successfully
+19:42:38 [ServerInfo] Move loaded successfully
+19:42:38 [ServerInfo] Quest loaded successfully
+19:42:38 [ServerInfo] Shop loaded successfully
+19:42:38 [ServerInfo] Skill loaded successfully
+19:42:38 [ServerInfo] Util loaded successfully
+19:42:38 [Blood Castle] (1) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (1) SetState EMPTY
+19:42:38 [Blood Castle] (2) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (2) SetState EMPTY
+19:42:38 [Blood Castle] (3) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (3) SetState EMPTY
+19:42:38 [Blood Castle] (4) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (4) SetState EMPTY
+19:42:38 [Blood Castle] (5) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (5) SetState EMPTY
+19:42:38 [Blood Castle] (6) Sync Start Time. [137] min remain
+19:42:38 [Blood Castle] (6) SetState EMPTY
+19:42:38 [Devil Square] (1) Sync Start Time. [167] min remain
+19:42:38 [Devil Square] (1) SetState EMPTY
+19:42:38 [Devil Square] (2) Sync Start Time. [167] min remain
+19:42:38 [Devil Square] (2) SetState EMPTY
+19:42:38 [Devil Square] (3) Sync Start Time. [167] min remain
+19:42:38 [Devil Square] (3) SetState EMPTY
+19:42:38 [Devil Square] (4) Sync Start Time. [167] min remain
+19:42:38 [Devil Square] (4) SetState EMPTY
+19:42:38 [Bingo] Sync Start Time. [147] min remain
+19:42:38 [Bingo] SetState EMPTY
+19:42:38 [JoinServerConnection] Connected
+19:42:38 [DataServerConnection] Connected
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 192
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 193
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 193
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 193
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 196
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 192
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 135, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 192
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 133, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 192
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 196
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 195
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 193
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 200
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 202
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 196
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 131, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 136, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 138, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 190
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 194
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 129, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 134, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 198
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 125, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 128, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 201
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 132, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 137, Y: 193
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 130, Y: 191
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 127, Y: 199
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 126, Y: 197
+19:45:00 [Invasion Manager] (Death King) Boss Position (Map: 0, X: 139, Y: 196
+19:47:30 [JoinServerConnection] Disconnected
+19:47:32 [DataServerConnection] Disconnected

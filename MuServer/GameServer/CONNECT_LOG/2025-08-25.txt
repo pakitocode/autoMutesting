@@ -1,0 +1,45 @@
+09:09:49 [SocketManager] Server started at port [55901]
+09:10:12 [ObjectManager][9000] AddClient (192.168.2.65)
+09:10:16 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:10:20 [ObjectManager][9000] AddCharacterInfo (pakito)
+09:11:55 [ObjectManager][9000] DelCharacterInfo (pakito)
+09:11:55 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:11:55 [ObjectManager][9000] DelClient (192.168.2.65)
+09:12:26 [ObjectManager][9000] AddClient (192.168.2.65)
+09:12:30 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:12:33 [ObjectManager][9000] AddCharacterInfo (pakito)
+09:13:32 [ObjectManager][9000] DelCharacterInfo (pakito)
+09:13:32 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:13:32 [ObjectManager][9000] DelClient (192.168.2.65)
+09:13:59 [SocketManager] Server started at port [55901]
+09:14:22 [ObjectManager][9000] AddClient (192.168.2.65)
+09:14:26 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:14:29 [ObjectManager][9000] AddCharacterInfo (pakito)
+09:19:20 [ObjectManager][9000] DelCharacterInfo (pakito)
+09:19:20 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:19:20 [ObjectManager][9000] DelClient (192.168.2.65)
+09:20:42 [SocketManager] Server started at port [55901]
+09:20:57 [ObjectManager][9000] AddClient (192.168.2.65)
+09:21:02 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:21:05 [ObjectManager][9000] AddCharacterInfo (pakito)
+09:21:50 [ObjectManager][9000] DelCharacterInfo (pakito)
+09:21:50 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+09:21:50 [ObjectManager][9000] DelClient (192.168.2.65)
+09:22:15 [JoinServerConnection] connect() failed with error: 10061
+11:29:17 [SocketManager] Server started at port [55901]
+11:29:35 [ObjectManager][9000] AddClient (192.168.2.65)
+11:29:40 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:29:44 [ObjectManager][9000] AddCharacterInfo (pakito)
+11:30:13 [ObjectManager][9000] DelCharacterInfo (pakito)
+11:30:13 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+11:30:13 [ObjectManager][9000] DelClient (192.168.2.65)
+15:31:01 [SocketManager] Server started at port [55901]
+15:31:12 [ObjectManager][9000] AddClient (192.168.2.65)
+15:31:16 [ObjectManager][9000] AddAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:31:19 [ObjectManager][9000] AddCharacterInfo (pakito)
+15:31:51 [ObjectManager][9000] DelCharacterInfo (pakito)
+15:31:51 [ObjectManager][9000] DelAccountInfo (pakito)(42B1E468-F8901019-F45BE2BD-3B4ED8E7)
+15:31:51 [ObjectManager][9000] DelClient (192.168.2.65)
+20:46:23 [SocketManager] Server started at port [55901]
+20:47:28 [JoinServerConnection] connect() failed with error: 10061
+21:06:09 [SocketManager] Server started at port [55901]

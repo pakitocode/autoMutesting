@@ -41,6 +41,8 @@
 #include "Util.h"
 #include "Viewport.h"
 #include "Warehouse.h"
+#include "CustomAttack.h"
+#include "CustomPick.h"
 
 int gObjCount;
 
@@ -232,10 +234,10 @@ void gObjSetExperienceTable()
 {
 	memset(gLevelExperience, 0, sizeof(gLevelExperience));
 
-	// Par�metros ajustables
-	double maxExperience = DWORD_MAX * 0.95; // Aproximar al m�ximo seguro
+	// Par�metros ajustables
+	double maxExperience = DWORD_MAX * 0.95; // Aproximar al m�ximo seguro
 
-	// Ajustar el multiplicador din�micamente
+	// Ajustar el multiplicador din�micamente
 	double scaleFactor = maxExperience / pow(gServerInfo.m_MaxCharacterLevel, 3);
 
 	for (int level = 1; level <= gServerInfo.m_MaxCharacterLevel; level++)
@@ -255,6 +257,7 @@ void gObjCharZeroSet(int aIndex)
 	lpObj->EnableDelCharacter = 1;
 
 	lpObj->TimeCount = 0;
+	lpObj->LastUsedSkill = 0; // Hoặc -1 tùy bạn
 
 	lpObj->PKTickCount = 0;
 
@@ -508,6 +511,44 @@ void gObjCharZeroSet(int aIndex)
 	memset(lpObj->AutoAddPointStats, 0, sizeof(lpObj->AutoAddPointStats));
 
 	memset(lpObj->AutoResetStats, 0, sizeof(lpObj->AutoResetStats));
+	/*Attack & Pick Custom add By Siniestro*/
+	lpObj->AttackCustom = 0;
+
+	lpObj->AttackCustomTime = 0;
+
+	lpObj->AttackCustomSkill = 0;
+
+	lpObj->AttackCustomDelay = 0;
+
+	lpObj->AttackCustomZoneX = 0;
+
+	lpObj->AttackCustomZoneY = 0;
+
+	lpObj->AttackCustomZoneMap = 0;
+
+	lpObj->AttackCustomOffline = 0;
+
+	lpObj->AttackCustomOfflineTime = 0;
+
+	lpObj->AttackCustomAutoBuff = 0;
+
+	lpObj->AttackCustomAutoBuffDelay = 0;
+
+	lpObj->DisablePvp = 0;
+
+	lpObj->PickupEnable = 0;
+
+	lpObj->PickupExc = 0;
+
+	lpObj->PickupSocket = 0;
+
+	lpObj->PickupSetItem = 0;
+
+	for (int i = 0; i < 20; i++) // Giả sử bạn định nghĩa MAX_CUSTOMPICK là 20
+	{
+    	lpObj->Pickup[i] = -1;
+	}
+	/*end*/
 
 	lpObj->CommandManagerTransaction = 0;
 
@@ -2234,6 +2275,7 @@ void gObjSecondProc()
 
 			if (lpObj->Type == OBJECT_USER)
 			{
+				gCustomAttack.OnAttackSecondProc(lpObj);
 				gObjCheckMapTile(lpObj, 3);
 
 				GCHealthBarSend(lpObj->Index);
@@ -2912,3 +2954,15 @@ bool gObjCheckAutoParty(LPOBJ lpObj, LPOBJ lpTarget)
 
 	return 1;
 }
+/*Pick Custom add By Siniestro*/
+void gObjPickProc() // OK
+{
+	for(int n=OBJECT_START_USER;n < MAX_OBJECT;n++)
+	{
+		if(gObjIsConnectedGP(n) != 0)
+		{
+			gCustomPick.PickProc(&gObj[n]);
+		}
+	}
+}
+/*end*/

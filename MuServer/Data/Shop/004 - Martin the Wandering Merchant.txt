@@ -4,6 +4,32 @@
 //SLOTS X = 0~7 , Y = 0~14 , * = Orden original
 //Index	Level	Dur	Skill	Luck	Option	ExcOp	SlotX	SlotY	Comment
 
+//--- Org ---
+12,007	0	255	0	0	0	0	*	*	// Orb of Twisting Slash
+12,012	0	255	0	0	0	0	*	*	// Orb of Rageful Blow
+12,013	0	255	0	0	0	0	*	*	// Orb of of Impale
+12,016	0	255	0	0	0	0	*	*	// Orb of Fire Slash
+12,014	0	255	0	0	0	0	*	*	// Orb of Greater Fortitude
+12,019	0	255	0	0	0	0	*	*	// Orb of Death Stab
+//--- Set Dragon ---
+07,001	0	255	0	0	0	0	*	*	// Dragon Helm
+08,001	0	255	0	0	0	0	*	*	// Dragon Armor
+09,001	0	255	0	0	0	0	*	*	// Dragon Pants
+10,001	0	255	0	0	0	0	*	*	// Dragon Gloves
+11,001	0	255	0	0	0	0	*	*	// Dragon Boots
 
+//--- Set Leather ---
+07,005	0	255	0	0	0	0	*	*	// Leather Helm
+08,005	0	255	0	0	0	0	*	*	// Leather Armor
+09,005	0	255	0	0	0	0	*	*	// Leather Pants
+10,005	0	255	0	0	0	0	*	*	// Leather Gloves
+11,005	0	255	0	0	0	0	*	*	// Leather Boots
+
+//--- Vũ khí cho DK ---
+00,000	0	255	0	0	0	0	*	*	// Kris
+00,001	0	255	0	0	0	0	*	*	// Short Sword
+01,000	0	255	0	0	0	0	*	*	// Small Axe
+01,001	0	255	0	0	0	0	*	*	// Hand Axe
+02,000	0	255	0	0	0	0	*	*	// Mace
 
 end

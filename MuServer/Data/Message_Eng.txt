@@ -185,4 +185,20 @@
 110	"Your inventory is full."
 111	"You've reached the maximum zen."
 112	"You don't have enough zen."
+
+//----------------------------------------------------------------------------------------------------
+// Reset update
+//----------------------------------------------------------------------------------------------------
+113	"Reset configuration not found for your current reset."
+114	"You do not have enough level to reset."
+115	"You do not have enough Zen."
+116	"You do not have the required items."
+117	"Reset successful!"
+
+//----------------------------------------------------------------------------------------------------
+// Auto play
+//----------------------------------------------------------------------------------------------------
+118	"Auto ON"
+119	"Auto OFF"
+120	"You have not learned a suitable auto attack skill."
 end

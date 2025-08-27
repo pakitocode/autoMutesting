@@ -51,7 +51,7 @@ end
 2
 //Index	Rate0	Rate1	Comment
 0	9600	400	//Luck Option (Common)
-1	9900	100	//Luck Option (Exc)
+1	7000	3000	//Luck Option (Exc)
 2	8000	2000	//Luck Option (ChaosItemMix)
 3	8000	2000	//Luck Option (Wing2Mix)
 4	8000	2000	//Luck Option (Wing1Mix)
@@ -64,7 +64,7 @@ end
 3
 //Index	Rate0	Rate1	Rate2	Rate3	Rate4	Rate5	Rate6	Rate7	Comment
 0	9600	150	100	50	0	0	0	0	//JoL Option (Common)
-1	10000	0	0	0	0	0	0	0	//JoL Option (Exc)
+1	5000	2500	2500	0	0	0	0	0	//JoL Option (Exc)
 2	7900	1200	600	300	0	0	0	0	//JoL Option (ChaosItemMix)
 3	7900	1200	600	300	0	0	0	0	//JoL Option (Wing2Mix)
 4	7900	1200	600	300	0	0	0	0	//JoL Option (Wing1Mix)
@@ -95,7 +95,7 @@ end
 4
 //Index	Rate0	Rate1	Rate2	Rate3	Rate4	Rate5	Rate6	Comment
 0	10000	0	0	0	0	0	0	//Exc Option (Common)
-1	0	7500	2500	0	0	0	0	//Exc Option (Exc)
+1	0	10000	0	0	0	0	0	//Exc Option (Exc)
 2	7000	2400	600	0	0	0	0	//Exc Option (DinorantMix)
 3	8000	2000	0	0	0	0	0	//Exc Option (Wing2Mix)
 4	8000	2000	0	0	0	0	0	//Exc Option (Wing2Mix)

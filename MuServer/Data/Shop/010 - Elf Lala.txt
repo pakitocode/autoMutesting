@@ -4,6 +4,47 @@
 //SLOTS X = 0~7 , Y = 0~14 , * = Orden original
 //Index	Level	Dur	Skill	Luck	Option	ExcOp	SlotX	SlotY	Comment
 
+//--- Máu và Mana ---
+14,001	0	255	0	0	0	0	*	*	// Small Healing Potion
+14,002	0	255	0	0	0	0	*	*	// Medium Healing Potion
+14,003	0	255	0	0	0	0	*	*	// Large Healing Potion
+14,004	0	255	0	0	0	0	*	*	// Small Mana Potion
+14,005	0	255	0	0	0	0	*	*	// Medium Mana Potion
+14,006	0	255	0	0	0	0	*	*	// Large Mana Potion
+
+//--- Vũ khí cho Elf ---
+04,007	11	255	0	0	0	0	*	*	// Arrow
+04,015	11	255	0	0	0	0	*	*	// Crossbow Bolt
+04,007	0	255	0	0	0	0	*	*	// Arrow
+04,015	0	255	0	0	0	0	*	*	// Crossbow Bolt
+12,008	0	255	0	0	0	0	*	*	// Healing Orb
+12,009	0	255	0	0	0	0	*	*	// Orb of Greater Defense
+12,010	0	255	0	0	0	0	*	*	// Orb of Greater Damage
+12,010	0	255	0	0	0	0	*	*	// Orb of Summoning
+12,017	0	255	0	0	0	0	*	*	// Orb of Penetration
+12,018	0	255	0	0	0	0	*	*	// Orb of Ice Arrow
+//--- Khác ---
+14,009	0	255	0	0	0	0	*	*	// Armor of Guardian
+14,010	0	255	0	0	0	0	*	*	// Town Portal Scroll
+13,018	1	255	0	0	0	0	*	*	// Vé Blood
+13,018	2	255	0	0	0	0	*	*	// Vé Blood
+13,018	3	255	0	0	0	0	*	*	// Vé Blood
+13,018	4	255	0	0	0	0	*	*	// Vé Blood
+13,018	5	255	0	0	0	0	*	*	// Vé Blood
+13,018	6	255	0	0	0	0	*	*	// Vé Blood
 
 
+14,019	1	255	0	0	0	0	*	*	// Vé Devil
+14,019	2	255	0	0	0	0	*	*	// Vé Devil
+14,019	3	255	0	0	0	0	*	*	// Vé Devil
+14,019	4	255	0	0	0	0	*	*	// Vé Devil
+
+//--- Elf set  ---
+07,010	0	255	0	0	0	0	*	*	// Vine Helm
+08,010	0	255	0	0	0	0	*	*	// Vine Armor
+09,010	0	255	0	0	0	0	*	*	// Vine Pants
+10,010	0	255	0	0	0	0	*	*	// Vine Gloves
+11,010	0	255	0	0	0	0	*	*	// Vine Boots
+04,000	0	255	0	0	0	0	*	*	// Short Bow
+04,001	0	255	0	0	0	0	*	*	// Bow
 end

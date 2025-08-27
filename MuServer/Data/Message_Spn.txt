@@ -185,4 +185,13 @@
 110	"Tu inventario está lleno."
 111	"Has alcanzado el máximo zen."
 112	"No tienes suficiente zen."
+
+//----------------------------------------------------------------------------------------------------
+// Reset update
+//----------------------------------------------------------------------------------------------------
+113	"Reset configuration not found for your current reset."
+114	"You do not have enough level to reset."
+115	"You do not have enough Zen."
+116	"You do not have the required items."
+117	"Reset successful!"
 end

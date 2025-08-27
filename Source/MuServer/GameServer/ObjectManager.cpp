@@ -1927,6 +1927,37 @@ void CObjectManager::CharacterCalcBP(LPOBJ lpObj)
 void CObjectManager::CharacterCalcAttribute(int aIndex)
 {
 	LPOBJ lpObj = &gObj[aIndex];
+	// ===================[ BAT DAU CODE SUA LOI ]===================
+	// Vòng lặp kiểm tra lại toàn bộ trang bị trên người
+	for (int n = 0; n < INVENTORY_WEAR_SIZE; n++)
+	{
+		// Bỏ qua các ô trống
+		if (lpObj->Inventory[n].IsItem() == false)
+		{
+			continue;
+		}
+
+		// RULE: Bỏ qua việc kiểm tra đối với Wing (ô trang bị số 7)
+		if (n == 7)
+		{
+			lpObj->Inventory[n].m_IsValidItem = true; // Luôn coi Wing là hợp lệ
+			continue; // Chuyển sang kiểm tra item tiếp theo
+		}
+
+		CItem* lpItem = &lpObj->Inventory[n];
+		bool requirements_met = true; // Giả sử là đủ điều kiện
+
+		// Kiểm tra các yêu cầu trực tiếp với chỉ số gốc của nhân vật
+		if (lpObj->Level < lpItem->m_RequireLevel) { requirements_met = false; }
+		if (lpObj->Strength < lpItem->m_RequireStrength) { requirements_met = false; }
+		if (lpObj->Dexterity < lpItem->m_RequireDexterity) { requirements_met = false; }
+		if (lpObj->Energy < lpItem->m_RequireEnergy) { requirements_met = false; }
+		if (lpObj->Vitality < lpItem->m_RequireVitality) { requirements_met = false; }
+		
+		// Gán kết quả kiểm tra vào cờ m_IsValidItem
+		lpItem->m_IsValidItem = requirements_met;
+	}
+	// ===================[ KET THUC CODE SUA LOI ]===================
 
 	if (lpObj->Type != OBJECT_USER)
 	{

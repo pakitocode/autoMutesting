@@ -1,0 +1,5 @@
+13:47:20 [FruitMix][Success][pakito][pakito] - (ChaosSuccessRate: 90, ChaosMoney: 3000000)
+16:39:02 [FruitMix][Success][pakito][pakito] - (ChaosSuccessRate: 90, ChaosMoney: 3000000)
+16:39:15 [FruitMix][Success][pakito][pakito] - (ChaosSuccessRate: 90, ChaosMoney: 3000000)
+16:39:25 [FruitMix][Success][pakito][pakito] - (ChaosSuccessRate: 90, ChaosMoney: 3000000)
+16:39:35 [FruitMix][Success][pakito][pakito] - (ChaosSuccessRate: 90, ChaosMoney: 3000000)

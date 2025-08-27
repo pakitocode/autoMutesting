@@ -1,0 +1,8 @@
+13:44:23 [CommandPost][pakito][pakito] - (Message: test)
+14:35:31 [CommandReset][pakito][pakito] - (Reset: 1)
+14:38:35 [CommandAddPoint][pakito][pakito] - (Type: 1, Amount: 13000)
+15:02:42 [CommandReset][pakito][pakito] - (Reset: 2)
+16:35:11 [CommandAddPoint][pakito][pakito] - (Type: 3, Amount: 5170)
+16:43:14 [CommandDrop][pakito][pakito] - (Section: 13, Type: 12, Level: 0, Skill: 0, Luck: 0, Option: 0, Exc: 0)
+16:43:30 [CommandDrop][pakito][pakito] - (Section: 13, Type: 12, Level: 6, Skill: 0, Luck: 0, Option: 0, Exc: 0)
+16:45:00 [CommandDrop][pakito][pakito] - (Section: 13, Type: 12, Level: 6, Skill: 7, Luck: 0, Option: 0, Exc: 123)

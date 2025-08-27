@@ -1,0 +1,40 @@
+Game play
+
+Fruit 50% sucess
+Soul - life : 45%
+Party different class more exp
+Server: open 6am, close 23h30pm moi ngay
+VIp1 + exp
+Vip2 + exp reset
+Vip3 + exp reset chaos rate drop rate
+
+Check list:
+
+Shop list
+item drop list (chao, bless, soul. cre, feather,exl items)
+item drop rate (chao, bless, soul. cre, feather,exl items)
+exp
+monster train area
+monster exp
+event
+event drop
+boss
+boss drop
+rule reset
+auto train + auto pick
+
+
+
+
+
+Custom items
+Custom % add for item 11
+Payment credit (nap vip, het han xuong AL0)
+Vip benefit
+Balance class (files in folder GameServer/Data)
+Ratio chaos mix + bring chaos mix notice from custom
+Happy hour
+
+
+
+

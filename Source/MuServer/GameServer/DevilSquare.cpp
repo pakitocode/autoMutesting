@@ -1454,7 +1454,8 @@ void CDevilSquare::CGDevilSquareEnterRecv(PMSG_DEVIL_SQUARE_ENTER_RECV* lpMsg, i
 		return;
 	}
 
-	gItemManager.DecreaseItemDur(lpObj, lpMsg->slot, 1);
+	gItemManager.InventoryDelItem(aIndex, lpMsg->slot);
+	gItemManager.GCItemDeleteSend(aIndex, lpMsg->slot, 1);
 
 	DataSend(aIndex, (BYTE*)&pMsg, pMsg.header.size);
 

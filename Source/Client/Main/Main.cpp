@@ -30,6 +30,10 @@
 #include "WeaponView.h"
 #include "Window.h"
 
+
+
+
+
 HINSTANCE hins;
 
 extern "C" _declspec(dllexport) void _cdecl EntryProc()
@@ -129,7 +133,10 @@ extern "C" _declspec(dllexport) void _cdecl EntryProc()
 	gProtect.CheckClientFile();
 
 	gProtect.CheckPluginFile();
+
 }
+
+
 
 BOOL APIENTRY DllMain(HMODULE hModule, DWORD ul_reason_for_call, LPVOID lpReserved)
 {

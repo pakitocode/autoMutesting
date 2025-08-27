@@ -4,6 +4,33 @@
 //SLOTS X = 0~7 , Y = 0~14 , * = Orden original
 //Index	Level	Dur	Skill	Luck	Option	ExcOp	SlotX	SlotY	Comment
 
+//--- Sách phép cho DW ---
+15,000	0	255	0	0	0	0	*	*	// Scroll of Poison
+15,001	0	255	0	0	0	0	*	*	// Scroll of Meteorite
+15,002	0	255	0	0	0	0	*	*	// Scroll of Lightning
+15,003	0	255	0	0	0	0	*	*	// Scroll of Fire Ball
+15,004	0	255	0	0	0	0	*	*	// Scroll of Flame
+15,005	0	255	0	0	0	0	*	*	// Scroll of Teleport
+15,006	0	255	0	0	0	0	*	*	// Scroll of Ice
+15,007	0	255	0	0	0	0	*	*	// Scroll of Twister
+15,008	0	255	0	0	0	0	*	*	// Scroll of Evil Spirit
+15,009	0	255	0	0	0	0	*	*	// Scroll of Hellfire
+15,010	0	255	0	0	0	0	*	*	// Scroll of Power Wave
+15,011	0	255	0	0	0	0	*	*	// Scroll of Aqua Beam
+15,012	0	255	0	0	0	0	*	*	// Scroll of Cometfall
+15,013	0	255	0	0	0	0	*	*	// Scroll of Inferno
+15,014	0	255	0	0	0	0	*	*	// Scroll of Teleport Ally
+15,015	0	255	0	0	0	0	*	*	// Scroll of Soul Barrier
 
+//--- Gậy và Khiên ---
+05,001	0	255	0	0	0	0	*	*	// Skull Staff
+06,000	0	255	0	0	0	0	*	*	// Small Shield
+
+//--- Set Pad (Đồ Vải) ---
+07,002	0	255	0	0	0	0	*	*	// Pad Helm
+08,002	0	255	0	0	0	0	*	*	// Pad Armor
+09,002	0	255	0	0	0	0	*	*	// Pad Pants
+10,002	0	255	0	0	0	0	*	*	// Pad Gloves
+11,002	0	255	0	0	0	0	*	*	// Pad Boots
 
 end
